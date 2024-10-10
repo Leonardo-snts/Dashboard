@@ -1,0 +1,1001 @@
+código_venda,código_barras,nome_produto,categoria_produto,preço_produto,status_compra,data_compra,comprador,email_comprador,pais_compra,quantidade_comprada,média_por_categoria,média_por_pais
+7bfaf3a6-bf7d-40f9-b0c2-f1ba3d5e0ef2,0488370954893,Bicicleta,Brinquedos,R$639.00,Concluída,2023-12-26,Michelle Howard,luistucker@example.net,Rwanda,6,5.394736842105263,4.8
+7922b2d7-c329-44f1-828f-0945cd964d21,9341040704505,Jogo de tabuleiro,Brinquedos,R$119.00,Pendente,2024-06-10,Daniel Jones,katrinarobinson@example.com,Jamaica,6,5.394736842105263,6.25
+a8b7b00a-1d39-4a28-a7f9-dafa2faa99f1,5257961767915,Perfume,Beleza,R$665.00,Concluída,2023-12-08,Jerry Woodward,natasha74@example.com,United States Virgin Islands,3,6.027522935779817,4.0
+c487635e-d6e9-4125-beeb-be2498f2bf2f,9788822744364,Científico,Livros,R$751.00,Pendente,2024-09-08,Jeffrey Parker,ddean@example.org,New Caledonia,3,5.7560975609756095,5.0
+44e13cb0-21db-49f5-924c-47d4cb6d6f08,2183283543179,Frutas,Alimentos,R$824.00,Cancelada,2024-08-20,Caroline Macias,jessica84@example.org,Brazil,10,5.861386138613861,4.714285714285714
+1a62421f-9029-4933-ace9-ecf23ebcf346,0107475537243,Aluguel de carro,Viagens,R$325.00,Concluída,2023-12-15,Andrea Eaton,garzastephen@example.net,Holy See (Vatican City State),7,4.885416666666667,6.0
+9713d6fc-30c0-49d7-8568-ad8958cdb7bc,4858978469253,Religioso,Livros,R$581.00,Pendente,2024-04-06,Robert Case,antoniomartinez@example.com,Guernsey,10,5.7560975609756095,6.2
+209456bb-2e57-426d-94ab-e041bfd9be5a,9117680830009,Barra fixa,Esporte,R$947.00,Pendente,2024-06-22,Becky Chapman,kellyjohnson@example.com,Liberia,2,5.68141592920354,4.714285714285714
+c4967401-c313-4023-b18e-42e715ec9dec,0310327374761,Microondas,Casa,R$460.00,Cancelada,2024-04-03,Bryce Phelps,kellyscott@example.com,Micronesia,7,6.032967032967033,5.8
+3802bd14-7ad3-4070-94ef-0ca7b2f10a06,4542702894076,Video game,Brinquedos,R$564.00,Pendente,2024-05-29,Brian Macias,martingeoffrey@example.org,Taiwan,4,5.394736842105263,5.4
+ef71e2f5-4a9c-4129-81b1-9f4e63ec8757,7542168057821,Protetor bucal,Esporte,R$496.00,Concluída,2023-12-28,Dawn Howard,zsmith@example.org,Belarus,10,5.68141592920354,7.25
+e0e54e99-760a-4634-b41d-5317da7853cd,1358282393488,Feijão,Alimentos,R$992.00,Pendente,2024-08-07,Joseph Washington,holdenholly@example.com,Turkey,9,5.861386138613861,9.5
+bff5b9f4-a4c1-4eb9-b49f-f49a50d89ee8,9640810518657,Bola de futebol,Esporte,R$275.00,Cancelada,2023-12-13,Robert Howell,austin60@example.org,Qatar,10,5.68141592920354,5.5
+c5233a6a-21fd-49b6-9f14-a68c32065545,6818785959796,Console,Eletrônicos,R$174.00,Concluída,2024-05-21,Rick Rivera,scabrera@example.org,Northern Mariana Islands,9,5.326315789473684,5.428571428571429
+8e57f360-f9be-4470-9447-1a69bd8b9ca4,0761588950001,Microondas,Casa,R$563.00,Cancelada,2024-03-31,William Vincent,cochransarah@example.net,Portugal,1,6.032967032967033,4.333333333333333
+17249dbc-208c-415e-82f7-33d4d5a7e644,1142036849327,Protetor bucal,Esporte,R$811.00,Concluída,2024-06-13,Todd Moody,tina60@example.net,Guernsey,5,5.68141592920354,6.2
+c3868b96-7020-4d33-b3c0-5e8d42ceea0a,9144003280531,Câmera,Eletrônicos,R$587.00,Concluída,2024-06-12,Christina Smith,ysmith@example.com,Romania,4,5.326315789473684,5.75
+82bd97b6-b6ad-4215-bfb4-0434fc2d235b,3417801173845,Roupa esportiva,Esporte,R$406.00,Concluída,2023-10-18,Katherine Doyle,amandadeleon@example.org,Barbados,6,5.68141592920354,7.0
+5dc7c83b-1f42-4f61-b268-584b7f23d98c,8302868726453,Computador,Escritório,R$715.00,Cancelada,2024-10-08,Candice White,djensen@example.com,Senegal,4,5.842592592592593,5.0
+cd5e5aa7-fa5c-42da-be15-b6354579ff5a,8219013288448,Macarrão,Alimentos,R$302.00,Concluída,2024-04-18,Carrie Bailey,roberthall@example.net,Saint Vincent and the Grenadines,6,5.861386138613861,6.75
+8d8b26a0-1504-4895-b77e-8b871ca1a211,1147456109679,Esmalte,Beleza,R$841.00,Concluída,2024-02-20,Mr. Joshua Wells,garrett51@example.org,Papua New Guinea,10,6.027522935779817,7.666666666666667
+5f001a76-9559-4bd2-8e69-2a7ec9506c30,4045361444250,Tônico,Beleza,R$930.00,Pendente,2024-06-17,William Smith,andrewgreen@example.com,Monaco,4,6.027522935779817,6.666666666666667
+c6baf0e9-e5cd-4291-a627-d8b4149329b2,2933927716342,História,Livros,R$791.00,Pendente,2024-06-26,Jackie Payne,timothy63@example.com,Thailand,3,5.7560975609756095,4.666666666666667
+4c6c4d01-94b6-4345-842d-549fa7e6d14d,1571515676572,Saia,Vestuário,R$659.00,Concluída,2023-10-24,Martha Wang,brittany59@example.net,Gambia,4,5.21978021978022,4.625
+5d9e2675-7127-476e-9b3f-4f827ebcf88c,3025723465629,Caderno,Escritório,R$872.00,Pendente,2024-03-05,Brooke Bennett,plove@example.net,Spain,6,5.842592592592593,7.5
+68ac944b-2f35-42d1-9c5b-93cc1a22349d,3109124497158,Hidratante,Beleza,R$923.00,Pendente,2024-05-16,James Soto MD,johnsonedward@example.com,Ukraine,4,6.027522935779817,5.5
+822a9927-e0a5-4196-91ac-e8068755c907,9584291227441,Chuteira,Esporte,R$637.00,Pendente,2024-04-10,Emily Blanchard,umiranda@example.net,Pakistan,2,5.68141592920354,4.666666666666667
+b1f53a69-a6bb-4e37-bcae-2b9d6f662bb1,2267526165929,Seguro viagem,Viagens,R$340.00,Pendente,2023-10-20,Mary Mckenzie,markpena@example.org,Zimbabwe,3,4.885416666666667,4.545454545454546
+b93a6f59-4cc8-4b1b-b002-2e95e2df4a52,1412201289976,Lápis,Escritório,R$298.00,Concluída,2024-01-26,Cory Foster,cookjason@example.org,Malawi,7,5.842592592592593,5.444444444444445
+c2b2f6de-cd36-4aba-ac6c-ec585e709316,7964071213598,Científico,Livros,R$465.00,Pendente,2023-12-08,Scott Page,toddzavala@example.net,Cuba,4,5.7560975609756095,6.0
+211ea34e-4a41-4a84-a44c-cfb2e90f22f1,1019241417699,Tênis de corrida,Esporte,R$307.00,Cancelada,2024-08-01,Emily Fernandez DDS,fsweeney@example.net,British Virgin Islands,5,5.68141592920354,7.0
+17e51b71-901d-479e-8663-f0875b7e6aeb,5756225327167,Pão,Alimentos,R$410.00,Cancelada,2023-12-12,Jessica Gardner,ubridges@example.net,Timor-Leste,6,5.861386138613861,5.333333333333333
+bad09492-dda4-48be-8f24-4d94ebc6d34c,3978684561278,História,Livros,R$582.00,Cancelada,2023-12-22,Michele Brock,jonathanfrye@example.net,Bhutan,4,5.7560975609756095,4.333333333333333
+7226f546-254f-4778-b911-3d9948239136,6162829885825,Grampeador,Escritório,R$737.00,Pendente,2024-06-27,Kathleen Gomez,kathleenfisher@example.org,Togo,10,5.842592592592593,8.0
+d2b25311-9684-41f9-922e-9e515783757e,6844411625049,Skate,Esporte,R$487.00,Concluída,2024-06-30,Jessica Morgan,williamssteven@example.org,Montserrat,1,5.68141592920354,4.428571428571429
+822586e7-d707-42a0-bd34-db9452e67a6d,3546365307639,Tênis,Vestuário,R$517.00,Cancelada,2023-11-30,Elizabeth Hoover,twarren@example.net,Chad,3,5.21978021978022,5.0
+74c6c793-2a06-4920-9142-a5d8cac8fd4d,0642300726756,Pão,Alimentos,R$533.00,Concluída,2024-09-15,Joseph Carey,yyoung@example.net,Greenland,10,5.861386138613861,5.2
+5070f81e-50cb-4cf1-90af-fd2317cfd2b5,9600450233433,Carne,Alimentos,R$794.00,Concluída,2024-03-18,Michael Martin,lori30@example.com,Mongolia,6,5.861386138613861,5.25
+02a49152-db61-4807-a266-4f417f914223,5948184704619,Lego,Brinquedos,R$687.00,Cancelada,2024-05-17,Kim Murphy,afischer@example.net,Tanzania,1,5.394736842105263,4.75
+58a6dd1e-7363-4874-8a62-b47ee707ecc4,3245409156898,Notebook,Eletrônicos,R$609.00,Cancelada,2024-01-26,Lori Bell,garywyatt@example.org,Germany,4,5.326315789473684,3.75
+17307fe1-b659-4abc-895d-37fe57e9262f,8059155867725,Hidratante,Beleza,R$710.00,Concluída,2024-03-04,Timothy Coleman,penateresa@example.net,Anguilla,8,6.027522935779817,6.25
+030b122c-f897-4d60-a4e1-d5f0807ac95b,1697546840161,Cruzeiro,Viagens,R$297.00,Pendente,2023-12-15,Michael Solis,alexisgarza@example.net,Saint Lucia,2,4.885416666666667,4.125
+91f3c601-7629-49e5-95af-02daf3c20a8d,3812107653860,Boneca,Brinquedos,R$685.00,Cancelada,2023-12-05,Benjamin Wright,matthewsbrett@example.com,United Kingdom,5,5.394736842105263,6.333333333333333
+9f03d61a-3d11-446c-8e46-7b7198c87978,2911412416373,Hidratante,Beleza,R$344.00,Cancelada,2024-07-30,Edwin Wagner,rachelrodriguez@example.com,Liberia,4,6.027522935779817,4.714285714285714
+7189c152-f4ea-4e39-9c51-84c4a5d526f0,4654912037041,Video game,Brinquedos,R$410.00,Cancelada,2024-01-23,Jon Riggs,katelyn73@example.com,Malaysia,8,5.394736842105263,7.5
+fb9d8f07-113a-4f00-8778-2e648fbe9edc,1478706732553,Guia de viagem,Viagens,R$347.00,Concluída,2024-01-14,Brandi Peterson,yvonne00@example.com,Lebanon,4,4.885416666666667,7.25
+46d4287e-282b-4ae4-aab0-f3db5f4c3134,0023183039599,Boneca,Brinquedos,R$202.00,Concluída,2024-05-23,Michael Medina,nicolejohnson@example.com,Japan,8,5.394736842105263,5.8
+a5c43778-1149-43e8-b91e-1b7da5e9b979,8021858268611,Cadeira,Casa,R$909.00,Concluída,2024-07-25,Mr. Colton Parks,amanda78@example.org,Cameroon,7,6.032967032967033,7.2
+4ef10821-b26c-451f-a2a3-a2cc8fda159d,9288770826957,Ovos,Alimentos,R$820.00,Concluída,2024-06-24,Logan Mcdowell,randy04@example.org,Cuba,10,5.861386138613861,6.0
+5badda81-4624-4248-b7e6-5b257394d13c,6341051335753,Corretivo,Escritório,R$509.00,Pendente,2023-10-18,Deanna James,nancy57@example.net,Colombia,8,5.842592592592593,5.6
+4b366da2-e5c4-4d46-b565-24779221c916,4954639463124,Barra fixa,Esporte,R$382.00,Concluída,2024-01-04,Lindsey Thompson,ewinghunter@example.net,Sweden,6,5.68141592920354,4.0
+c09de069-ea49-4783-b66d-4ff934518682,0831212960307,Poesia,Livros,R$817.00,Pendente,2024-02-25,Luis Burns,markyork@example.com,American Samoa,10,5.7560975609756095,6.4
+1d964f0d-3414-4120-8d37-3f67328ea13b,0441899910153,Carne,Alimentos,R$845.00,Cancelada,2023-12-29,Shannon Luna,ehernandez@example.org,Macao,6,5.861386138613861,6.111111111111111
+b496b052-1ae6-43d8-ba73-8c925ac7682c,5709099961012,Smartphone,Eletrônicos,R$975.00,Pendente,2023-12-26,David Thomas,nicholasbriggs@example.org,Netherlands,10,5.326315789473684,6.5
+bc79dfea-9a63-4b09-84d1-465d91bb45cc,3061826542782,Sofá,Casa,R$559.00,Concluída,2024-09-12,Michelle Foster,davidreed@example.org,Italy,5,6.032967032967033,6.0
+7044f4d2-08a0-4ef3-943c-e58047b1792b,3233419264481,Borracha,Escritório,R$702.00,Pendente,2023-11-18,Samuel Floyd,deborahblack@example.org,Somalia,9,5.842592592592593,5.571428571428571
+ebe01a65-636e-4f60-a138-dd6f4f13d3bb,1262253331990,Patinete,Brinquedos,R$435.00,Concluída,2024-03-22,Gregory Weaver,peter37@example.com,Germany,2,5.394736842105263,3.75
+38e23004-a0c2-4efb-b1ce-735c6718056e,6383280180537,Sofá,Casa,R$983.00,Concluída,2024-10-01,Thomas Mercado,holmesjaime@example.com,South Georgia and the South Sandwich Islands,4,6.032967032967033,4.333333333333333
+fd480ad9-a1b8-455e-ad82-e2737c13a332,5460627479026,Skate,Esporte,R$270.00,Concluída,2024-04-09,Mark Smith,steven55@example.net,Malaysia,9,5.68141592920354,7.5
+16c0a59a-3bbe-48a4-bf27-51bf849b03d8,8290340547958,Máscara,Beleza,R$840.00,Concluída,2024-03-31,Rachel Hill,margaret05@example.com,Madagascar,9,6.027522935779817,6.4
+d2af2ddb-45e6-4aa6-b061-9d0bc51894c5,1180544242513,Drone,Eletrônicos,R$556.00,Concluída,2024-05-14,David Maldonado,anna33@example.com,Guinea,9,5.326315789473684,7.0
+df09ac8c-c0d7-4228-9fe8-0c27218eefba,7836517244179,Liquidificador,Casa,R$321.00,Concluída,2024-01-03,Barbara Campbell,patricia86@example.org,Seychelles,3,6.032967032967033,4.333333333333333
+ec482e5c-2fac-469e-904e-e2720cc3b065,7020731116712,Feijão,Alimentos,R$277.00,Concluída,2024-03-01,Evelyn Hayden,nicholas84@example.net,Cote d'Ivoire,4,5.861386138613861,5.8
+88e48378-07ae-47d7-84cb-73f7fad0d5b6,8274079847541,Notebook,Eletrônicos,R$883.00,Concluída,2023-11-28,Alexis Yang,ncummings@example.com,Bosnia and Herzegovina,6,5.326315789473684,6.2
+1b32682d-238e-4a9c-b7fe-35a24298f6fb,6270909823527,Tesoura,Escritório,R$74.00,Cancelada,2024-09-16,Kevin Norton,marissa63@example.org,Montserrat,1,5.842592592592593,4.428571428571429
+956b2576-4df6-4636-bd25-dfb21c1dedec,4719374415780,Drone,Eletrônicos,R$792.00,Cancelada,2024-08-15,Michael Jimenez,sarah62@example.com,Serbia,10,5.326315789473684,6.8
+8751ceb7-6a4e-4867-946f-5e8f454d20a9,1551564295207,Hidratante,Beleza,R$445.00,Pendente,2024-08-24,Ann Reed,cclark@example.com,Mauritius,3,6.027522935779817,5.285714285714286
+cace2a6e-6e72-48b8-8446-a6e1359b65fa,6311284341036,Fogão,Casa,R$484.00,Cancelada,2024-06-26,Tara Mason,armstrongshawn@example.net,Afghanistan,2,6.032967032967033,4.0
+ff83b56d-2e05-4c64-97bc-0aab2e18eca2,8872172390331,Tênis,Vestuário,R$801.00,Cancelada,2024-07-14,Michael Lewis,janetchavez@example.net,Saint Barthelemy,6,5.21978021978022,7.666666666666667
+97e4ab81-705e-488c-9474-95c178209fa9,9310674321570,Aspirador de Pó,Casa,R$12.00,Pendente,2024-06-18,Jason Castro,jill87@example.net,Turks and Caicos Islands,7,6.032967032967033,6.6
+e8d92a3b-508e-47c1-8c77-021e669fd7f3,2269628956214,Cintos,Vestuário,R$948.00,Pendente,2024-07-26,Kimberly Morgan,michelle09@example.net,Rwanda,3,5.21978021978022,4.8
+9652ce47-9f85-4c7d-b3a9-235651d5c71c,3635095783759,Aspirador de Pó,Casa,R$779.00,Cancelada,2024-07-22,Taylor Garcia,jessica76@example.com,Israel,5,6.032967032967033,3.5
+ab0d5a44-db6d-42fb-bb89-da8f2c873489,8421364865005,Aparelho de musculação,Esporte,R$740.00,Concluída,2024-06-29,Stephen Cardenas,spearsjoel@example.org,Nepal,9,5.68141592920354,5.571428571428571
+04178e1a-3d81-406b-a040-2f0d4ab7de2c,3915271299909,Calça,Vestuário,R$342.00,Cancelada,2023-10-21,Raymond White,matthew51@example.org,Reunion,1,5.21978021978022,4.5
+419432c1-8519-4fdc-93d1-20771312d609,9371226972787,Video game,Brinquedos,R$356.00,Concluída,2024-07-23,Richard Farrell,shelley38@example.net,Saint Barthelemy,10,5.394736842105263,7.666666666666667
+ea15f151-df00-46e3-86fe-519a4b27ece4,0607919092616,Protetor bucal,Esporte,R$117.00,Cancelada,2024-08-16,Jamie Smith,michaelmurphy@example.net,Bermuda,2,5.68141592920354,5.8
+f992a82b-00c6-4fff-bbd6-10c7d528fdac,8837435327134,Calça,Vestuário,R$582.00,Pendente,2023-12-06,Jonathan Mora,rossdiane@example.net,Cape Verde,1,5.21978021978022,4.5
+1515a415-abad-4828-88d2-87c02383992e,1897314639021,Carne,Alimentos,R$81.00,Concluída,2024-01-15,Colton Carr,williamsriley@example.org,Seychelles,2,5.861386138613861,4.333333333333333
+9a488505-560a-4d8d-b937-fe34b88d3fc4,1811590059229,Cruzeiro,Viagens,R$774.00,Pendente,2024-09-24,Bryan Bradley,taylormary@example.net,Qatar,1,4.885416666666667,5.5
+a81a91be-1c00-41fe-ab3d-218a27d90cf0,3788635760984,Tênis,Vestuário,R$197.00,Concluída,2024-05-26,Jeremiah Clark,fperez@example.org,Moldova,8,5.21978021978022,6.555555555555555
+7b339bc9-b488-4569-ac40-d4675835f506,1922273068237,Esmalte,Beleza,R$767.00,Concluída,2023-10-27,Vicki Daniels,gardneremma@example.com,Finland,7,6.027522935779817,6.5
+91210295-68b2-4fae-9648-9c2398171d23,1765311211024,Maquiagem,Beleza,R$809.00,Cancelada,2023-10-19,Catherine Meyers,wardjonathan@example.net,Bangladesh,7,6.027522935779817,5.5
+d70e6d00-5dfc-4641-a3ea-794813973de7,6545064216836,Computador,Escritório,R$360.00,Concluída,2023-10-09,John Cruz,srichardson@example.org,Djibouti,1,5.842592592592593,4.666666666666667
+2921d4c1-33ed-4ccb-912e-2134ed89ec58,5593988993686,Caneta,Escritório,R$798.00,Pendente,2023-12-08,Robert Williams,monicamurphy@example.org,Gabon,3,5.842592592592593,3.0
+f0a6b1ac-76b8-49af-9d70-a238914f17c8,3181336870899,Raquete de tênis,Esporte,R$834.00,Pendente,2023-12-28,Kathryn Oliver,sarah52@example.com,Bahamas,4,5.68141592920354,2.5
+b0f73f0b-7d07-4260-a7ea-f29ec9dc6e2c,1468926408130,Barra fixa,Esporte,R$197.00,Concluída,2024-04-26,Stacy Kelley,crystal99@example.com,Kenya,4,5.68141592920354,5.0
+3b94d650-8073-425f-a4b8-fa8f4c35d31d,2053832700813,Passeio turístico,Viagens,R$435.00,Concluída,2023-11-04,Hannah Brandt,bennettgeoffrey@example.com,Zimbabwe,3,4.885416666666667,4.545454545454546
+fc8800e4-7826-4172-8ef2-f856379ade8c,1644875540507,Poesia,Livros,R$864.00,Pendente,2024-01-16,Ashley Nelson,frodriguez@example.com,Martinique,10,5.7560975609756095,4.2
+9c9ee8e8-d62d-4f6b-b16c-9d595b36a526,6594708505805,Óculos,Vestuário,R$177.00,Pendente,2023-11-21,James Aguilar,kedwards@example.org,Chad,7,5.21978021978022,5.0
+3c186a15-9a28-4e54-b49a-f924e51dd014,0270966133207,Sofá,Casa,R$136.00,Pendente,2023-11-12,Jason Fleming,lsnow@example.net,Puerto Rico,3,6.032967032967033,3.5
+333e598c-a700-4324-a1a7-3899f698024c,9682110283118,Impressora,Escritório,R$361.00,Cancelada,2024-04-17,William Romero,eherrera@example.org,Colombia,3,5.842592592592593,5.6
+2c50e323-640e-4559-815c-a551b54a7a40,4645548754624,Fones de Ouvido,Eletrônicos,R$389.00,Concluída,2024-06-16,Courtney Spencer,qrobinson@example.com,Greece,10,5.326315789473684,6.0
+34fff5a7-f976-4476-a9d0-7bcf35743c10,3004704210717,Protetor bucal,Esporte,R$132.00,Concluída,2024-05-27,Ricardo Fields,cadams@example.com,Russian Federation,7,5.68141592920354,6.5
+ffbaca32-ed06-467a-acae-86d295b9c4f2,7097348825986,Mala,Viagens,R$836.00,Concluída,2024-01-22,Sharon Spencer,kcastro@example.net,Cayman Islands,3,4.885416666666667,5.0
+3092b53f-b14e-4826-86d5-75ba44c460a3,4327918745165,Boneca,Brinquedos,R$328.00,Pendente,2024-05-06,Elizabeth Townsend,jamesallen@example.com,American Samoa,9,5.394736842105263,6.4
+1d1e7aab-258d-410b-acc7-25814046589f,2310611030692,Cruzeiro,Viagens,R$671.00,Pendente,2024-07-31,Sharon Wilson,wflynn@example.com,Liechtenstein,10,4.885416666666667,10.0
+946bbea8-0eb0-4def-8966-20447c83066f,9158007791436,Vestido,Vestuário,R$949.00,Concluída,2024-02-07,Michael Combs,sanfordadam@example.net,Bolivia,6,5.21978021978022,6.333333333333333
+18106a14-ed78-4892-a7d9-1ddb2c50a1cb,0122487774530,Bola de futebol,Esporte,R$198.00,Concluída,2024-09-02,Jessica Hurley,amyestrada@example.org,Marshall Islands,2,5.68141592920354,2.0
+e9aea669-3e6c-4338-a688-c66a0fb948ce,2918826661917,Raquete de tênis,Esporte,R$221.00,Pendente,2024-01-05,Michele Davis,wdiaz@example.org,Tanzania,7,5.68141592920354,4.75
+276718b4-d9a6-4e84-b921-2bd9be9c453a,1660374669075,Maquiagem,Beleza,R$194.00,Cancelada,2023-11-18,Christina Hutchinson,vdonovan@example.com,Falkland Islands (Malvinas),6,6.027522935779817,6.5
+c6182d99-3183-4f8d-900e-a1501f61213e,6786223231158,Bola de futebol,Esporte,R$702.00,Pendente,2024-03-18,Emily Warren,taraphelps@example.com,Reunion,9,5.68141592920354,4.5
+af1e84d0-b405-4c6e-908f-e1ce050ee626,7357687170117,Mochila de viagem,Viagens,R$183.00,Pendente,2024-07-28,Daniel Chavez,kennethchase@example.net,Hong Kong,1,4.885416666666667,4.833333333333333
+6d0efba0-2e79-4935-89e9-86cfd57cac72,2672614094256,Religioso,Livros,R$275.00,Pendente,2024-05-01,Kevin Jones,deborah98@example.org,Guatemala,8,5.7560975609756095,5.333333333333333
+3e0b5990-6e57-4db7-b043-fc4e1aba714e,4577501198056,Científico,Livros,R$819.00,Pendente,2023-12-02,Richard Morris,johnbailey@example.com,Taiwan,2,5.7560975609756095,5.4
+c02892fb-173d-4855-a156-a82f4388af89,9916784031431,Caneta,Escritório,R$176.00,Cancelada,2023-12-03,Mary Bennett,lrivera@example.net,Myanmar,1,5.842592592592593,6.0
+1f2d8d04-33ad-473a-8f07-23a12f6c18c9,5395090375714,Roupa esportiva,Esporte,R$698.00,Pendente,2023-10-24,Angel Miller,calvingentry@example.com,Equatorial Guinea,8,5.68141592920354,7.0
+5358814f-90f8-48c9-8a37-478183e592f8,5617038851860,Barra fixa,Esporte,R$142.00,Cancelada,2024-07-18,Marissa Burgess,qhill@example.com,Lithuania,3,5.68141592920354,3.5
+9c7310c7-ef90-49da-a1a6-8adab6308559,9965337977658,Aparelho de musculação,Esporte,R$566.00,Concluída,2024-03-21,Jennifer Gardner,gwilliams@example.org,Syrian Arab Republic,1,5.68141592920354,5.6
+1d788338-e024-4a0f-a590-208c324a72a8,6847261857899,Cruzeiro,Viagens,R$35.00,Cancelada,2024-04-08,Jessica Cox,bryan08@example.com,Saint Pierre and Miquelon,5,4.885416666666667,5.0
+157ac3e9-0f1b-4871-bea4-34f352c159ca,2343193395385,Camiseta,Vestuário,R$53.00,Pendente,2024-07-27,Emily Villanueva,cheryl31@example.com,Venezuela,6,5.21978021978022,8.0
+3540e23a-ff1a-4440-9716-19691b856498,8268394786296,Geladeira,Casa,R$989.00,Pendente,2024-09-30,Joshua Rojas,john81@example.com,Mozambique,9,6.032967032967033,7.8
+647a1a8c-bc58-4460-a8bf-19e97b83c74b,6414611780338,Shampoo,Beleza,R$150.00,Pendente,2023-10-24,Eric Higgins,qlara@example.com,Serbia,7,6.027522935779817,6.8
+ef322e40-3418-466a-b01d-f1fee31316b7,0854473733039,Tônico,Beleza,R$437.00,Cancelada,2024-02-22,Suzanne Arnold,tracy41@example.net,Greenland,2,6.027522935779817,5.2
+baa5e920-bfcc-4d1d-8cca-14737a530047,6238442733567,Ficção,Livros,R$316.00,Concluída,2024-07-05,Colleen Schneider,james37@example.org,Isle of Man,9,5.7560975609756095,6.75
+bc28ed0c-e7b3-451a-9f0c-e563ca8823d9,2140974742310,Aspirador de Pó,Casa,R$560.00,Cancelada,2023-10-13,Frank Smith,jason01@example.org,French Southern Territories,9,6.032967032967033,5.0
+a96fe409-a0e3-4063-8f4f-f7ae053e6259,9597069955231,Impressora,Escritório,R$832.00,Cancelada,2024-08-08,Amy Quinn,cgriffith@example.net,Martinique,1,5.842592592592593,4.2
+8ba2f16b-090d-4cda-8f31-c3bce86faf4b,9344058938344,Cintos,Vestuário,R$90.00,Cancelada,2024-04-22,Christopher Crane,joseberry@example.org,Guadeloupe,6,5.21978021978022,4.666666666666667
+4eee50b5-5c01-4fb1-86b2-cd446018082c,9649283441523,História,Livros,R$363.00,Cancelada,2024-03-20,Gregory Ryan,njohnson@example.net,Zimbabwe,8,5.7560975609756095,4.545454545454546
+d1c2af4c-bc98-44a8-9ac0-34be126dec29,3113253555603,Drone,Eletrônicos,R$385.00,Cancelada,2024-08-25,Carla Conway,kyle75@example.com,Switzerland,4,5.326315789473684,4.0
+4f1f270c-1747-4693-a149-96febbfbdf5f,8638538947157,Científico,Livros,R$720.00,Concluída,2023-12-14,Cassandra Delgado,mckenziebowman@example.net,Slovakia (Slovak Republic),2,5.7560975609756095,6.0
+fd25dbe6-06ec-47c0-bfdb-4da2ab91528a,8587625704817,Tablet,Eletrônicos,R$445.00,Concluída,2024-01-10,Rachel Martin MD,ryan02@example.org,Colombia,7,5.326315789473684,5.6
+8d04087b-1bc0-48a7-a8e6-06895ccd0970,7710314056220,Câmera,Eletrônicos,R$763.00,Pendente,2023-11-01,Edward Walker,smithtyler@example.net,Nepal,2,5.326315789473684,5.571428571428571
+2d449ede-1770-4034-9aa0-feb34c79d993,0097523211921,Vestido,Vestuário,R$160.00,Pendente,2024-08-27,Michael Ray,jessica25@example.com,Hungary,2,5.21978021978022,3.0
+3c3786d1-0aa8-4f4a-9159-cd88b5fca02c,5826213165566,Patinete,Brinquedos,R$738.00,Cancelada,2024-08-15,Lori Sanchez,william71@example.com,Monaco,9,5.394736842105263,6.666666666666667
+307abf39-ae9b-4351-9ea6-415a58269de5,0541035764883,Impressora,Escritório,R$79.00,Pendente,2024-08-28,Mark Moore,martinezwilliam@example.org,Oman,9,5.842592592592593,6.666666666666667
+54a1f954-81b1-4f63-8a19-248c418769d1,0840027995459,Video game,Brinquedos,R$429.00,Concluída,2024-08-30,James Jordan,natalie28@example.org,Zambia,8,5.394736842105263,6.0
+95421bb4-c0b8-4dea-bccc-dcd14c2d2d1f,1213817718443,Pelúcia,Brinquedos,R$324.00,Pendente,2024-07-22,Jordan Jones,jacquelinelewis@example.net,Lithuania,4,5.394736842105263,3.5
+85f740a7-bae9-4dcd-b206-ea88a66da9f4,7947916533440,Cama,Casa,R$799.00,Concluída,2023-11-30,David Berry,nicholewebb@example.com,Turks and Caicos Islands,6,6.032967032967033,6.6
+5870821f-cb90-4242-a35c-c89d8c41c462,0005951614825,Ovos,Alimentos,R$549.00,Concluída,2024-03-02,Corey Allison,wheelerangela@example.com,Cape Verde,3,5.861386138613861,4.5
+33bb8345-57a9-4984-9342-6f6e60f12025,1271091402977,Pão,Alimentos,R$160.00,Cancelada,2024-06-15,Kevin Cline,vanessa13@example.org,Guinea,4,5.861386138613861,7.0
+99c4cac9-5fd9-4119-9728-628d63809a15,5540707123121,Frutas,Alimentos,R$226.00,Cancelada,2024-08-02,Jon Mahoney,leslie10@example.org,Fiji,10,5.861386138613861,7.75
+e52d44b6-4e64-43eb-976c-401c54664a7b,0108778034316,Jaqueta,Vestuário,R$704.00,Cancelada,2024-02-25,Kyle Frost,framsey@example.org,French Guiana,4,5.21978021978022,3.3333333333333335
+5b1c6b22-7693-4ed9-afa6-e1f10b95b173,2964099458259,Tênis,Vestuário,R$403.00,Cancelada,2023-10-14,Tiffany Clark,timothy10@example.org,American Samoa,7,5.21978021978022,6.4
+133d3abc-d5e8-436a-8f8e-1a0ab1bf16a5,6379193752480,Condicionador,Beleza,R$600.00,Cancelada,2024-09-01,Tina Reed,benjamin52@example.com,Seychelles,9,6.027522935779817,4.333333333333333
+0b7c04dd-1e09-40e5-87cd-f56952cd428e,0495114578628,Verduras,Alimentos,R$492.00,Pendente,2024-08-09,Sabrina Simmons,henrynicole@example.com,Montenegro,7,5.861386138613861,3.6666666666666665
+ccb18a63-209a-410f-b485-0e64ab1620ea,5100918212733,História,Livros,R$224.00,Cancelada,2024-07-30,Thomas Richardson,kennethrichardson@example.com,Iceland,3,5.7560975609756095,5.0
+c51defb9-a1f1-4788-ae51-8a0964477023,0774648654702,Boneca,Brinquedos,R$747.00,Cancelada,2024-06-14,Christine Russo,patelamanda@example.org,Bulgaria,5,5.394736842105263,3.5
+42505749-4b7d-4e07-b7ef-b2550abdd8e2,7810540279636,Tesoura,Escritório,R$944.00,Cancelada,2024-07-29,David Taylor,theresabarron@example.org,Brazil,4,5.842592592592593,4.714285714285714
+a766d916-0112-4d43-bb3b-057597ff56fc,2095209046988,Pão,Alimentos,R$484.00,Pendente,2024-02-16,Andrew Lee,manderson@example.com,New Zealand,7,5.861386138613861,5.6
+a7f20dcd-f709-4109-8e03-0b32ab94b160,4398549892214,Meia,Vestuário,R$292.00,Pendente,2024-01-20,Danielle Sullivan,lisa45@example.com,Mayotte,2,5.21978021978022,6.0
+9b30e4b3-32a4-4253-81f9-b553de604946,7153056931071,Grampeador,Escritório,R$335.00,Concluída,2023-10-11,Jose Gross,chloehuang@example.org,United States Virgin Islands,6,5.842592592592593,4.0
+2dc0c050-7908-4045-9506-444e6a2040ec,2088671680446,Tesoura,Escritório,R$189.00,Pendente,2024-06-15,Rebecca Henson,schultzmelanie@example.org,Mozambique,5,5.842592592592593,7.8
+fd13950b-f54e-4297-9828-fa1070cea1aa,9167890612001,História,Livros,R$267.00,Concluída,2024-09-15,Patricia Hammond,yvonne61@example.com,Botswana,5,5.7560975609756095,5.0
+34f59b0e-2209-4158-8c6c-270199e960d1,8905390350211,Esmalte,Beleza,R$68.00,Cancelada,2024-02-24,Maria Floyd,hubbarddaryl@example.com,Brunei Darussalam,10,6.027522935779817,7.0
+e8aaa9ef-e1ac-4a1b-b3c0-459633ad9270,0086665943654,Hidratante,Beleza,R$68.00,Cancelada,2024-10-01,Michael Martin,james75@example.org,Ghana,5,6.027522935779817,6.0
+de9c6bad-5da6-4fd7-8d5f-3c42e6be8c9f,8901900788079,Barra fixa,Esporte,R$262.00,Concluída,2024-06-02,Jennifer Howard,wilkinsonelizabeth@example.net,Suriname,3,5.68141592920354,3.5
+2613702f-406a-4dce-8a81-20b20ca428c3,4687172773855,Microondas,Casa,R$499.00,Cancelada,2024-05-18,Anthony Jordan,snydershelby@example.org,Lebanon,10,6.032967032967033,7.25
+8f50cf59-a464-4f89-93ba-503db2827b90,3505586730527,Jaqueta,Vestuário,R$196.00,Cancelada,2024-09-20,Allison Thomas,mirandarichard@example.net,Hong Kong,8,5.21978021978022,4.833333333333333
+f6830477-0a46-4c2b-9a35-2001838caee6,5908137969441,Sofá,Casa,R$683.00,Cancelada,2023-11-15,Katrina Hardy,donna62@example.org,Ireland,5,6.032967032967033,8.0
+ef0754dd-953f-4f8c-8bb5-c613389e4688,5050362275863,Roupa esportiva,Esporte,R$641.00,Concluída,2023-12-19,Stephanie Brewer,wbrown@example.net,Bolivia,6,5.68141592920354,6.333333333333333
+a03f3107-3f3a-4621-8821-26171f164484,0778267371910,Sofá,Casa,R$139.00,Concluída,2024-04-04,Kimberly Tucker,lisamartin@example.net,Barbados,8,6.032967032967033,7.0
+22daefe6-9dc9-478a-b56e-108fd601d70a,2128186637204,Boneco de ação,Brinquedos,R$428.00,Cancelada,2024-08-14,Crystal Dickerson,shahvalerie@example.org,Paraguay,8,5.394736842105263,6.5
+c382574d-222f-4ff1-a996-f5f038fb09e1,9116381983670,Impressora,Escritório,R$293.00,Cancelada,2024-02-14,Tonya Graham,karlathompson@example.net,Denmark,10,5.842592592592593,5.166666666666667
+05eb0c39-dcd1-4c33-88c6-b8e651a98e8b,9780071830850,Sabonete,Beleza,R$99.00,Cancelada,2024-05-16,Paul Lewis,owoods@example.org,Georgia,2,6.027522935779817,4.875
+c558044a-ae36-405c-8a0a-41e9e80c81db,3906969637851,Tônico,Beleza,R$879.00,Pendente,2023-10-16,Jessica Lucas,mccannbryan@example.net,Anguilla,9,6.027522935779817,6.25
+822f7e25-7651-424f-97a8-cdcd1ab391b7,8344729824083,Smartphone,Eletrônicos,R$123.00,Concluída,2024-09-04,Brandon Sanchez,jennifer49@example.com,Estonia,5,5.326315789473684,5.25
+c2b2a51b-fb81-4a81-bf6f-9068738e2ff7,8139382817448,Relógio Inteligente,Eletrônicos,R$744.00,Pendente,2024-08-16,Katie West,destiny45@example.net,Eritrea,3,5.326315789473684,6.333333333333333
+e417ee76-fa23-466d-bc36-c10fb7db5059,4995686540086,Liquidificador,Casa,R$352.00,Concluída,2024-01-26,Michelle Dodson,jennifer50@example.org,Macao,6,6.032967032967033,6.111111111111111
+805ab969-5529-4ccb-92ad-806925cca2ce,1426175929813,Microondas,Casa,R$870.00,Concluída,2024-05-20,Jason Mann,patrickleach@example.net,Kuwait,2,6.032967032967033,3.0
+1aceb8d8-107b-4eb6-b79f-a68d15ea1031,2709444769044,Smartphone,Eletrônicos,R$18.00,Pendente,2024-07-07,Joel Howell,williamswilliam@example.org,Korea,2,5.326315789473684,5.8
+ed7a3713-74d6-4d16-9b9c-5579936b7300,6407940854122,Aparelho de musculação,Esporte,R$693.00,Pendente,2024-05-05,Christopher Kim,hvega@example.org,Togo,6,5.68141592920354,8.0
+e8f3c908-bd5e-4d31-bcdf-b8995b21af85,9032873482226,Grampeador,Escritório,R$476.00,Pendente,2024-07-16,Stacey Johnson,johncurry@example.org,Somalia,4,5.842592592592593,5.571428571428571
+af1f67d9-dfb5-4365-acbb-76d70aa4ea5f,4073188737187,Saia,Vestuário,R$863.00,Pendente,2024-09-17,Renee Ryan,campbellbrandon@example.net,Vanuatu,8,5.21978021978022,8.2
+8f15c067-8067-4fc5-bcd2-f57b8e756080,7782504907469,Tênis de corrida,Esporte,R$390.00,Concluída,2024-08-10,James Jordan,leroy34@example.com,Latvia,10,5.68141592920354,6.833333333333333
+573c7751-576b-4ddb-acf8-2f0832ac2836,3618672318964,Geladeira,Casa,R$615.00,Pendente,2023-10-30,Angela Nguyen,ryanoliver@example.net,Guatemala,6,6.032967032967033,5.333333333333333
+54aa1fec-a66e-4086-9da4-503456de75cd,2974696648472,Cintos,Vestuário,R$570.00,Pendente,2024-09-30,Ashley Greene,christiankelley@example.com,Germany,2,5.21978021978022,3.75
+e38cf8e0-09f8-475e-8832-91db5fe5ee38,8580005736033,Shampoo,Beleza,R$375.00,Cancelada,2024-03-02,Kathleen Huerta,alyssaanderson@example.org,Canada,4,6.027522935779817,4.0
+68b1e5dc-b49d-4810-b1d9-39b879785c20,4198277212519,Hidratante,Beleza,R$261.00,Pendente,2024-03-25,Barry White,tammybrown@example.org,Greece,3,6.027522935779817,6.0
+9c1a14f6-491f-4981-8f54-0d7bcbd1ef0c,3561547064315,Alexa,Eletrônicos,R$665.00,Concluída,2024-08-02,Andre Johnson,villarrealchristopher@example.net,Benin,10,5.326315789473684,8.0
+5c6acc77-a2cc-4288-8d00-06cbc9508522,1895608103838,Hidratante,Beleza,R$476.00,Pendente,2023-12-22,Rachel Young,lewiskari@example.net,Czech Republic,4,6.027522935779817,6.0
+58271f9c-a6c2-40d2-9757-49ad17dd9d6c,1419815201264,Aspirador de Pó,Casa,R$467.00,Concluída,2024-07-20,Vanessa Carroll,huntkelly@example.com,Mauritania,9,6.032967032967033,6.5
+e6eb21a1-9b38-4520-9ca4-91d33f1e5f4d,1313781735115,Calça,Vestuário,R$837.00,Cancelada,2024-09-14,Tony Farrell,brianwood@example.com,Ethiopia,5,5.21978021978022,5.0
+32bdd48d-fd20-4dad-8148-1b87f7f6acbe,7277771950220,Aspirador de Pó,Casa,R$914.00,Pendente,2024-04-06,Richard Mercado,roberto46@example.com,Seychelles,5,6.032967032967033,4.333333333333333
+643fec11-2ecb-47b5-940e-f67d9bbca621,4976357655421,Camiseta,Vestuário,R$645.00,Cancelada,2024-07-07,Cody Stuart,daniel89@example.com,Egypt,9,5.21978021978022,9.0
+96325e2a-96f3-4ede-a5c2-08bec16ed49d,2529547498463,Cintos,Vestuário,R$752.00,Cancelada,2023-12-15,Melissa Logan,evelyn95@example.org,Heard Island and McDonald Islands,9,5.21978021978022,8.0
+f3132067-d211-4bed-9d20-603a40fedb48,5201492854460,Bola de futebol,Esporte,R$964.00,Pendente,2024-02-03,Taylor Russell,chelseacarter@example.com,Faroe Islands,5,5.68141592920354,6.666666666666667
+8b47c215-f161-4ee0-b3d1-1a41f798775e,6330433894766,Grampeador,Escritório,R$417.00,Pendente,2024-03-21,Francis Walters,solomonmichael@example.net,Australia,8,5.842592592592593,3.5
+a96f0a2c-0562-4beb-b4d1-53e5a7caf79e,5470903445997,Arroz,Alimentos,R$651.00,Concluída,2024-02-23,David Reid PhD,sgeorge@example.net,Dominica,1,5.861386138613861,5.0
+1b94003e-0c66-46d5-9ac5-253b89d0448f,1200259716342,Cintos,Vestuário,R$305.00,Pendente,2023-11-07,Isabella Shields,james82@example.org,Korea,1,5.21978021978022,5.8
+64a82ea8-c169-48ad-980d-28620987d677,8182584361646,Carro,Brinquedos,R$44.00,Concluída,2024-08-13,John Wood,wmelendez@example.com,Armenia,8,5.394736842105263,3.0
+a1b5394c-8484-464c-9ae8-c998884be754,6479885357570,Cadeira,Casa,R$432.00,Cancelada,2024-05-28,Crystal Prince,jacobwalls@example.org,Cote d'Ivoire,5,6.032967032967033,5.8
+ad02c68f-aea3-41ff-9b4c-c806c26a5d34,3124459876713,Console,Eletrônicos,R$391.00,Cancelada,2024-06-15,Jonathan Fisher,lopezjohn@example.com,Burkina Faso,10,5.326315789473684,8.0
+ee1fa1b5-e12c-4468-b108-0a31ed8cd797,4373264452035,Peixe,Alimentos,R$395.00,Pendente,2024-03-27,Anna Fry,qjohnson@example.com,Denmark,8,5.861386138613861,5.166666666666667
+7ee91ee2-072d-4844-a582-ace9fa95d5b2,6912315254976,Hospedagem,Viagens,R$866.00,Cancelada,2023-11-04,Timothy Johnson,macdonaldderek@example.com,Tanzania,10,4.885416666666667,4.75
+02a30fcf-2235-48e6-bd33-f6e6625935fd,2941169204756,Mala,Viagens,R$618.00,Concluída,2023-12-20,Emily Campbell,taylorangela@example.net,Barbados,3,4.885416666666667,7.0
+1d0859ee-3c27-4897-87be-d85093b619c4,7432653156170,Cadeira,Casa,R$916.00,Cancelada,2024-03-02,Sarah Griffin,qlopez@example.com,Belarus,7,6.032967032967033,7.25
+15ea7110-b00f-47df-8840-9b3bbda982b5,3802701901474,Aspirador de Pó,Casa,R$449.00,Pendente,2024-04-06,Wyatt Fritz,courtney03@example.org,Belize,6,6.032967032967033,5.714285714285714
+711d2906-c66d-4191-b7c9-7a8ac2b05092,4471018084256,Boneco de ação,Brinquedos,R$181.00,Cancelada,2024-03-16,Heather Long,garyshepherd@example.net,Botswana,8,5.394736842105263,5.0
+da307ab2-25e0-4298-9ce3-06b29c761d1b,4257903774262,Maquiagem,Beleza,R$895.00,Concluída,2023-11-29,Amber Wang,itapia@example.org,Senegal,6,6.027522935779817,5.0
+923a89d7-940f-489c-ad90-22eff5f5dbbe,7432229192779,Condicionador,Beleza,R$73.00,Pendente,2024-03-12,Dakota King,christopher32@example.org,British Virgin Islands,9,6.027522935779817,7.0
+18e769a7-947e-4e03-9c8f-58d7745a00e9,9257537163598,Bola de futebol,Esporte,R$797.00,Cancelada,2024-01-14,Sherry Martinez,travis47@example.org,Wallis and Futuna,4,5.68141592920354,6.5
+f28bf569-1fa1-4e46-a81f-4748e8c9cdf4,0663467902661,Caderno,Escritório,R$620.00,Cancelada,2024-05-23,Joel Smith,ellisnatalie@example.net,Antigua and Barbuda,6,5.842592592592593,3.6666666666666665
+bb248bef-1727-4cf0-8a3a-a40a4b797b43,3591842449487,Máscara,Beleza,R$495.00,Concluída,2024-08-06,David Friedman,thomashill@example.net,France,1,6.027522935779817,3.0
+25adf929-848a-4ecd-92e3-d4e72b65719f,3449019894267,Romance,Livros,R$501.00,Cancelada,2023-12-29,Brandy Lopez,olsencorey@example.net,Ukraine,2,5.7560975609756095,5.5
+6793bdad-3051-4bfa-9734-30eda6f8d7a4,1832191142622,Adaptador de tomada,Viagens,R$710.00,Cancelada,2024-04-28,Brooke Coleman,heathdaniel@example.com,Thailand,10,4.885416666666667,4.666666666666667
+dc194982-289a-4de1-a7fb-41c83d70c49b,9155246032436,Protetor bucal,Esporte,R$249.00,Cancelada,2023-12-08,James Vargas,dawngraves@example.net,Luxembourg,6,5.68141592920354,6.8
+adb24931-98ba-4fed-9228-b2a41e0e431c,8283009140461,Religioso,Livros,R$917.00,Concluída,2024-07-13,Richard Pierce,deborah37@example.net,San Marino,6,5.7560975609756095,5.666666666666667
+5ef1be26-be15-41ba-9317-ae1416f6a963,0224416393215,Tablet,Eletrônicos,R$228.00,Pendente,2023-12-16,Patricia Shaw,brian79@example.org,Mayotte,6,5.326315789473684,6.0
+47984fc8-08c9-40db-9d79-72bee9bceeaa,3073206991530,Tônico,Beleza,R$382.00,Cancelada,2024-01-20,Spencer Anderson,henry91@example.org,Tunisia,6,6.027522935779817,7.5
+c9b82ac2-2381-477c-9f91-e4551199fac3,4874821796840,Hidratante,Beleza,R$581.00,Concluída,2024-09-04,Derrick Lopez,lwillis@example.com,Georgia,10,6.027522935779817,4.875
+b3ce0d6a-5817-436c-a465-9db8fc6bc9fd,3624296953849,Borracha,Escritório,R$112.00,Pendente,2024-06-09,Amber Roberts,dperry@example.com,Maldives,8,5.842592592592593,4.75
+c75d6702-cf28-4330-8232-9c6e1951d201,9553825320996,Pão,Alimentos,R$159.00,Cancelada,2024-04-03,Brent Zimmerman,rebecca64@example.net,Bermuda,10,5.861386138613861,5.8
+b1706583-eeed-4907-83f2-290ed6144db5,3342195920716,Microondas,Casa,R$277.00,Pendente,2024-08-08,Logan Hess,kevin48@example.org,Barbados,7,6.032967032967033,7.0
+795db25a-8de3-4f26-8cfb-a5265994fed7,1917088440101,Hospedagem,Viagens,R$641.00,Concluída,2024-07-08,Stephanie Daniels,matthewsjeffrey@example.net,France,2,4.885416666666667,3.0
+3019ca2d-9bba-4ed1-8987-3dd4d39368d8,6134526160437,Boneco de ação,Brinquedos,R$804.00,Concluída,2024-04-16,Kimberly Thompson,bwillis@example.net,Kazakhstan,2,5.394736842105263,5.5
+f7924b86-4329-4af6-8a89-5e859f4b5fae,3274441895700,Hospedagem,Viagens,R$553.00,Concluída,2024-02-04,Todd Graham,griffithryan@example.org,South Africa,5,4.885416666666667,3.5
+db7c6e1d-9921-40ae-9e0b-bb7930102fb6,6482553887491,Microondas,Casa,R$832.00,Pendente,2024-08-27,Caitlin Wilson,heidisims@example.net,Saint Barthelemy,4,6.032967032967033,7.666666666666667
+2054a36e-2f1f-4b1e-9eed-38be20eaeeca,0324646364280,Corretivo,Escritório,R$847.00,Concluída,2024-02-25,Deborah Blanchard,hsanchez@example.net,Niue,9,5.842592592592593,5.666666666666667
+cd66adac-7f14-4f98-ba98-00c91033d380,1302227869460,Patinete,Brinquedos,R$39.00,Pendente,2023-12-12,Kimberly Jacobs,harrisjermaine@example.net,China,4,5.394736842105263,5.833333333333333
+f4ba6942-86c0-4dcc-a2e2-ed529a595354,9203634759967,Aparelho de musculação,Esporte,R$687.00,Concluída,2023-11-07,Lauren Gilmore,thomasbrandon@example.com,Angola,10,5.68141592920354,8.5
+f7653344-1236-4301-8ac5-6a20be621d37,8361623586633,Mochila de viagem,Viagens,R$567.00,Cancelada,2024-06-18,Kenneth Wall,jcarter@example.com,Luxembourg,7,4.885416666666667,6.8
+4e8b922e-65b5-4be5-8fcd-2d1480318389,7337687940330,Fones de Ouvido,Eletrônicos,R$826.00,Pendente,2023-10-12,Jacqueline Harris,johnmcclure@example.net,Rwanda,5,5.326315789473684,4.8
+a74056e4-81a3-43ec-9c9a-50618d96ba80,8843665078616,Calculadora,Escritório,R$389.00,Concluída,2024-07-22,Sean Smith,leahdickerson@example.net,Belize,5,5.842592592592593,5.714285714285714
+33449726-a973-4e8b-8389-ff9720899c90,9784524337040,Frutas,Alimentos,R$199.00,Cancelada,2024-08-20,Trevor Salas,hamiltonadrian@example.org,Ghana,8,5.861386138613861,6.0
+a9f22137-3e6a-46d7-86fe-f496ba60ab4e,9566674621220,Boneca,Brinquedos,R$21.00,Concluída,2024-02-08,Erin Tran,kscott@example.org,Greece,10,5.394736842105263,6.0
+39904d37-79be-4e71-a2ec-d3a8c51d8842,0333480628465,Arroz,Alimentos,R$805.00,Concluída,2024-10-03,Whitney Smith,jamesramirez@example.net,Montserrat,6,5.861386138613861,4.428571428571429
+6bd3a891-a60d-4492-8870-fa2c4d6e73bd,1720607297946,Tênis de corrida,Esporte,R$222.00,Concluída,2024-04-02,Emma Wilkinson,mpena@example.com,Central African Republic,4,5.68141592920354,4.375
+628d4c21-50ff-4630-bdf2-d42a2625a62c,4888815771492,Notebook,Eletrônicos,R$118.00,Concluída,2024-04-18,Jason Rios,jensensarah@example.com,Reunion,6,5.326315789473684,4.5
+7a0aeb61-4dbe-464d-b32a-f0d426c2fa04,0575692830117,Ficção,Livros,R$126.00,Concluída,2024-07-24,Brent Brooks,nicole23@example.org,Uruguay,3,5.7560975609756095,7.0
+f9f8996f-2701-4d9f-8d8b-429d6bf1dc44,7918992801464,Protetor bucal,Esporte,R$138.00,Pendente,2024-07-27,Morgan Perez,akennedy@example.net,Bhutan,7,5.68141592920354,4.333333333333333
+2f4c0754-1b93-482e-9de5-2271f9533dd6,5291084123159,Caderno,Escritório,R$758.00,Cancelada,2024-02-04,Mr. Michael Simon,chelseavalencia@example.net,Grenada,7,5.842592592592593,7.333333333333333
+903ce285-487a-401e-921e-5efb4a17b62f,3060613317657,Jaqueta,Vestuário,R$610.00,Pendente,2023-12-27,Melanie Fisher,tamimurillo@example.com,Uganda,3,5.21978021978022,7.0
+53a81351-a4c6-4f88-b165-57e4b4ff129d,6960683191447,Pelúcia,Brinquedos,R$204.00,Pendente,2023-10-11,Christopher Downs,tonyacole@example.com,Jamaica,10,5.394736842105263,6.25
+82e3672f-2800-495a-bbd2-2f9b05277a9b,2875967472270,Leite,Alimentos,R$626.00,Concluída,2024-07-01,Brett Moon,vabbott@example.org,Albania,4,5.861386138613861,5.0
+51400403-6412-4959-adfd-a50e8506fba5,5406047736714,Fogão,Casa,R$984.00,Pendente,2023-11-13,Thomas Joseph,andrea60@example.net,Estonia,5,6.032967032967033,5.25
+7742105a-30f6-4625-83d2-310d2c22afe3,7569565499665,Mesa,Casa,R$552.00,Pendente,2023-12-29,Ricardo Alvarez,pittmanchristopher@example.org,Taiwan,8,6.032967032967033,5.4
+46c65120-d26a-4b21-95bb-5aeb5b31630c,2859256617214,Adaptador de tomada,Viagens,R$687.00,Concluída,2024-08-19,Lisa Phillips,omartin@example.net,China,3,4.885416666666667,5.833333333333333
+8d8c7a19-d7a5-4102-aa8a-13335ab084e6,7748771068692,Autoajuda,Livros,R$244.00,Concluída,2023-11-05,Tammy Wilson,josejones@example.org,South Georgia and the South Sandwich Islands,6,5.7560975609756095,4.333333333333333
+aed74649-eb02-47c2-9ee4-998c5bbf32fe,4628195290912,Armário,Casa,R$759.00,Pendente,2023-11-29,Brian Fisher,xcohen@example.org,Saint Helena,10,6.032967032967033,5.5
+a9beab12-f6af-4ad7-a6d9-51fbecebedbc,8659457583295,Caneta,Escritório,R$50.00,Concluída,2023-11-15,Tonya Mcbride,hsanders@example.com,Nauru,6,5.842592592592593,3.5
+90afb15d-4f7f-430d-944f-1d5cd6335b54,1938017206414,Poesia,Livros,R$680.00,Pendente,2024-06-25,Lindsay Garcia,kimberly88@example.org,Nepal,9,5.7560975609756095,5.571428571428571
+f859dcef-9cb5-41a9-bc4c-d3519dbe144d,5453310444371,Tesoura,Escritório,R$872.00,Cancelada,2024-02-14,Amber Smith,rfisher@example.net,Afghanistan,1,5.842592592592593,4.0
+86417700-bbb4-476f-b30b-c41432c5fd63,1880887211060,Jaqueta,Vestuário,R$495.00,Cancelada,2024-02-03,Jenna Arnold,daniel55@example.org,Tanzania,1,5.21978021978022,4.75
+f4b21009-50b4-4846-bcf6-2c04322e0c8d,4875219764793,Guia de viagem,Viagens,R$467.00,Pendente,2024-05-21,Rebecca Frazier,robertowhite@example.com,Philippines,4,4.885416666666667,6.8
+6606fa31-e2fa-494d-860f-5fe2e9250d09,8118667606670,Caneta,Escritório,R$525.00,Cancelada,2024-09-05,Brian Stanley,kennedyjared@example.net,Central African Republic,10,5.842592592592593,4.375
+23489b0f-d60e-4b1e-89b6-6cc6887c0984,3519703350147,Cruzeiro,Viagens,R$451.00,Cancelada,2023-12-10,Tyler Silva,martintiffany@example.org,Papua New Guinea,10,4.885416666666667,7.666666666666667
+fdb2760f-5ac8-4652-8f17-8700cb52bf81,5675855815892,Feijão,Alimentos,R$403.00,Concluída,2024-03-22,Katherine Gilbert,mooreelizabeth@example.com,Saint Lucia,8,5.861386138613861,4.125
+9fcf8bbb-964e-41f5-8c92-7136dba7f3a1,7009829193552,Console,Eletrônicos,R$124.00,Cancelada,2024-04-23,Scott Smith,christina16@example.org,Switzerland,4,5.326315789473684,4.0
+52837f9a-4f3b-4d2e-bf8b-cc00a40e6543,9418062617035,Boneco de ação,Brinquedos,R$237.00,Cancelada,2024-06-14,Veronica Kim,ashley09@example.org,Malawi,8,5.394736842105263,5.444444444444445
+fffbc406-a2ab-491d-a5e3-9743eddb99ca,3690360651836,Adaptador de tomada,Viagens,R$714.00,Concluída,2023-11-14,Gregory Carlson,erikgonzalez@example.org,Taiwan,5,4.885416666666667,5.4
+22f76567-6b94-4ab8-a10e-356c2f88d578,6895272264328,Caderno,Escritório,R$151.00,Cancelada,2024-07-14,Paul Powell,bauerrichard@example.net,France,1,5.842592592592593,3.0
+228729ee-c03e-48e0-b392-4742f2f940a6,6538669234596,História,Livros,R$549.00,Concluída,2024-06-26,Sarah Price,joseph89@example.org,Central African Republic,3,5.7560975609756095,4.375
+0df625b8-641e-44bc-8628-03ab781c36de,7508992949916,Camiseta,Vestuário,R$347.00,Cancelada,2024-02-10,Brian Little,dharris@example.com,Saint Helena,1,5.21978021978022,5.5
+3dacf619-c772-4f7c-9855-6667f5dba645,9810298692273,Boneco de ação,Brinquedos,R$277.00,Concluída,2023-12-09,Jennifer Dyer,qpeterson@example.com,Bangladesh,4,5.394736842105263,5.5
+fcd24d7b-d668-48d2-8a9c-89a3dc1035c0,7564395250233,Ovos,Alimentos,R$660.00,Concluída,2024-02-01,Megan Skinner,christopherduke@example.net,Aruba,2,5.861386138613861,5.0
+e14ba19d-e8c4-4356-9607-bd1a2d33e7ca,4750707498551,Calculadora,Escritório,R$461.00,Cancelada,2024-05-23,Pedro Burke,yrussell@example.com,Puerto Rico,7,5.842592592592593,3.5
+0683399d-d629-4c99-8634-8cea904b6dce,8981671334248,Perfume,Beleza,R$244.00,Concluída,2023-11-26,Kim Young,pfernandez@example.com,French Polynesia,7,6.027522935779817,6.666666666666667
+6a8bb7b2-b1d3-4339-87bd-03c1ae9707e8,5772986278883,Mesa,Casa,R$853.00,Concluída,2024-05-06,Shannon Gonzalez,vsampson@example.org,Northern Mariana Islands,10,6.032967032967033,5.428571428571429
+ff0c8ac5-5de0-4bc9-9a20-eecd29c27f6e,1530838511076,Bicicleta,Brinquedos,R$748.00,Cancelada,2024-01-30,Elizabeth Brown,angelwelch@example.com,Holy See (Vatican City State),5,5.394736842105263,6.0
+de02b688-67f5-4cdb-936e-d7d6806a5fab,7988214657452,Mochila de viagem,Viagens,R$405.00,Pendente,2023-12-11,Anthony Clark,xthompson@example.com,Chad,5,4.885416666666667,5.0
+7f4d52dd-da07-45e3-a0aa-cab312c12f05,6089443069793,Câmera,Eletrônicos,R$468.00,Concluída,2023-11-17,Jenny Chapman,jamieromero@example.net,Isle of Man,3,5.326315789473684,6.75
+4af2e212-d97f-4b0c-96b4-ae8712a4ba53,2641159054315,Fones de Ouvido,Eletrônicos,R$874.00,Pendente,2023-10-15,Jackson Barker,mackenziesmith@example.org,Belarus,3,5.326315789473684,7.25
+4fc67fd2-cc31-468f-ab15-0d59ee3d82af,6240109770075,Didático,Livros,R$541.00,Concluída,2024-10-02,Aaron Johnson MD,peterscarrie@example.net,Brazil,3,5.7560975609756095,4.714285714285714
+4c602a49-27f6-40a9-b07e-893f845b7ed2,6700238305819,Jaqueta,Vestuário,R$566.00,Pendente,2024-09-12,Dr. Brenda Phillips,lisa11@example.org,Antigua and Barbuda,1,5.21978021978022,3.6666666666666665
+31c223ce-c4d9-4515-a038-4de2bdb78541,6257782728095,Notebook,Eletrônicos,R$182.00,Concluída,2024-06-17,Melissa Reeves,hillhaley@example.org,United States Virgin Islands,1,5.326315789473684,4.0
+1b09fc01-c7ca-4e05-9b12-71abc46d81bf,9501088565241,Hidratante,Beleza,R$69.00,Pendente,2024-09-25,Matthew Chavez,kathleen55@example.net,Slovakia (Slovak Republic),8,6.027522935779817,6.0
+75133812-a4d3-48d4-8ab5-97675d2f4f38,1200363182576,Óculos,Vestuário,R$661.00,Cancelada,2024-02-13,Preston Harris,emathews@example.org,Austria,8,5.21978021978022,5.0
+5b926e36-e246-4d19-b36a-484706580b70,7353998925361,Sabonete,Beleza,R$897.00,Concluída,2024-09-27,Erika Gardner,sandersroger@example.org,Paraguay,4,6.027522935779817,6.5
+889736c5-968e-4e46-8071-b7e42a223ca4,0492402472552,Blusa,Vestuário,R$768.00,Concluída,2024-04-28,Arthur Medina,bradleymelvin@example.org,Chile,3,5.21978021978022,3.0
+e3493842-2d63-413c-89fe-9aafa44874be,5419933713430,Batom,Beleza,R$38.00,Concluída,2023-10-29,Sandy Silva,cadams@example.com,Belize,7,6.027522935779817,5.714285714285714
+d68d6899-606a-4a3c-83b5-f7ec60d93186,9012961790624,Hospedagem,Viagens,R$961.00,Concluída,2024-01-18,Marissa Gregory,simmonsrichard@example.com,Wallis and Futuna,2,4.885416666666667,6.5
+d1a89138-5cc0-4470-83c6-525b7aa06043,6910618019698,Camiseta,Vestuário,R$247.00,Concluída,2024-03-29,Charles Ruiz,anne91@example.org,Mali,3,5.21978021978022,5.0
+11b0ad82-ca24-48a9-974d-6f69bc6b8417,2277421466823,Feijão,Alimentos,R$124.00,Pendente,2024-08-24,Brian Berry,stevenstewart@example.com,Saint Lucia,2,5.861386138613861,4.125
+21dfd8f6-37a0-40d2-9405-74c86638ea95,5571783826712,Tônico,Beleza,R$611.00,Concluída,2024-03-14,Elizabeth Graham,edougherty@example.net,Guyana,1,6.027522935779817,3.5
+915b2011-8f77-466a-8044-3c69c3eef542,3946947947237,Ficção,Livros,R$566.00,Cancelada,2024-06-03,Alexander Smith,edwardsmichael@example.org,Lithuania,6,5.7560975609756095,3.5
+e86c07ea-afe6-4112-ae09-300507a3c53f,9463963060602,Tênis de corrida,Esporte,R$767.00,Pendente,2023-12-08,Brooke Allen,garciabarbara@example.net,Haiti,10,5.68141592920354,8.5
+5ce2e220-9f37-48fe-bcb0-5019d62e1b8f,6020909913540,Video game,Brinquedos,R$431.00,Pendente,2023-12-05,Brooke Chaney,bryantmark@example.net,Guinea,6,5.394736842105263,7.0
+35dbf0f9-b4a0-4758-b2d4-c03b13d076a5,2801703238428,Smartphone,Eletrônicos,R$441.00,Concluída,2024-03-14,Lori Sweeney,jennychen@example.org,Cote d'Ivoire,7,5.326315789473684,5.8
+91c886fc-9574-4865-a9db-bcf9adaffd48,6391703848919,Guia de viagem,Viagens,R$234.00,Pendente,2024-06-13,Jason Wiggins,samuel81@example.net,South Africa,1,4.885416666666667,3.5
+46200475-f829-4c1b-b94b-4f95787275ab,2934263775321,Bicicleta,Brinquedos,R$696.00,Cancelada,2024-03-08,Sara Bell,collinsjoanne@example.org,Liberia,1,5.394736842105263,4.714285714285714
+6fa62ce8-ca11-478d-8d17-732fa1887ade,8405283027928,Roupa esportiva,Esporte,R$998.00,Cancelada,2023-12-19,Gregory Floyd,wjames@example.net,Slovenia,8,5.68141592920354,5.0
+3410fe64-925e-4be4-bd25-bde647974ee3,6253457962580,Poesia,Livros,R$690.00,Pendente,2024-09-06,Melanie Stevens,geoffrey61@example.org,Kyrgyz Republic,10,5.7560975609756095,7.25
+59d91edc-87d8-43f4-9c4c-9d64ac5245e0,1555189865593,Mesa,Casa,R$444.00,Concluída,2024-04-22,Kelsey Savage,pagevalerie@example.net,Denmark,2,6.032967032967033,5.166666666666667
+8ff7184a-d7b2-4c57-a786-25fdd7b84a4a,8468510434883,Patinete,Brinquedos,R$621.00,Pendente,2023-12-15,Grant Pruitt,carol14@example.com,Namibia,5,5.394736842105263,5.4
+de2eb137-37ee-4de0-bc5f-e09e86dc10ea,6642587460590,Bola de futebol,Esporte,R$865.00,Concluída,2024-01-20,Daniel French,antoniobrown@example.org,Turks and Caicos Islands,1,5.68141592920354,6.6
+9fd626b4-633b-4c3d-823c-05cb84dd69ce,4775222581243,Tônico,Beleza,R$628.00,Cancelada,2023-11-08,Daniel Petersen,hoganmichelle@example.org,Aruba,9,6.027522935779817,5.0
+f6d77841-0177-49ae-bc8c-b535ddcc54ed,6140031897799,Roupa esportiva,Esporte,R$21.00,Cancelada,2024-06-12,Kelsey Chase,aarmstrong@example.com,Malawi,2,5.68141592920354,5.444444444444445
+b7a72ae2-65ee-4bc0-91c0-54366560d9c2,7795655161222,Frutas,Alimentos,R$690.00,Concluída,2024-04-30,Andrea Phelps,ramirezrachel@example.com,Lao People's Democratic Republic,2,5.861386138613861,3.0
+dcee0557-ad97-407e-9f34-2bfbda59cb0e,4996728042186,Máscara,Beleza,R$626.00,Cancelada,2024-04-19,Nicholas Spencer,pmiller@example.com,Croatia,8,6.027522935779817,6.6
+397fc863-e420-4701-a324-94b3df95d8e8,6934794943912,Mesa,Casa,R$333.00,Cancelada,2024-04-02,Virginia Benton,margaretdoyle@example.net,Argentina,6,6.032967032967033,4.375
+88ecc65c-e18f-4461-a55c-74bbfe8eeabb,3557827565092,Alexa,Eletrônicos,R$616.00,Concluída,2023-12-08,Amy Hoover,ashley14@example.org,Saint Pierre and Miquelon,6,5.326315789473684,5.0
+f1abd83c-d734-482e-b40c-cc2a8f33e7c4,9355772275431,Maquiagem,Beleza,R$533.00,Cancelada,2024-03-18,Spencer Vasquez,bbrown@example.com,Australia,1,6.027522935779817,3.5
+3a4878ec-0c0f-4290-a91a-25a0b975a8f9,6436099770090,Passagem aérea,Viagens,R$62.00,Pendente,2023-11-19,Elizabeth Smith,vtapia@example.net,British Indian Ocean Territory (Chagos Archipelago),6,4.885416666666667,6.5
+c3633116-2acb-439e-8c67-224685ef06fa,0551637755196,Bola de futebol,Esporte,R$387.00,Cancelada,2024-08-04,Tyler Brewer,barry06@example.net,Moldova,3,5.68141592920354,6.555555555555555
+446c0ccc-8532-4a34-8b34-a4a16839113f,4007134079113,Blusa,Vestuário,R$145.00,Cancelada,2024-04-15,Kevin Williams,zachary00@example.com,Namibia,6,5.21978021978022,5.4
+bcbc32da-76bd-41c3-9656-b17d0de34a99,0866500538333,Calça,Vestuário,R$987.00,Concluída,2024-02-16,James Salazar,obartlett@example.org,Chad,5,5.21978021978022,5.0
+104166cc-3a9f-4452-b62c-7390b9de77b7,1276162185582,Infantil,Livros,R$984.00,Cancelada,2024-05-17,Monica Mcdonald,vcole@example.net,Singapore,7,5.7560975609756095,6.8
+79b5a3b1-cef4-4375-acbe-d7af80c150e7,3698511629338,Tesoura,Escritório,R$806.00,Pendente,2023-10-21,Frederick Garrison,yjohnson@example.org,Cocos (Keeling) Islands,1,5.842592592592593,4.166666666666667
+4f951498-59dd-4343-8aa0-9ed0ffc1e69a,5159657461292,Macarrão,Alimentos,R$624.00,Concluída,2024-01-06,Joshua Jensen,johnsonmichael@example.org,Malta,2,5.861386138613861,3.5
+a4468add-534f-489b-9caf-6f4b8f0f6c5e,0150575143593,Tênis,Vestuário,R$433.00,Pendente,2024-06-24,Marcus Holloway,cooperscott@example.net,Malta,1,5.21978021978022,3.5
+6cccd8a4-f484-42e4-bbd4-14ce836fc1d5,4164618801193,Cruzeiro,Viagens,R$948.00,Concluída,2024-05-06,Stacy Murphy,cassandraperez@example.net,Uzbekistan,2,4.885416666666667,2.3333333333333335
+e707d64b-3b51-436d-8755-867014435c11,0522343120769,SmartTV,Eletrônicos,R$771.00,Cancelada,2024-10-05,Christina Mata,danagreen@example.com,Maldives,3,5.326315789473684,4.75
+47913ca3-1165-4169-b5fc-7c5c216faebc,3502254577552,Geladeira,Casa,R$670.00,Concluída,2023-12-01,James Morgan,cory24@example.com,French Southern Territories,2,6.032967032967033,5.0
+b062ed03-33b1-4a48-81f7-d44d8558ad53,4337782906685,Jaqueta,Vestuário,R$503.00,Pendente,2024-09-23,Anita Mosley,andrew04@example.com,Zimbabwe,6,5.21978021978022,4.545454545454546
+31c6159e-6864-42a5-9e35-a2076d54df3f,2473623369997,Patinete,Brinquedos,R$507.00,Pendente,2024-05-15,Mark Brown,roydavid@example.net,Bermuda,8,5.394736842105263,5.8
+9397a3a6-1eae-4e16-927d-e6ae6cccdf31,1581222904295,Cintos,Vestuário,R$411.00,Cancelada,2024-02-02,Donald Morton,kurt85@example.net,Georgia,1,5.21978021978022,4.875
+317b51cb-d057-47e4-9be6-035d0f48bbd3,7871242512018,Tesoura,Escritório,R$747.00,Cancelada,2023-11-09,Shannon Warner DVM,lisa91@example.net,Svalbard & Jan Mayen Islands,6,5.842592592592593,6.0
+fe84757e-5772-4111-864b-7564ff9b0127,9803458047129,Frutas,Alimentos,R$393.00,Cancelada,2024-07-17,Angel Brooks,michael36@example.org,Belarus,9,5.861386138613861,7.25
+82991b8e-75c7-4e2f-a07b-5375b4bdbfed,1624016025490,Óculos,Vestuário,R$628.00,Cancelada,2024-04-23,Michelle Reynolds,rtorres@example.com,Haiti,7,5.21978021978022,8.5
+c857b21d-1918-473d-ac24-473c58ad8c05,1703664072169,Peixe,Alimentos,R$812.00,Concluída,2024-08-27,Aaron Jensen,elewis@example.net,Italy,4,5.861386138613861,6.0
+17da1d2d-1ade-4a17-bf5e-57d08f5ac981,2529346475436,Maquiagem,Beleza,R$871.00,Cancelada,2024-01-27,Heather Gardner,zolson@example.com,Philippines,9,6.027522935779817,6.8
+c88b819f-8b18-4c6b-9f2d-04763bd4c6c3,2158583201043,Boneca,Brinquedos,R$223.00,Concluída,2024-03-21,Tyler Petersen,pcampbell@example.org,Cambodia,5,5.394736842105263,7.166666666666667
+1fa9bea6-b818-4ed2-93f5-9570f70686d2,9266218598833,Pão,Alimentos,R$285.00,Cancelada,2023-12-13,Stephen Myers,crawfordanna@example.net,Benin,10,5.861386138613861,8.0
+af541216-b196-4b72-85b4-737fde14d65c,0674604048685,Óculos,Vestuário,R$266.00,Pendente,2024-08-18,Rebecca Henderson,murphydavid@example.org,Russian Federation,7,5.21978021978022,6.5
+e0c537e1-ef63-4bae-9988-7570772bfe93,4370762134494,Liquidificador,Casa,R$146.00,Cancelada,2024-05-07,Timothy Owens III,cjones@example.net,Aruba,1,6.032967032967033,5.0
+fa75bed0-7c48-4bad-9f98-481e7f4e6bd9,7057545072538,Tablet,Eletrônicos,R$920.00,Cancelada,2024-01-15,Eric Fletcher,raymond53@example.com,Zambia,1,5.326315789473684,6.0
+4045a0ca-d6c0-4ac1-8a4e-d1308cb72b11,5244116338861,Roupa esportiva,Esporte,R$145.00,Pendente,2024-08-14,Shelly Yang DDS,whitesamantha@example.net,Belgium,8,5.68141592920354,5.5
+fd515bc7-6336-4d8f-bdd3-5506072eaef2,6840283916186,Tesoura,Escritório,R$395.00,Pendente,2024-08-20,Zachary Brennan,mosborne@example.org,Mozambique,7,5.842592592592593,7.8
+21733e5a-66cb-49f0-a59e-a1b61b00a726,6016227818766,Passeio turístico,Viagens,R$631.00,Pendente,2023-11-24,Barbara Martin,halebrian@example.org,Norfolk Island,10,4.885416666666667,5.285714285714286
+e2ddf79e-6885-4706-bd5e-816cf3d365a0,8284702800133,Verduras,Alimentos,R$502.00,Cancelada,2024-05-23,Diana Guzman,danielaustin@example.com,Uruguay,9,5.861386138613861,7.0
+da67ba60-19f1-4e76-aa1f-ff99fc5a7214,8136831890939,Máscara,Beleza,R$152.00,Cancelada,2024-05-31,Douglas Moore,twilliams@example.org,Christmas Island,10,6.027522935779817,7.5
+7492fa52-ed8b-4b92-801d-623e3798ff13,7063575034934,Científico,Livros,R$679.00,Pendente,2024-04-20,Joshua Aguirre,kathleenmorrow@example.org,Cyprus,5,5.7560975609756095,6.8
+e989f1d9-7b90-43b8-a547-ccf64b6038ef,3277728643810,Tônico,Beleza,R$852.00,Pendente,2024-01-01,Jonathan Atkinson,ariel51@example.org,Senegal,7,6.027522935779817,5.0
+1b6601ee-d370-4e64-9833-cc7224c380ea,0972029464265,Religioso,Livros,R$428.00,Concluída,2024-07-20,Katherine Acosta,warrenashley@example.net,Netherlands,4,5.7560975609756095,6.5
+5e8c86a0-9236-4353-b7de-eecec1c07a6a,4367984516696,Passagem aérea,Viagens,R$787.00,Pendente,2024-09-29,Kaitlyn Graves,glloyd@example.com,Wallis and Futuna,9,4.885416666666667,6.5
+3c56e7d0-01ab-4adf-a096-7e791bf5a324,8468710224888,Feijão,Alimentos,R$282.00,Concluída,2024-05-29,Raven Farrell,smithsarah@example.net,Ukraine,10,5.861386138613861,5.5
+4c9ef26e-6ca9-46eb-bf9d-8af242860fbc,5018036052233,Seguro viagem,Viagens,R$517.00,Cancelada,2023-10-20,Christine Raymond,christophercline@example.org,Poland,6,4.885416666666667,6.0
+5e3bc114-2ea5-4a35-a62d-d55697e8b5e7,7396764702391,Mala,Viagens,R$151.00,Concluída,2024-07-08,Kathryn Miller,brownjohn@example.net,Armenia,1,4.885416666666667,3.0
+336c0d69-7435-4b85-8e72-a8c1d59ac02e,3112307624463,Armário,Casa,R$227.00,Cancelada,2024-03-09,David Mcpherson,vhardy@example.com,Nepal,7,6.032967032967033,5.571428571428571
+1cc77714-ff44-40a5-a6a6-0369b8267682,3808010425601,Bicicleta,Brinquedos,R$356.00,Cancelada,2024-01-27,Randy Walls,jonesthomas@example.org,Comoros,8,5.394736842105263,7.25
+e0e8b5ff-23e3-42ef-aec3-568f04240fa7,0858492740733,Smartphone,Eletrônicos,R$879.00,Cancelada,2023-10-16,Joseph Rodriguez,taylortimothy@example.org,Somalia,10,5.326315789473684,5.571428571428571
+a13acf5b-69ba-4c0e-860c-6a3ff151fc4f,0196981183099,Skate,Esporte,R$650.00,Pendente,2024-08-21,Suzanne Hanson,wilkinsonalbert@example.org,Singapore,7,5.68141592920354,6.8
+2a73fd48-d9a3-4e09-8c37-6be0c87fae8b,1353493792617,Saia,Vestuário,R$704.00,Cancelada,2024-02-20,Cheryl Brown,summersamanda@example.net,Denmark,3,5.21978021978022,5.166666666666667
+073d25b8-7666-4500-b802-0ce598a70662,6165254388954,Pão,Alimentos,R$390.00,Cancelada,2023-12-11,Ronald Bender,andrea86@example.org,Uganda,7,5.861386138613861,7.0
+4f7e317d-f908-466d-93aa-970c52dd0c8e,2918486607546,Boneca,Brinquedos,R$132.00,Cancelada,2024-03-18,Patricia Lawrence,hilllouis@example.net,Ghana,1,5.394736842105263,6.0
+b11c5f75-be8b-4f2a-aaf5-b368452ee23f,1384012028146,Ovos,Alimentos,R$127.00,Cancelada,2024-09-01,Cristian Becker,renee06@example.com,Timor-Leste,10,5.861386138613861,5.333333333333333
+8113e88d-6eb3-4906-95a5-4d1d68036316,7523192648667,Guia de viagem,Viagens,R$970.00,Concluída,2024-09-02,Nicole May,tony44@example.com,Cape Verde,8,4.885416666666667,4.5
+e7d64093-6132-4bb7-bc59-4ca767e1d3dd,3842057735651,Bola,Brinquedos,R$691.00,Pendente,2024-06-09,Abigail Shea,veronica67@example.net,Jersey,1,5.394736842105263,6.666666666666667
+4214b65b-004b-4573-a342-40fe206c4552,3904985166997,Não-ficção,Livros,R$622.00,Cancelada,2024-06-29,Christina Buckley,tim21@example.com,Hungary,5,5.7560975609756095,3.0
+44316697-b19d-4837-954e-05ce96e60ab5,6115499339891,Passagem aérea,Viagens,R$648.00,Cancelada,2024-05-04,Karina Bowman,stephen62@example.org,Moldova,2,4.885416666666667,6.555555555555555
+a8d87852-1c5c-464b-8fd1-72f05be8551d,5262115402871,Geladeira,Casa,R$106.00,Cancelada,2024-07-23,Ashley White,gbolton@example.net,Uganda,6,6.032967032967033,7.0
+2390178c-a755-4444-8f1b-1bb9a72077d5,1549864158476,Poesia,Livros,R$890.00,Pendente,2024-09-23,Christopher Gomez,thompsonpatrick@example.org,Cameroon,9,5.7560975609756095,7.2
+03533afc-2183-4166-b84e-438f25c8e6cf,8965580886470,Camiseta,Vestuário,R$896.00,Concluída,2024-02-23,Julia Clark,johnfischer@example.com,Croatia,8,5.21978021978022,6.6
+e744d9cf-8ad9-4fa6-8c8c-f5261ea59f93,1672652760060,Verduras,Alimentos,R$462.00,Pendente,2024-07-08,Patricia Ramsey,ljohnson@example.org,Senegal,8,5.861386138613861,5.0
+942781e9-c01c-42c2-ab2f-f378e0f3d65a,1470502951732,Bicicleta,Brinquedos,R$636.00,Concluída,2024-03-22,Rachel Gutierrez,lopezjoseph@example.com,Zimbabwe,2,5.394736842105263,4.545454545454546
+19d7f3cc-7bae-440a-841e-cc9acd8819fa,2288076614408,Hidratante,Beleza,R$685.00,Cancelada,2024-06-12,Ashley Barrett,srose@example.com,Cote d'Ivoire,7,6.027522935779817,5.8
+55ec24e6-d90a-4c38-8103-9e3cafeb7262,8864697024136,Hidratante,Beleza,R$292.00,Concluída,2024-03-04,Lori Boyer,keithtara@example.org,Christmas Island,5,6.027522935779817,7.5
+f759afb6-d282-486b-b552-0d8cd2d2eca7,8040304867864,Console,Eletrônicos,R$382.00,Pendente,2024-08-24,Julie White,lucaskaren@example.net,Korea,7,5.326315789473684,5.8
+467ec833-e63b-4ef8-9212-5e75eb3e8a03,1055142359102,Didático,Livros,R$789.00,Concluída,2023-11-26,Timothy Smith,harrisontina@example.com,Namibia,2,5.7560975609756095,5.4
+8893b8e6-331f-470b-956c-6ebedc06ea97,4508130286197,Verduras,Alimentos,R$77.00,Pendente,2024-05-10,Justin Brown,fisherthomas@example.net,Timor-Leste,2,5.861386138613861,5.333333333333333
+15996f32-bb30-495a-ad9d-6705c86865dd,6104357522292,Tônico,Beleza,R$688.00,Concluída,2024-01-30,Rebecca Davis,seanturner@example.net,France,6,6.027522935779817,3.0
+6c7b521d-a675-4522-97bc-2dbaaaddd9f4,6965881455094,Smartphone,Eletrônicos,R$26.00,Concluída,2023-11-19,Kenneth Gardner,meredith84@example.com,Burkina Faso,6,5.326315789473684,8.0
+50bb6ce7-f6d2-4836-a9b0-9ec81ca48bdd,3223234093229,Boneca,Brinquedos,R$936.00,Pendente,2024-10-05,Heather Clark,lindablevins@example.com,Kuwait,6,5.394736842105263,3.0
+8940f042-4520-4eee-a0f6-ebde4f3e3ff3,3692642522391,Carro,Brinquedos,R$885.00,Pendente,2024-03-16,Brandon Mckee,ogalvan@example.org,Grenada,8,5.394736842105263,7.333333333333333
+8e8a4431-2ec3-4b72-9107-c7172e7e236f,7258132125006,Óculos de sol esportivos,Esporte,R$34.00,Cancelada,2024-06-01,Vincent Waters,kimberly54@example.net,Bulgaria,2,5.68141592920354,3.5
+902a1a72-5b46-4b36-80f3-14e569cd1027,9911448479826,Perfume,Beleza,R$344.00,Concluída,2024-03-04,Natalie Robbins,xchristensen@example.com,Guinea-Bissau,4,6.027522935779817,4.0
+c0c02ef3-29c8-4e74-a31e-056d3fe9a42a,7946937063790,Científico,Livros,R$812.00,Pendente,2024-06-14,Makayla Carrillo,fernandeztaylor@example.org,Mongolia,4,5.7560975609756095,5.25
+94246882-fe6d-4227-a95d-9a9151084fc2,8774501147725,Adaptador de tomada,Viagens,R$15.00,Concluída,2024-07-22,David Edwards,igordon@example.org,Puerto Rico,2,4.885416666666667,3.5
+b49b3ed6-cb2d-4f4d-abd9-75a0c6edd732,1850688236982,Lápis,Escritório,R$684.00,Concluída,2023-12-10,Darlene Small,haleyapril@example.net,Netherlands Antilles,3,5.842592592592593,6.5
+431d7ab9-b11b-4576-a802-4b2f36a876cd,4262995916452,Perfume,Beleza,R$200.00,Cancelada,2024-07-05,Michelle Schmidt,april22@example.org,Central African Republic,2,6.027522935779817,4.375
+bbd43217-ca8d-4709-8408-dcb699a42a20,8740130311202,Bola,Brinquedos,R$447.00,Cancelada,2024-01-23,Mitchell Schneider PhD,chelsea23@example.net,Cyprus,8,5.394736842105263,6.8
+e57b27c6-ac94-4a60-bf2a-d102f253e40c,9776366383484,Tênis de corrida,Esporte,R$232.00,Concluída,2024-06-06,Teresa Robinson,xmiller@example.net,Netherlands Antilles,10,5.68141592920354,6.5
+7a66c9d5-58db-45b8-8c41-ba069199e6ea,3410143451398,Pelúcia,Brinquedos,R$62.00,Concluída,2024-08-25,Rhonda Hernandez,wolfeedward@example.org,Samoa,8,5.394736842105263,8.25
+82522a4c-0616-4df6-9a76-284e80f5ddb6,8719111903545,Barra fixa,Esporte,R$388.00,Concluída,2023-11-19,Veronica Moran,bmiller@example.com,Guam,9,5.68141592920354,7.666666666666667
+c5a906c7-d909-4932-a679-6bd5f43cdacc,6153238043760,Carro,Brinquedos,R$717.00,Pendente,2024-03-20,Samantha Garcia DDS,paul77@example.com,Aruba,2,5.394736842105263,5.0
+bb8d7d92-74d5-4e82-9819-987e03a7cf5c,4514272851964,Meia,Vestuário,R$90.00,Concluída,2024-04-20,Ashlee Morrow,derekharrell@example.com,Somalia,9,5.21978021978022,5.571428571428571
+675c7d42-c9c2-48a2-8100-483116f7b11c,6506673275300,Relógio Inteligente,Eletrônicos,R$867.00,Pendente,2024-01-22,Matthew Nelson,whitejustin@example.com,Congo,2,5.326315789473684,5.5
+ac9dd890-47f2-46bb-be2e-4607fa7f1bda,0616881038690,Vestido,Vestuário,R$598.00,Pendente,2024-01-17,Angela Jones,vlucas@example.net,Argentina,4,5.21978021978022,4.375
+8fdd313b-edab-4b9f-9672-021d7fed3a90,1335918299796,Tablet,Eletrônicos,R$343.00,Cancelada,2024-03-28,Stacey Martin,rglover@example.net,Brazil,10,5.326315789473684,4.714285714285714
+3b77f4b5-3c33-4c39-93fd-3ef450b6b7d3,5052747843209,Barra fixa,Esporte,R$355.00,Pendente,2024-02-28,Adam Molina,melaniedunlap@example.com,Burundi,9,5.68141592920354,5.5
+244a07e4-e024-4eff-b7cd-7cede7d3a678,5534851918474,Aluguel de carro,Viagens,R$121.00,Pendente,2024-09-07,Gregory Williamson,dixondeborah@example.com,Singapore,2,4.885416666666667,6.8
+81c50220-65ec-4b97-9e21-e941d9f3019c,3258448086125,Máscara,Beleza,R$403.00,Cancelada,2024-03-06,John Meyers,twilliams@example.com,Venezuela,10,6.027522935779817,8.0
+24c631c3-58f0-403d-8cb5-03b5c1f1e1ca,7547053611898,Óculos,Vestuário,R$619.00,Cancelada,2024-08-03,Jacob Joyce,walleranthony@example.org,United States of America,4,5.21978021978022,5.75
+98f1f2d9-f0a3-4fc5-9484-85553bafb238,7339018346286,Arroz,Alimentos,R$635.00,Concluída,2024-09-07,Kimberly Proctor,rhuynh@example.com,Iran,1,5.861386138613861,4.0
+6115cbf4-39e0-489b-b2c3-bc0bf4e0be53,4425051628502,Protetor bucal,Esporte,R$281.00,Pendente,2023-11-12,David Harrell,wbailey@example.net,Zimbabwe,6,5.68141592920354,4.545454545454546
+1decee1e-cb53-4b44-9794-fd9cebddc3e5,8280647636738,Frutas,Alimentos,R$595.00,Concluída,2024-03-06,Alexander Richardson,warrenjennifer@example.org,Macao,6,5.861386138613861,6.111111111111111
+dbfeae48-869b-42ef-b406-fcec3f66f69f,7722186098796,Barra fixa,Esporte,R$623.00,Cancelada,2024-03-19,John Smith,stevengreen@example.com,Namibia,10,5.68141592920354,5.4
+2b4607d0-cbcf-43d2-a0cb-229efab30841,5565808045929,Skate,Esporte,R$992.00,Pendente,2023-11-28,Laura Mejia,ystafford@example.com,Romania,8,5.68141592920354,5.75
+4d5c8e32-ddd3-439f-a3fc-719de76d5ea3,5500245890299,Grampeador,Escritório,R$880.00,Pendente,2024-04-04,Mark Ramirez,tylerrodriguez@example.net,North Macedonia,2,5.842592592592593,5.25
+eeda20ac-75d9-4a88-88e4-86e89a77f365,3022940513805,Alexa,Eletrônicos,R$924.00,Cancelada,2024-09-16,Walter Robertson,anthonylopez@example.org,El Salvador,6,5.326315789473684,5.75
+f2b15013-c11e-4dd7-93e5-e0e899e194ff,1982829229987,Chuteira,Esporte,R$797.00,Cancelada,2024-06-15,Donna Crawford,keith50@example.com,Trinidad and Tobago,6,5.68141592920354,5.0
+94d94b1e-e057-4c0c-81e2-2937a24f8129,8838907283989,Batom,Beleza,R$439.00,Pendente,2024-04-27,Jane Hardy,brandon54@example.org,Lebanon,6,6.027522935779817,7.25
+2777af21-ec98-4f62-a1c7-becb8e51371f,8051517951851,Raquete de tênis,Esporte,R$166.00,Concluída,2024-08-25,Paige Chang,shahemily@example.com,Malta,2,5.68141592920354,3.5
+a2eac425-8cb2-4020-ac21-b6bf1c5eb064,7657546016489,Mochila de viagem,Viagens,R$964.00,Cancelada,2024-04-17,Theresa Taylor,nramirez@example.com,Saint Helena,5,4.885416666666667,5.5
+f6a10075-dfa0-4064-88b2-c3311bf66dae,4465473047727,Perfume,Beleza,R$30.00,Pendente,2024-05-19,Tonya Jimenez,richardclark@example.org,Faroe Islands,10,6.027522935779817,6.666666666666667
+46b237df-b45a-49d5-bffd-f3c49b2a8d9f,0812132002810,Caderno,Escritório,R$800.00,Cancelada,2024-04-29,Felicia Mcneil,jamesjones@example.net,Micronesia,1,5.842592592592593,5.8
+891e5427-6fce-44f5-81ce-c790e2c2092c,0416430756217,Bola de futebol,Esporte,R$179.00,Concluída,2024-03-24,Dr. Emily Stanley,christinejones@example.net,Guatemala,9,5.68141592920354,5.333333333333333
+31a6f527-d9d2-47e6-a952-228ba7606c36,5940473262510,Video game,Brinquedos,R$985.00,Pendente,2023-12-03,Allen Warner,whitetyler@example.com,Oman,2,5.394736842105263,6.666666666666667
+07b6cd07-2b87-4563-8f35-6c816b40c7e9,2690855243196,Liquidificador,Casa,R$184.00,Cancelada,2023-12-30,Susan Bell,raymondmartinez@example.org,Mayotte,4,6.032967032967033,6.0
+64a029da-1e33-454e-b709-47d34961aae6,6184720737973,Condicionador,Beleza,R$171.00,Cancelada,2024-03-24,Andrew Brown,gonzalezjames@example.com,Niue,4,6.027522935779817,5.666666666666667
+f2bb939c-0718-4ddd-9ec0-7f5fd3ad3144,8058890682273,Tênis,Vestuário,R$102.00,Concluída,2023-12-16,Mark Smith,sullivanwhitney@example.net,Mali,7,5.21978021978022,5.0
+71156a59-caa5-416c-b42c-f939e74cbdc0,7030127304425,Leite,Alimentos,R$815.00,Pendente,2024-01-21,David Austin,hpacheco@example.org,Ethiopia,9,5.861386138613861,5.0
+ffce0d7f-568a-43e6-8207-3c7b6f965c68,6235883428199,Relógio Inteligente,Eletrônicos,R$647.00,Pendente,2023-10-30,Michael Martinez,millerbarry@example.com,Sweden,4,5.326315789473684,4.0
+454290bb-718d-4b70-b140-5a63d6411fcb,6322926205913,Alexa,Eletrônicos,R$617.00,Pendente,2024-02-26,Tina Thomas,hjohnson@example.com,Botswana,3,5.326315789473684,5.0
+b049da7f-605e-486d-83bb-3f5c58bc3af1,6773546738334,Científico,Livros,R$541.00,Pendente,2024-09-16,James Bennett,nmcdonald@example.net,Saint Lucia,1,5.7560975609756095,4.125
+b5c57fe2-a2f4-498b-91c7-2b8157644279,5834680775751,Didático,Livros,R$544.00,Pendente,2024-01-06,Alyssa Marshall,vhess@example.com,Malawi,2,5.7560975609756095,5.444444444444445
+4b7d2009-2d3a-471d-ab6b-e29df0db2fd4,2998715297137,Boneca,Brinquedos,R$655.00,Cancelada,2023-12-15,Henry Brown,amyrodriguez@example.org,Vietnam,4,5.394736842105263,4.666666666666667
+1b76f829-ba96-48ba-b715-a3d1fd4533b1,8303552372178,Lego,Brinquedos,R$311.00,Pendente,2023-10-17,Corey Rogers,daniel15@example.net,Antarctica (the territory South of 60 deg S),2,5.394736842105263,3.0
+e7b7f525-7dfb-4b3a-87d7-e55928e16423,0705066869164,Calculadora,Escritório,R$240.00,Concluída,2023-11-16,Erica Anderson,quinnbrian@example.net,Guinea-Bissau,4,5.842592592592593,4.0
+14c8416c-a8dd-4e9b-8710-7213b1dbbf2d,6264828094670,Video game,Brinquedos,R$612.00,Pendente,2023-12-23,Elizabeth Shannon,jessicagray@example.net,Central African Republic,7,5.394736842105263,4.375
+6ecf94f9-86d9-473c-a9ea-b0f1fda2e82d,9336022095900,Romance,Livros,R$497.00,Cancelada,2024-07-15,Marcus Cox,wallacelauren@example.com,South Georgia and the South Sandwich Islands,4,5.7560975609756095,4.333333333333333
+ce19e3c4-729e-46d1-9e84-f53b81c0b17b,7578859334391,Feijão,Alimentos,R$274.00,Concluída,2024-01-09,Frederick Smith,radams@example.net,Austria,5,5.861386138613861,5.0
+9747c13d-f7d2-4f00-8df0-6be873840003,8974594188265,Cintos,Vestuário,R$729.00,Concluída,2023-10-28,Robert Evans,juan87@example.net,Equatorial Guinea,7,5.21978021978022,7.0
+9ed92dbf-49a8-48e2-8608-e9c4f63b0327,2781884654456,Perfume,Beleza,R$51.00,Concluída,2024-03-25,Monique White,westchristine@example.com,Samoa,10,6.027522935779817,8.25
+898f4ccf-f868-4e42-82ab-f2fa0d860fb6,2777776034505,Caderno,Escritório,R$926.00,Concluída,2024-06-01,Matthew Fields,wilkinspatricia@example.com,Aruba,10,5.842592592592593,5.0
+4cee1561-efd4-4830-b669-a67e79b34413,8476987786466,Skate,Esporte,R$532.00,Concluída,2024-07-11,Shannon Green,travisalisha@example.org,Israel,1,5.68141592920354,3.5
+d8146a33-202f-4430-a632-7a1dfe1a78c8,1806056868583,Boneca,Brinquedos,R$256.00,Pendente,2024-03-23,Daniel Brennan,carlosluna@example.com,Iceland,5,5.394736842105263,5.0
+bfda76c6-8185-41ee-aa07-d6ffd252ca1a,0051627686344,Corretivo,Escritório,R$355.00,Concluída,2023-10-27,Brandon Diaz,lindsaycoleman@example.net,Montenegro,4,5.842592592592593,3.6666666666666665
+55dba45d-99d5-4c86-80a3-3f2792c2c4c7,0719166479321,Tênis,Vestuário,R$591.00,Pendente,2024-05-24,Michelle Moore,seth01@example.net,Cyprus,7,5.21978021978022,6.8
+daf52122-8e3d-4335-849c-5170ec0b5715,5196593466738,Cama,Casa,R$715.00,Concluída,2023-10-21,Jasmine Rice,paulapalmer@example.com,Uzbekistan,3,6.032967032967033,2.3333333333333335
+b010432d-4365-473d-a12c-c9ee15a48c53,5013841773793,Frutas,Alimentos,R$966.00,Cancelada,2024-08-24,Tami Stewart,kcurry@example.com,Malaysia,7,5.861386138613861,7.5
+dbca3b5b-42ff-4349-9522-531c74146451,5544904628786,Fones de Ouvido,Eletrônicos,R$807.00,Pendente,2023-11-25,John Stewart,craig51@example.com,Malawi,9,5.326315789473684,5.444444444444445
+b732b834-d75e-4095-9ae5-5622a1d82814,9799348928428,Jogo de tabuleiro,Brinquedos,R$562.00,Concluída,2024-07-09,Audrey Stewart,nmiller@example.org,Rwanda,2,5.394736842105263,4.8
+21d52e7f-683b-4a3c-bc99-30da0877a76b,0698879801264,Grampeador,Escritório,R$593.00,Concluída,2024-06-10,Ronald Caldwell,gvasquez@example.net,Algeria,3,5.842592592592593,5.333333333333333
+dc4eed21-5026-428c-8d3d-27247bfc951b,3220709497704,Hospedagem,Viagens,R$853.00,Concluída,2024-07-15,Steven Jordan,tonyaleonard@example.com,Guyana,1,4.885416666666667,3.5
+dbf4e5c8-dc51-449a-8e6d-3e8d1b3a7113,7291544501402,Pão,Alimentos,R$553.00,Pendente,2023-11-12,Charles Perez,andreagriffin@example.com,Mozambique,9,5.861386138613861,7.8
+6a6c6c4d-60ce-4e7e-a158-287ae3c37a8f,9197857136950,Video game,Brinquedos,R$796.00,Pendente,2024-06-05,Andrea Willis,hernandezkenneth@example.org,Zambia,7,5.394736842105263,6.0
+95be2fbf-60d0-49cc-8bde-e27f948ed9c1,4331459166112,Sofá,Casa,R$448.00,Pendente,2024-02-02,Jeremy Chapman,taylorthomas@example.com,Cocos (Keeling) Islands,10,6.032967032967033,4.166666666666667
+b463075c-1077-4b38-b71b-ff3938f4a2a7,9856770991274,Mochila de viagem,Viagens,R$804.00,Cancelada,2023-12-15,Jessica Banks,johnstontony@example.net,Nauru,3,4.885416666666667,3.5
+35b55bf1-0036-4240-a852-ede1d814029d,7697041879615,Borracha,Escritório,R$787.00,Concluída,2024-01-02,Debra Miller,aprilmyers@example.com,Macao,3,5.842592592592593,6.111111111111111
+bcbcc19a-8592-413e-8468-c8482c1ff246,0964642975778,Perfume,Beleza,R$256.00,Cancelada,2024-07-30,Mary Tran,jnguyen@example.com,Bulgaria,3,6.027522935779817,3.5
+89357df5-cc92-4909-874e-05f0607097d6,0679589693202,Bicicleta,Brinquedos,R$556.00,Cancelada,2023-11-19,Alicia Hill,thomasalexandra@example.net,Sweden,4,5.394736842105263,4.0
+8ae82842-a7d7-40ae-bb14-920ad5d8876a,8780407822161,Hidratante,Beleza,R$352.00,Cancelada,2023-12-25,Wendy Watson,zhines@example.com,Niger,8,6.027522935779817,8.0
+e9a2f9f8-5901-4e12-a0af-16d8e791e173,6253287200975,Infantil,Livros,R$402.00,Cancelada,2024-09-26,Erin Perry,stephenanderson@example.net,Austria,2,5.7560975609756095,5.0
+dcdfd1b5-877c-481a-9149-1047dbf3f3a3,6539543859645,Cadeira,Casa,R$335.00,Pendente,2024-06-19,Vincent Eaton,shelbybush@example.com,Iran,4,6.032967032967033,4.0
+6844f852-b023-46fd-8d45-8c446bd7b2a4,7128387047128,Mala,Viagens,R$628.00,Pendente,2024-07-09,Eric Bruce,shane99@example.com,Albania,9,4.885416666666667,5.0
+d09a27c6-218e-4fa9-ae25-9b18929a1e17,8167366307456,Tônico,Beleza,R$924.00,Cancelada,2024-02-04,Joseph Terrell,lisacalderon@example.net,Argentina,10,6.027522935779817,4.375
+f94fc63e-8b32-4a0e-892a-3d361bf8c811,1357962850785,Lápis,Escritório,R$695.00,Cancelada,2023-11-12,Sharon Kemp,currystacy@example.net,Montserrat,10,5.842592592592593,4.428571428571429
+f7c6fbee-ac14-4076-9f9c-70099325abc5,3566879409377,Feijão,Alimentos,R$840.00,Concluída,2024-01-12,Julie Jackson,hgaines@example.com,United Kingdom,5,5.861386138613861,6.333333333333333
+8415c0da-8807-487d-9dab-46562a3e7346,6090407606077,Skate,Esporte,R$343.00,Concluída,2024-05-05,Michelle Reed,linda16@example.org,Saint Martin,8,5.68141592920354,5.8
+6220fd57-d34c-4b67-9ae0-9c2c592eacee,3160338779874,Poesia,Livros,R$393.00,Cancelada,2023-10-31,Ashley Tran,dawn58@example.org,Madagascar,5,5.7560975609756095,6.4
+1a8f43f1-cee5-4ee5-bba6-a8f5b30646cb,6669882964530,Corretivo,Escritório,R$318.00,Cancelada,2024-06-26,Ms. Joy Scott MD,anthonygonzalez@example.org,Mauritius,1,5.842592592592593,5.285714285714286
+319ec070-1920-4b32-b0b3-e944ddc7f0cb,8216077989588,Boneco de ação,Brinquedos,R$549.00,Pendente,2024-08-13,Jessica Pollard,charleswatkins@example.com,Nauru,6,5.394736842105263,3.5
+5e7cf2ca-7f42-40c4-8479-56aab6d1a793,7345892628707,Arroz,Alimentos,R$153.00,Cancelada,2024-05-07,Scott Wilson,martinroberto@example.org,Saint Kitts and Nevis,1,5.861386138613861,2.4
+abab5990-3621-4456-a841-2aab2c5dff4f,3177018058013,Alexa,Eletrônicos,R$452.00,Pendente,2024-03-11,Jessica Fitzgerald,mmolina@example.com,Bolivia,4,5.326315789473684,6.333333333333333
+9f21c914-5f4a-4b92-8984-d1bdfbb505eb,2648049822689,Blusa,Vestuário,R$114.00,Concluída,2023-11-13,James Cook,omarsolis@example.net,United States Minor Outlying Islands,9,5.21978021978022,7.0
+0f17300d-64f9-413f-bfab-569ead63e7dd,6963435218829,Boneca,Brinquedos,R$335.00,Pendente,2024-03-20,Thomas Solis,edwinfarmer@example.org,Pitcairn Islands,10,5.394736842105263,9.666666666666666
+89aab334-b75b-4b33-96d6-271714484018,7412989898111,Didático,Livros,R$161.00,Concluída,2024-08-14,Johnny Harris,davidcantu@example.com,Bahamas,1,5.7560975609756095,2.5
+c54a8384-686d-467b-9c21-f10b0ea8e3e0,2996631820590,Tablet,Eletrônicos,R$506.00,Pendente,2024-10-03,Benjamin Schwartz,poncemarissa@example.org,Georgia,6,5.326315789473684,4.875
+434819d3-7786-41dd-93a2-b86878dd2518,9966882106890,Macarrão,Alimentos,R$540.00,Concluída,2024-09-25,Guy Santiago,tthomas@example.org,Nicaragua,5,5.861386138613861,3.6666666666666665
+638de8dc-d6e9-4a58-9f5c-2cd25ac3ad35,7725910771705,SmartTV,Eletrônicos,R$807.00,Concluída,2023-12-01,Christopher Alexander,millergregory@example.net,Kyrgyz Republic,4,5.326315789473684,7.25
+81c1e486-b2ee-489f-af26-94f2ccddaa37,5217661116895,Passeio turístico,Viagens,R$460.00,Cancelada,2024-09-18,Robert Cox,amanda01@example.com,Montenegro,3,4.885416666666667,3.6666666666666665
+ef97f71f-e095-4c21-8461-bfa65979a2fc,6150201025051,Lego,Brinquedos,R$745.00,Concluída,2024-02-04,Cynthia Chapman,ydunn@example.net,Russian Federation,9,5.394736842105263,6.5
+80a8b85f-7963-43f9-a9e1-65022c0f20a7,9252685921755,Caderno,Escritório,R$39.00,Cancelada,2024-03-24,Anita Chandler,austin81@example.com,North Macedonia,10,5.842592592592593,5.25
+445a1910-dcad-4fea-8605-0a3e488577f3,8344099719255,Video game,Brinquedos,R$103.00,Concluída,2023-10-22,Elizabeth Hamilton,andersonshelley@example.org,Colombia,5,5.394736842105263,5.6
+1bbeef0c-8707-49a3-8531-88f194da8b98,4624827808968,Maquiagem,Beleza,R$337.00,Cancelada,2024-03-09,Anthony Dixon,hallrebecca@example.org,Mongolia,6,6.027522935779817,5.25
+b76820ea-9b30-4154-9a1c-523faad78e24,3872027890608,Mochila de viagem,Viagens,R$466.00,Cancelada,2024-09-11,Dominique White,nward@example.net,Angola,7,4.885416666666667,8.5
+3214c4cb-976b-4231-87db-6e9fa256bf79,4651970376211,Hidratante,Beleza,R$338.00,Pendente,2023-12-15,Dennis Ware,davidduncan@example.net,Tunisia,5,6.027522935779817,7.5
+3a33422e-9a00-4915-bc97-1fa2a9a0de0b,0657026499273,Guia de viagem,Viagens,R$150.00,Concluída,2024-07-31,Megan Johnson,anthony62@example.org,Greece,7,4.885416666666667,6.0
+d90a1765-9a40-4266-aeca-6cc43a8d09bd,2239096049503,Tênis de corrida,Esporte,R$642.00,Concluída,2024-02-24,Kenneth Lopez,carpentermatthew@example.org,Lebanon,9,5.68141592920354,7.25
+c1a1f888-62f6-425e-8c70-95d54a31bb8a,0992127818715,Drone,Eletrônicos,R$524.00,Cancelada,2024-08-05,Traci Ramirez,qjacobs@example.net,Mozambique,9,5.326315789473684,7.8
+4392d8ab-47cb-4f71-9832-3fc5c06a02c0,3393019935089,Carne,Alimentos,R$707.00,Concluída,2024-09-07,Elizabeth Hall,kjackson@example.net,Martinique,3,5.861386138613861,4.2
+2be88293-ff3d-4c37-8307-f025e6730696,1298748889943,Jogo de tabuleiro,Brinquedos,R$881.00,Concluída,2023-12-03,Jesus Greene,ibaxter@example.org,Zimbabwe,4,5.394736842105263,4.545454545454546
+178fbce9-2980-464e-8368-4649d98cd904,3300514866046,Microondas,Casa,R$299.00,Cancelada,2023-11-29,James Foster,vthompson@example.net,Dominica,9,6.032967032967033,5.0
+4b425960-1eb1-4062-8d53-314fab73a3f4,9379262588153,Lápis,Escritório,R$581.00,Concluída,2024-04-18,Christopher Mcguire,mortonjason@example.net,Belize,9,5.842592592592593,5.714285714285714
+03f07fb7-6f37-4697-8e57-03c726a12b7d,9255307882939,Mesa,Casa,R$455.00,Cancelada,2024-02-24,Robert Ruiz,victoria76@example.com,Croatia,2,6.032967032967033,6.6
+ea9516be-00c4-4054-95d0-175a3ea03eb0,7704553630211,Fones de Ouvido,Eletrônicos,R$726.00,Pendente,2024-02-26,Samuel Duncan,ericajohnson@example.com,Greenland,2,5.326315789473684,5.2
+e54dc9ed-1829-4185-873b-00d868a68784,9208085702661,Roupa esportiva,Esporte,R$651.00,Concluída,2024-06-27,John Brown,ugarcia@example.org,Heard Island and McDonald Islands,9,5.68141592920354,8.0
+c10d38d3-68b0-42de-9f4e-2d6500365f5c,2733830239392,Relógio Inteligente,Eletrônicos,R$961.00,Pendente,2024-01-05,John Cameron,poconnor@example.com,Armenia,1,5.326315789473684,3.0
+d919564d-9372-485d-a698-9328393ba564,0030755783187,Religioso,Livros,R$332.00,Concluída,2024-03-16,Rick Anderson,kellytammy@example.com,Syrian Arab Republic,10,5.7560975609756095,5.6
+e70a3e45-6161-4115-ba47-9503545ddd50,4437633429599,Armário,Casa,R$300.00,Concluída,2024-02-15,Andrew Schwartz,phillipslinda@example.com,Korea,5,6.032967032967033,5.8
+dc19d2df-8bb1-4d71-bda6-a088c7d0eeb7,0658103832532,Vestido,Vestuário,R$857.00,Pendente,2024-07-25,Lisa Flores,whitechristopher@example.org,Australia,4,5.21978021978022,3.5
+ffbdc793-f4c5-44b6-a30d-3784f32df1a6,3715861399404,Camiseta,Vestuário,R$535.00,Cancelada,2024-01-21,Melissa Mcfarland,marvinkaiser@example.org,United States Virgin Islands,3,5.21978021978022,4.0
+7fda9e3d-477a-43eb-8f53-8d40bd23dee3,8359138285721,Notebook,Eletrônicos,R$982.00,Pendente,2024-08-31,Sarah Robinson,doughertyalexander@example.net,Argentina,3,5.326315789473684,4.375
+e40f92ad-1ade-454c-b6fb-3b2fd5d43cc2,2673641920785,Tesoura,Escritório,R$705.00,Pendente,2024-09-20,Carl Dean,simscraig@example.org,Denmark,6,5.842592592592593,5.166666666666667
+92ad5d2f-1267-4b45-818a-7984c464094a,8432226661628,Óculos,Vestuário,R$552.00,Cancelada,2024-04-02,Daniel Boyle,jeffreymoody@example.net,Northern Mariana Islands,1,5.21978021978022,5.428571428571429
+71c5320f-4699-47f5-b460-34dacad667ae,6291641402535,Científico,Livros,R$238.00,Concluída,2023-11-27,Travis Martin,michael85@example.net,Timor-Leste,9,5.7560975609756095,5.333333333333333
+76e36cb8-2b84-4ffc-adb2-5072ed5ca450,0274282916612,Pelúcia,Brinquedos,R$676.00,Concluída,2024-07-27,Toni Knight,thomasgarza@example.com,Guernsey,4,5.394736842105263,6.2
+a723c0ad-b5c5-45bf-9a99-af6868aa08ee,3455994614660,Bola de futebol,Esporte,R$220.00,Concluída,2024-09-22,Kelli Dalton,heatherperry@example.org,Antarctica (the territory South of 60 deg S),4,5.68141592920354,3.0
+3fb72f70-7d73-40ed-9dfd-b55295fcf6b5,0160978134654,Jogo de tabuleiro,Brinquedos,R$468.00,Cancelada,2024-01-29,John Carter,teresagonzalez@example.net,India,7,5.394736842105263,8.666666666666666
+cb0b0128-3952-4ebf-a5d5-59ab861ee526,2807870865252,Pão,Alimentos,R$163.00,Concluída,2024-04-02,Isabella Acosta,mark11@example.com,Moldova,9,5.861386138613861,6.555555555555555
+fa845d67-9fa5-4fc7-8ae5-83919fb8c3c1,4745462875709,Autoajuda,Livros,R$35.00,Cancelada,2024-05-05,Jessica Braun,stevensamanda@example.com,Pakistan,9,5.7560975609756095,4.666666666666667
+f73e48e9-45c2-4d29-8492-725f170b9cf8,0988438011211,Sabonete,Beleza,R$976.00,Pendente,2024-01-04,David Khan,vtucker@example.org,Netherlands,4,6.027522935779817,6.5
+cd50cb53-c30b-48a7-9e70-5528458736be,1460545802443,Verduras,Alimentos,R$879.00,Cancelada,2024-06-27,Allison Cook,debramiller@example.com,Dominican Republic,5,5.861386138613861,7.333333333333333
+b55577d2-36d7-43b0-9292-6fffee95ae15,2263764037547,Tesoura,Escritório,R$822.00,Pendente,2023-12-29,Tracy Rodriguez,alexanderklein@example.com,Antigua and Barbuda,4,5.842592592592593,3.6666666666666665
+9daa1dce-0dde-47b4-8093-5e6d4832c11e,3031880529906,Console,Eletrônicos,R$430.00,Pendente,2024-08-24,Erica Barnes,howardluke@example.net,South Africa,4,5.326315789473684,3.5
+65f334bd-2baf-44cd-95d4-a241df79f7cb,6979099041598,Verduras,Alimentos,R$432.00,Pendente,2024-02-10,Emily Richards,mwelch@example.com,Jordan,5,5.861386138613861,5.5
+c29313b6-3ca3-49a5-bf20-3ba48db49316,1897661141567,História,Livros,R$406.00,Cancelada,2024-01-23,Christine Conway,fking@example.com,Vanuatu,9,5.7560975609756095,8.2
+b3f0e6d8-e9ea-477b-8dd1-81e726e0a67c,9559910594365,Passeio turístico,Viagens,R$831.00,Concluída,2024-05-11,Kathy Young,rachel78@example.org,Hong Kong,1,4.885416666666667,4.833333333333333
+149eda31-e1df-4e51-8062-1dc7c4163497,6439856843433,Máscara,Beleza,R$413.00,Pendente,2024-09-29,Shane Smith,christopherhebert@example.org,United States Virgin Islands,3,6.027522935779817,4.0
+d30192d8-44e1-4922-9c8b-3d3e9913a26d,6055119063792,Esmalte,Beleza,R$271.00,Concluída,2024-07-27,Joshua Parker,amyrodriguez@example.org,Botswana,2,6.027522935779817,5.0
+8d228b05-b3f7-4c66-9254-96c86653017b,9653223684789,Caderno,Escritório,R$578.00,Concluída,2023-12-24,Susan Brown,nancy23@example.net,China,5,5.842592592592593,5.833333333333333
+a079ed3c-2b20-4ea9-b18e-a2fcc32edf54,5599647957228,Arroz,Alimentos,R$631.00,Concluída,2023-10-17,Julie Hogan,dustinhicks@example.com,United Arab Emirates,10,5.861386138613861,7.5
+980a043e-390a-4ee1-b386-627b51ad4039,5869787168793,Jaqueta,Vestuário,R$662.00,Concluída,2024-09-14,Chad Joseph,baileymaurice@example.org,Nepal,2,5.21978021978022,5.571428571428571
+c5ad6f3f-5da4-4c41-844e-22e27f300c93,1212440479417,Pão,Alimentos,R$71.00,Cancelada,2024-04-05,Riley West,moyeramanda@example.net,Equatorial Guinea,5,5.861386138613861,7.0
+28fe69ea-d884-4f29-8cc6-38ca49e83fa3,6963820299716,Passeio turístico,Viagens,R$337.00,Pendente,2024-04-16,Raymond Conley,smithsandra@example.com,Bouvet Island (Bouvetoya),3,4.885416666666667,7.0
+cc0b2344-9f40-45b1-9a41-f95be46af975,8508106785194,Hospedagem,Viagens,R$17.00,Concluída,2023-12-15,Kelly Wise,aaronmills@example.org,Finland,6,4.885416666666667,6.5
+68a6255f-8b1a-43d0-a170-d7a0d459ccab,4957793857068,Jaqueta,Vestuário,R$116.00,Pendente,2024-06-06,Jeffrey Williams,morenojason@example.net,Iran,4,5.21978021978022,4.0
+17fb1ad2-7ef9-4226-a74a-a0b202ffcec6,9382690732203,Passeio turístico,Viagens,R$284.00,Concluída,2024-01-30,Anthony Grant,silvaisabella@example.com,South Africa,4,4.885416666666667,3.5
+9c066af7-b888-4987-958b-8c767643c631,4044948536326,Impressora,Escritório,R$416.00,Concluída,2024-07-27,Leslie Keith,xwalker@example.com,Trinidad and Tobago,4,5.842592592592593,5.0
+1911da2c-ed53-4163-b0ae-0c9e1d9fbaaf,4375501614534,Console,Eletrônicos,R$780.00,Cancelada,2024-09-27,Dylan Wilkerson,pamela21@example.org,Cambodia,9,5.326315789473684,7.166666666666667
+122943e4-7943-447b-ad79-da4d89a0baa9,5157669190650,Chuteira,Esporte,R$434.00,Cancelada,2024-07-23,Michael Hurley,martinezjohn@example.net,Czech Republic,10,5.68141592920354,6.0
+e44cdc42-3265-4ffd-aad2-082bbd43e86c,4675106110586,Hospedagem,Viagens,R$856.00,Concluída,2024-06-22,William White,zphillips@example.com,Benin,2,4.885416666666667,8.0
+b6060516-e48e-43d0-9afa-699cf7509526,0771169505643,Verduras,Alimentos,R$381.00,Concluída,2024-05-14,Brian Aguilar,laura28@example.org,Barbados,10,5.861386138613861,7.0
+4dbc13db-e509-4780-8f60-88069edbed49,2668236977633,Perfume,Beleza,R$309.00,Cancelada,2024-01-11,Kaitlyn Harper,andersondebbie@example.net,Latvia,7,6.027522935779817,6.833333333333333
+d9d2211d-db69-49b6-addb-a2f2115edbf7,9840489515760,Vestido,Vestuário,R$378.00,Pendente,2024-09-20,Stephen Fowler,dtodd@example.org,Afghanistan,2,5.21978021978022,4.0
+b49155e5-4db6-4415-be18-4986af2ae538,5954119861579,Microondas,Casa,R$480.00,Cancelada,2024-04-17,Melissa Hawkins,hugheslisa@example.com,Sri Lanka,5,6.032967032967033,5.0
+fc8a1c55-8722-4dc0-8893-c1544cb130df,2225447033246,Notebook,Eletrônicos,R$444.00,Concluída,2023-12-03,Matthew Beck,kristinsantos@example.org,French Southern Territories,1,5.326315789473684,5.0
+77df590b-5275-4e97-9434-cc3863c3a5e8,8458212122591,Roupa esportiva,Esporte,R$55.00,Pendente,2023-12-12,Michael Campbell,kramermelissa@example.org,Chad,5,5.68141592920354,5.0
+2913f495-3eb8-48dd-9a28-500565572dbb,1960636221547,Cruzeiro,Viagens,R$218.00,Cancelada,2023-10-11,William Nielsen,seth92@example.com,Reunion,3,4.885416666666667,4.5
+ecc190ca-28db-490e-8418-eb6bc992e914,9036160191075,Protetor bucal,Esporte,R$713.00,Cancelada,2024-09-28,Gregory Mcbride,vjones@example.net,Netherlands Antilles,4,5.68141592920354,6.5
+c2487523-988f-485e-8a80-8873919fbd53,3340297784519,Smartphone,Eletrônicos,R$904.00,Pendente,2024-05-31,Joel Sanchez,jameslee@example.com,Anguilla,3,5.326315789473684,6.25
+b0116100-36ed-44bd-b1ca-e0a9b451655d,8087678273501,Patinete,Brinquedos,R$574.00,Concluída,2024-05-10,Lisa Erickson,carterkeith@example.net,Israel,7,5.394736842105263,3.5
+5c2afd67-c09e-469c-b8a9-fc324badf6a6,4952278872031,Patinete,Brinquedos,R$242.00,Concluída,2023-12-24,Brooke Kirby,nwiley@example.com,Sierra Leone,4,5.394736842105263,8.0
+c14df1cf-0698-4772-8ff6-ec5e85e6464c,6421510734591,Mala,Viagens,R$110.00,Pendente,2024-07-15,Mrs. Frances Cervantes,singletonmelissa@example.org,Aruba,3,4.885416666666667,5.0
+c97f7134-a015-400e-b1c8-b3be80454da3,7858330774244,Patinete,Brinquedos,R$224.00,Concluída,2024-07-25,Doris Mason,careyseth@example.com,Azerbaijan,7,5.394736842105263,6.666666666666667
+459029a0-3e42-4491-a022-2225e0fe8c27,8847029806976,Jogo de tabuleiro,Brinquedos,R$107.00,Cancelada,2024-08-11,Kimberly Serrano,johnsantos@example.com,Tonga,7,5.394736842105263,7.333333333333333
+bbe8beda-4485-4725-be8a-beb6da44c339,1328553214255,Shampoo,Beleza,R$788.00,Cancelada,2023-11-19,Yvonne Williams,chase42@example.org,Palestinian Territory,5,6.027522935779817,5.25
+945de983-f203-4cf1-923d-a3b8226f30b3,6576772579098,Blusa,Vestuário,R$830.00,Pendente,2024-09-19,John Hess,peterhill@example.net,Samoa,5,5.21978021978022,8.25
+50b00936-e54e-4b11-ae26-f0894e52ee8b,2235701135104,Cintos,Vestuário,R$665.00,Cancelada,2024-05-04,Hannah Lopez,jeffrey00@example.net,Tanzania,9,5.21978021978022,4.75
+366ccfac-1257-4338-b0e9-eaf2c43dbc4b,6995168976417,Jaqueta,Vestuário,R$757.00,Cancelada,2023-12-23,Erica Wells,briannajohns@example.com,American Samoa,4,5.21978021978022,6.4
+0266d3c1-f0d5-446a-844d-8f500231b43a,1607368131446,Microondas,Casa,R$158.00,Cancelada,2024-06-29,Derrick Miranda,lisanelson@example.org,Swaziland,6,6.032967032967033,5.0
+443490e8-2be2-49db-88dd-a5dcbc98c5a2,7307635541612,Chuteira,Esporte,R$794.00,Concluída,2024-06-07,William Kelly,drakejill@example.com,Spain,9,5.68141592920354,7.5
+ca2bd25a-d875-4b19-8b32-f1bf30752541,7995372091387,Óculos,Vestuário,R$311.00,Concluída,2024-02-22,Kenneth Mendoza,xshah@example.net,Czech Republic,6,5.21978021978022,6.0
+353b0c29-2bb8-4990-b001-fe10718e6a99,0684976525455,Verduras,Alimentos,R$975.00,Cancelada,2023-11-28,Derek Jackson,carolynalvarez@example.com,Mauritius,7,5.861386138613861,5.285714285714286
+f4f460a6-dfd9-45ab-9937-9111338e593b,4198421521047,Calça,Vestuário,R$723.00,Cancelada,2024-01-31,Rachael Fisher,yhartman@example.com,Myanmar,7,5.21978021978022,6.0
+98f910db-a995-4696-b56c-4805117b7962,2089222506680,Impressora,Escritório,R$200.00,Cancelada,2024-04-16,Roberto Williams,klopez@example.org,Cambodia,10,5.842592592592593,7.166666666666667
+13385d05-35ba-434e-9693-75a711f7a37b,8603649971636,Aspirador de Pó,Casa,R$522.00,Cancelada,2024-02-17,Eric Hawkins,cgibson@example.net,Indonesia,7,6.032967032967033,7.0
+d083a333-0f7f-4757-92b0-78803d461a56,5643133964068,Aspirador de Pó,Casa,R$780.00,Concluída,2023-12-20,Karen Price,yclements@example.org,Saint Kitts and Nevis,2,6.032967032967033,2.4
+9b34d1c3-d17b-4336-9f17-f964691427d8,0492440194836,Verduras,Alimentos,R$159.00,Pendente,2024-05-07,Andrea Miles,ilynch@example.com,Pitcairn Islands,9,5.861386138613861,9.666666666666666
+15993eff-fc59-484c-a01b-bcb3901d95d5,9802617543564,Corretivo,Escritório,R$435.00,Cancelada,2024-03-30,Melissa Vega,kathleendavis@example.com,Northern Mariana Islands,8,5.842592592592593,5.428571428571429
+45841490-357d-4a33-8cea-b18196df75d0,3026341190337,Microondas,Casa,R$74.00,Concluída,2024-09-02,Jamie Whitaker,mark49@example.org,Zimbabwe,3,6.032967032967033,4.545454545454546
+041771c0-b8c1-46b3-86c6-45fab5da54b0,7352800526956,Mala,Viagens,R$319.00,Cancelada,2023-10-28,Dustin Bean,mason13@example.com,San Marino,5,4.885416666666667,5.666666666666667
+9065ce04-cb05-4a91-ab97-a8b7416627ad,0147531411056,Alexa,Eletrônicos,R$431.00,Cancelada,2024-02-17,Catherine Williams,knightjohn@example.com,Senegal,1,5.326315789473684,5.0
+f8f85cb7-94b0-4ae9-973e-48c4267311d6,4177260303687,Hidratante,Beleza,R$486.00,Concluída,2024-07-17,Amanda Deleon,kayla33@example.net,Saint Martin,2,6.027522935779817,5.8
+ff7a7536-883f-42f4-89ae-1a2966b187e9,1408660178326,História,Livros,R$675.00,Pendente,2024-03-04,Jeremy Fowler,williamwinters@example.org,Niue,4,5.7560975609756095,5.666666666666667
+5e0a518b-5d61-45ba-9131-b66929e030c8,9416023179769,Maquiagem,Beleza,R$799.00,Pendente,2023-10-18,Cindy Morgan,trujillodavid@example.net,United States of America,10,6.027522935779817,5.75
+0ebc864d-5432-4891-99f3-18c8acd833b6,0055521668581,Hidratante,Beleza,R$533.00,Cancelada,2024-02-04,Kathryn Green,smithjenna@example.net,Saint Helena,6,6.027522935779817,5.5
+a3615cdf-5480-44cf-b132-a3eaf3acf6b8,5028209731162,Feijão,Alimentos,R$589.00,Pendente,2023-12-14,Cynthia Ellis,david06@example.org,Armenia,2,5.861386138613861,3.0
+0853b67d-aa86-45ba-af01-cb1bebf634e0,8229585491061,Skate,Esporte,R$254.00,Concluída,2024-01-03,Kevin Ramirez,farmermichael@example.net,United States Minor Outlying Islands,6,5.68141592920354,7.0
+53fbe188-359a-4ab3-85f0-ea66ccc2d1e7,9469679844505,Sofá,Casa,R$14.00,Pendente,2024-03-18,Bruce Martinez,gardnerpamela@example.net,Tunisia,10,6.032967032967033,7.5
+aac4e520-6b06-45f1-937f-734aa7a6ba24,8425950219159,Camiseta,Vestuário,R$378.00,Concluída,2024-04-17,Philip Harris,rhobbs@example.org,Vanuatu,9,5.21978021978022,8.2
+f9a0c4d9-73ec-448e-a934-7b107d927ffe,3392831609055,Meia,Vestuário,R$362.00,Concluída,2024-09-14,Michael Swanson,andrea48@example.com,Botswana,3,5.21978021978022,5.0
+f7d2da75-2193-4d6e-95db-48588b46eda7,7005172988197,Tênis,Vestuário,R$765.00,Cancelada,2023-11-15,Robert Steele,stacy33@example.com,Martinique,3,5.21978021978022,4.2
+05052a23-f2b6-43ff-b7cc-7beaa707f6f8,7479678884060,Seguro viagem,Viagens,R$797.00,Concluída,2024-09-25,Paula Ferguson,haleycruz@example.net,Micronesia,10,4.885416666666667,5.8
+8400a285-dbaa-424a-a646-9910e1555079,5221668544247,Borracha,Escritório,R$854.00,Cancelada,2024-08-04,Luis Santos,sperez@example.com,Cameroon,6,5.842592592592593,7.2
+9b6f081c-e16d-4938-904f-d0e02bf99346,2957856123217,Macarrão,Alimentos,R$673.00,Concluída,2024-10-08,Ryan Schwartz,coxwilliam@example.org,Cuba,2,5.861386138613861,6.0
+046b7c76-bc66-4576-9f89-27ac485c8906,3688369324615,Drone,Eletrônicos,R$176.00,Pendente,2024-06-11,Timothy Rios,shawchristopher@example.org,Guinea-Bissau,3,5.326315789473684,4.0
+690c886d-7d70-489c-8cd2-c3b279a69602,9198215999705,Vestido,Vestuário,R$552.00,Cancelada,2024-06-12,Jason Sanchez,jimmy22@example.net,Falkland Islands (Malvinas),7,5.21978021978022,6.5
+50bf02ce-c6f8-4c72-be29-3e7d78b48f18,6438028510869,Relógio Inteligente,Eletrônicos,R$645.00,Cancelada,2024-09-28,Benjamin Anthony,thompsontrevor@example.com,Falkland Islands (Malvinas),6,5.326315789473684,6.5
+8072765d-6697-4130-bb97-30237d6ee5db,0725606735100,Aparelho de musculação,Esporte,R$163.00,Concluída,2024-05-09,Caleb Frank,changjoseph@example.net,Guyana,7,5.68141592920354,3.5
+3abd0ade-960d-4ae1-80fe-24f3ee386067,5528539900981,Infantil,Livros,R$306.00,Pendente,2024-07-19,Kathy White,sstewart@example.net,United States of America,4,5.7560975609756095,5.75
+61bce453-4c93-496d-a26a-6017e2897366,9171348658787,Científico,Livros,R$303.00,Cancelada,2024-01-08,Maria Smith,gordonkimberly@example.com,Philippines,8,5.7560975609756095,6.8
+d3b9a7e8-fe68-4077-893f-72ed6c5eff74,8613680633233,Relógio Inteligente,Eletrônicos,R$734.00,Concluída,2024-04-30,Keith Gonzalez,jonathan58@example.org,Bolivia,7,5.326315789473684,6.333333333333333
+4858a83e-235a-444c-83fc-76fa592f0d42,7034512365541,Batom,Beleza,R$954.00,Concluída,2024-07-02,Courtney Yoder,yatesanna@example.com,Wallis and Futuna,5,6.027522935779817,6.5
+3e96dfde-bb7f-4245-82fb-b17be85ca54d,2631647007381,Corretivo,Escritório,R$998.00,Pendente,2023-10-30,Patricia Nelson,jeremy92@example.net,Micronesia,9,5.842592592592593,5.8
+f0971916-2433-4077-83db-fa99fd704a5e,5648738552269,Passeio turístico,Viagens,R$396.00,Cancelada,2024-02-02,Paul Molina,syoung@example.com,Argentina,1,4.885416666666667,4.375
+17a92e5e-7394-4c65-8dd1-3dfaa7302846,3003115288148,Seguro viagem,Viagens,R$571.00,Cancelada,2024-04-29,Caroline Hernandez,vanessalopez@example.com,Zambia,5,4.885416666666667,6.0
+86ac3c40-af18-4e39-91f1-82d6a3dba671,6470256853677,Científico,Livros,R$590.00,Cancelada,2024-05-10,Elizabeth Summers,villadaniel@example.org,New Zealand,10,5.7560975609756095,5.6
+e0959394-372a-4d61-a2b1-59cf40bb7b84,9658871509729,Condicionador,Beleza,R$263.00,Cancelada,2023-10-18,Rachael Robinson,paul23@example.com,Azerbaijan,8,6.027522935779817,6.666666666666667
+b4b3df91-ea70-4c8f-8f7d-7a00b11a4a44,1925121326497,Pelúcia,Brinquedos,R$198.00,Pendente,2024-07-02,Stacy Kennedy MD,thompsontonya@example.net,Cocos (Keeling) Islands,2,5.394736842105263,4.166666666666667
+93e4ba59-a9bc-4689-81ef-308638008d0d,3650143806136,Poesia,Livros,R$916.00,Pendente,2023-12-27,Stephen Boyd,moralessean@example.com,Latvia,9,5.7560975609756095,6.833333333333333
+834c0d89-1d99-47bd-933c-053066fbf291,1535498804414,Autoajuda,Livros,R$214.00,Cancelada,2024-06-29,John Vasquez,diana78@example.org,Ecuador,9,5.7560975609756095,6.333333333333333
+e6c1fd3e-c89c-4413-917c-6833110dd1c0,9464601252793,Relógio Inteligente,Eletrônicos,R$819.00,Cancelada,2024-01-21,Jason Sharp,vhall@example.org,Bermuda,4,5.326315789473684,5.8
+e1de4b2e-d72b-4ad7-8724-7ef0cd433bc5,0418272634272,Console,Eletrônicos,R$506.00,Concluída,2024-04-04,Victor Turner,stacey84@example.net,Kenya,8,5.326315789473684,5.0
+e6d0bc43-5117-422a-a35c-0c8f34c19ad0,1314631424944,Aparelho de musculação,Esporte,R$630.00,Cancelada,2024-10-04,Colleen Sharp,waynemyers@example.org,Portugal,10,5.68141592920354,4.333333333333333
+fbb6476d-d679-4c91-a2a6-01c416748bd1,3057290367167,Guia de viagem,Viagens,R$474.00,Concluída,2024-03-13,Cory Moore,jeffreystewart@example.org,Malta,4,4.885416666666667,3.5
+f5b01ae5-9947-405e-9c2e-b79939724ce5,1022992225154,Perfume,Beleza,R$931.00,Pendente,2024-10-04,Sabrina Mccoy,tkramer@example.org,Guam,4,6.027522935779817,7.666666666666667
+2e3ce102-9320-4957-a30e-2ac41cda1935,7377538678210,Bicicleta,Brinquedos,R$700.00,Pendente,2023-10-19,Timothy Cardenas,mfarmer@example.net,Tonga,7,5.394736842105263,7.333333333333333
+783d17eb-f5f3-412e-8be5-2d54e4664861,0182810708038,Guia de viagem,Viagens,R$651.00,Cancelada,2023-10-09,Dennis King,epham@example.net,El Salvador,5,4.885416666666667,5.75
+018ee883-7895-456f-9f40-d38dfc19f369,9824824809998,Adaptador de tomada,Viagens,R$413.00,Concluída,2024-01-14,Joseph Macdonald,mstewart@example.net,Mauritius,8,4.885416666666667,5.285714285714286
+8f55b075-8ae5-4f09-8d5f-9abfded18540,3999139956272,Boneca,Brinquedos,R$908.00,Pendente,2023-11-05,Kaitlyn Cook,nhernandez@example.org,New Caledonia,9,5.394736842105263,5.0
+14fdaf29-d8e6-45aa-9859-738b30248c78,2054997910635,Microondas,Casa,R$981.00,Pendente,2024-08-27,Savannah Pham,griffinsamantha@example.net,Russian Federation,10,6.032967032967033,6.5
+3c8d3746-5ff8-4907-8862-51d3c0d08b90,1529645853516,Cintos,Vestuário,R$846.00,Concluída,2024-09-07,Joshua Stewart,jeffreynorris@example.com,Singapore,8,5.21978021978022,6.8
+da68e983-6055-4540-a31f-fe44292e47b3,5771557536803,Video game,Brinquedos,R$834.00,Concluída,2024-09-11,Tracy Green,reyeschristopher@example.com,New Zealand,1,5.394736842105263,5.6
+6835a23a-83a2-4ee2-a275-79d058266fde,3922708042069,Fones de Ouvido,Eletrônicos,R$758.00,Pendente,2024-03-19,Tammy Hernandez,thompsonkevin@example.net,Paraguay,9,5.326315789473684,6.5
+09edd3f6-8c2f-49d1-901a-d8db48ae268e,1590232053466,Cama,Casa,R$895.00,Concluída,2024-06-28,Melissa Ibarra,elizabeth70@example.com,Reunion,5,6.032967032967033,4.5
+dfabd24a-f703-4ea9-96db-70b274ff32a2,6794098025574,Hospedagem,Viagens,R$264.00,Pendente,2024-05-03,Allison Zavala,davisbrian@example.com,Zambia,1,4.885416666666667,6.0
+77cfb02a-e2dc-40aa-bb01-22c9b22780ed,6919907166143,Caderno,Escritório,R$634.00,Concluída,2023-11-26,Suzanne Sherman,jonesjean@example.net,Moldova,10,5.842592592592593,6.555555555555555
+20f85eb7-1d42-403e-9449-19320e3fdb12,1431965556964,Computador,Escritório,R$573.00,Concluída,2024-05-22,Sheryl Mcdowell,norma76@example.org,Papua New Guinea,3,5.842592592592593,7.666666666666667
+05e803b5-c7e3-4339-baad-6809f64322c2,6297489497085,Esmalte,Beleza,R$980.00,Cancelada,2023-11-19,Danny Carter,katherine89@example.net,Bosnia and Herzegovina,2,6.027522935779817,6.2
+faf48ba8-72cb-4367-b461-fae91c571a36,2721087498198,Computador,Escritório,R$393.00,Concluída,2023-12-23,Melanie Webster DDS,chadhall@example.com,Jamaica,8,5.842592592592593,6.25
+36434807-5aa5-4145-9cf2-735a70b55016,3802341004153,Lápis,Escritório,R$512.00,Cancelada,2024-09-01,Robert Baxter,robersondebra@example.com,Qatar,9,5.842592592592593,5.5
+f5b70f82-3db6-4089-b9c2-e8c0554daaad,8418430400673,Drone,Eletrônicos,R$729.00,Cancelada,2024-03-18,Dylan Wood,daisy38@example.com,Saint Pierre and Miquelon,2,5.326315789473684,5.0
+875448db-9883-4fcb-9bd5-1bcfbddada9e,9704790289676,Carro,Brinquedos,R$441.00,Pendente,2023-11-20,Jacqueline Shaw,andrewduncan@example.com,Maldives,2,5.394736842105263,4.75
+59ce9661-98bf-485c-b28a-bd12944ce9fa,2510877457206,Peixe,Alimentos,R$957.00,Concluída,2024-06-05,Mr. Daniel Parker,humphreykathleen@example.org,Paraguay,4,5.861386138613861,6.5
+acf8395b-6629-4204-be0f-b8fdfd95a835,9811658686512,Jogo de tabuleiro,Brinquedos,R$732.00,Cancelada,2024-08-06,Drew Smith,jorgecook@example.com,Burundi,7,5.394736842105263,5.5
+f022f825-2228-4c34-85ef-68062b87f9fa,4969225846595,Infantil,Livros,R$937.00,Concluída,2024-07-30,Heather Crawford,eric17@example.com,Guinea-Bissau,7,5.7560975609756095,4.0
+cd3b057d-3881-4196-969e-daf44b9d8d87,5518170586606,Cruzeiro,Viagens,R$202.00,Concluída,2024-09-22,Jesse Stephenson,marisahill@example.net,Montserrat,2,4.885416666666667,4.428571428571429
+f70293fd-ca18-46b8-a4b9-112ba74bc4bd,3991334287410,Frutas,Alimentos,R$240.00,Pendente,2023-12-12,Colleen Patrick,prestonleonard@example.org,Liberia,8,5.861386138613861,4.714285714285714
+c7005694-4e50-43a4-890e-9ba332a63e6f,0764612608466,Aparelho de musculação,Esporte,R$932.00,Concluída,2023-10-25,Kimberly Hines,nsmith@example.com,Lao People's Democratic Republic,6,5.68141592920354,3.0
+ac5fc931-453c-4c23-8293-c3fbeb514e8b,1388578390082,Passeio turístico,Viagens,R$867.00,Concluída,2024-07-11,Timothy Russell,david96@example.org,United States Minor Outlying Islands,10,4.885416666666667,7.0
+30b57e6b-a585-40fc-9c91-25c21aae2104,3476902330328,Sabonete,Beleza,R$166.00,Pendente,2024-06-03,Sarah Lara,chelseamoss@example.com,El Salvador,3,6.027522935779817,5.75
+8ee30acb-6992-47d7-bd90-1f25f2640a3f,2204566636200,Aspirador de Pó,Casa,R$756.00,Cancelada,2024-09-01,Crystal Gillespie,benjaminevans@example.com,Tonga,9,6.032967032967033,7.333333333333333
+db0efec6-1343-4523-bad7-ec5999d848d5,7194590711828,Perfume,Beleza,R$960.00,Concluída,2024-09-04,Rachel Atkins,brenda05@example.com,Falkland Islands (Malvinas),7,6.027522935779817,6.5
+a1e6499d-8caf-4193-902d-6529ff9d80f2,0322220836307,Patinete,Brinquedos,R$629.00,Pendente,2024-07-02,Steven Jones,benjamin07@example.com,Burundi,2,5.394736842105263,5.5
+28a84dda-6673-49b9-a2a7-6925e7325599,4240961473666,Pelúcia,Brinquedos,R$801.00,Cancelada,2024-09-09,Kimberly Brown,charles91@example.com,Uganda,9,5.394736842105263,7.0
+ab07a944-0355-4acf-9a1b-9d478cb53223,7565264801624,Pão,Alimentos,R$320.00,Pendente,2023-12-13,Gloria Zuniga,cory04@example.org,Denmark,9,5.861386138613861,5.166666666666667
+c5edd3d5-987f-4be0-ab86-1123cebd8343,6934491013482,Cadeira,Casa,R$581.00,Cancelada,2024-01-08,Jamie Long,jameswoods@example.org,Seychelles,3,6.032967032967033,4.333333333333333
+52af822c-5900-4aa0-815b-41603f91d29c,0437245697700,Aparelho de musculação,Esporte,R$362.00,Concluída,2023-12-04,Dawn Morrison,nelsonholly@example.org,Iran,7,5.68141592920354,4.0
+dd23bf80-8d31-4c23-bd81-6408d9b442c4,2771785157156,Tênis de corrida,Esporte,R$449.00,Cancelada,2024-10-01,Patrick Ward,victoriastanley@example.net,Kazakhstan,9,5.68141592920354,5.5
+fc290c63-eb52-4a12-ab4f-59b1f4fb79b3,7895808657517,Tênis,Vestuário,R$275.00,Concluída,2024-05-09,Angela Perry MD,ehernandez@example.net,Nicaragua,2,5.21978021978022,3.6666666666666665
+ecf32cc4-f838-4ff1-b99a-30fe32d04628,8782879242867,Religioso,Livros,R$919.00,Cancelada,2024-05-08,Carlos Andrews,graynicholas@example.com,Namibia,4,5.7560975609756095,5.4
+5ee7bfa6-8316-49a5-9b10-7d3e2f453e94,2890216161682,Cadeira,Casa,R$469.00,Pendente,2024-05-30,Christopher Simpson,joseph14@example.org,China,8,6.032967032967033,5.833333333333333
+c14f0ab2-59f8-4e13-9555-a7c8c9b4277e,1154169250666,Ovos,Alimentos,R$327.00,Cancelada,2024-03-17,Joseph Finley,michael63@example.net,Botswana,9,5.861386138613861,5.0
+49af53eb-4f4f-4e16-9a85-337e2f3b4ccb,8036527526183,Romance,Livros,R$905.00,Concluída,2024-09-18,Nicole Thomas,owilliams@example.net,Bouvet Island (Bouvetoya),10,5.7560975609756095,7.0
+6b8ce668-8ac5-409c-aaa3-9aab75ddd5d5,6499098130982,Seguro viagem,Viagens,R$187.00,Pendente,2023-12-10,Ray Parsons,martinezthomas@example.net,Uruguay,7,4.885416666666667,7.0
+a42309ce-4ef4-4394-bfcc-43835242acd7,2551717920399,Corretivo,Escritório,R$801.00,Pendente,2024-05-18,Alan Colon,josephspence@example.com,Kuwait,2,5.842592592592593,3.0
+e23d56ad-c756-4b4f-ae7d-7e38bdb1faba,9450283650590,Arroz,Alimentos,R$69.00,Concluída,2024-05-03,Katherine Bridges,hardyshane@example.com,Dominican Republic,8,5.861386138613861,7.333333333333333
+003ebc72-ef81-42f7-a1ec-f76d8354a6f9,7689667656664,Carro,Brinquedos,R$289.00,Concluída,2024-02-05,Peter Stephens,jelliott@example.net,Comoros,9,5.394736842105263,7.25
+e05dfe31-cec8-458a-a39b-7ff6a0f6480c,4676868165777,Ovos,Alimentos,R$175.00,Concluída,2024-04-30,Scott Williams,berrykelly@example.net,Australia,1,5.861386138613861,3.5
+dbb51b5e-ed30-4fba-b2e8-b5d2d17a099f,2046722168886,Mala,Viagens,R$273.00,Cancelada,2024-08-26,Martha Mcdonald,griffinmatthew@example.org,Albania,2,4.885416666666667,5.0
+a53ea1c0-3810-43e1-a761-4386eddad3c7,8172677007179,Peixe,Alimentos,R$269.00,Concluída,2024-02-17,Eric Kim,thomas36@example.net,Swaziland,3,5.861386138613861,5.0
+1d3edcd1-1a22-41db-b3d6-71e3f5d5ccd1,7256252097012,Aparelho de musculação,Esporte,R$304.00,Concluída,2024-05-31,Daniel Scott,mark16@example.com,Korea,7,5.68141592920354,5.8
+f333a5ab-06f5-43e7-9994-0eaaf7c190dd,4205364968539,Condicionador,Beleza,R$184.00,Concluída,2024-04-12,Miranda Carter,angelastevens@example.net,Brunei Darussalam,9,6.027522935779817,7.0
+866d1fea-2fe7-4bc3-8957-c955521cab84,0565864302467,Pão,Alimentos,R$802.00,Pendente,2023-12-04,Tracy Collins,jillevans@example.net,Serbia,2,5.861386138613861,6.8
+f7c0c42f-9af9-4ed9-bdac-4c8dbc831327,5697864941225,Sabonete,Beleza,R$598.00,Cancelada,2024-06-15,Brian Schmidt,vroberson@example.net,Ghana,10,6.027522935779817,6.0
+98308a7d-fc97-4dc9-9643-364d1f240fc7,9452737638673,Boneco de ação,Brinquedos,R$589.00,Pendente,2024-02-13,Mariah Martinez,ismith@example.net,Iraq,5,5.394736842105263,6.0
+ceb791ef-f40b-4c97-8f1e-c608d1e1ca89,0930798538600,Boneca,Brinquedos,R$834.00,Pendente,2024-01-28,Keith Day,brittanymatthews@example.net,Venezuela,9,5.394736842105263,8.0
+a78e2817-df68-46cd-9a00-bc519bdb740f,7150175174365,Cintos,Vestuário,R$499.00,Cancelada,2023-11-20,Christina Wilkinson,wmarsh@example.net,Nauru,2,5.21978021978022,3.5
+4205c14f-dea7-4c4c-9eb0-f42c87ee3279,2050304304593,Computador,Escritório,R$692.00,Cancelada,2024-05-23,Kristy Peterson,qhuerta@example.com,El Salvador,9,5.842592592592593,5.75
+92c0f3f0-1d3d-4a5b-8271-3f1d61dbd5e0,7608069418984,Aparelho de musculação,Esporte,R$1000.00,Concluída,2024-09-08,Charles Guerra,caseleslie@example.net,Wallis and Futuna,6,5.68141592920354,6.5
+6a141b7f-a27b-4fac-8806-9f8125621184,9012791790191,Óculos,Vestuário,R$558.00,Concluída,2023-10-31,Courtney Taylor,david75@example.com,Germany,7,5.21978021978022,3.75
+bd2ec617-80c8-43ce-aacd-e7257e57e91f,2355247135427,Roupa esportiva,Esporte,R$672.00,Cancelada,2023-11-17,Michelle Nelson,alvaradojames@example.org,Guatemala,4,5.68141592920354,5.333333333333333
+cefb2305-4792-4b65-beeb-f71d8542d0a8,3125763906486,Perfume,Beleza,R$713.00,Concluída,2024-09-26,Sandra Briggs MD,tammy86@example.com,Macao,9,6.027522935779817,6.111111111111111
+e6bbd9c3-4177-4585-a9fd-6664a4d4eaa1,9242655698022,Científico,Livros,R$901.00,Concluída,2023-11-15,Ariel Hawkins,thompsonmiranda@example.net,Argentina,4,5.7560975609756095,4.375
+8726b146-6ff0-4083-8445-b27084095971,4098200231603,Máscara,Beleza,R$864.00,Cancelada,2024-10-04,Emily Pearson,nicholas35@example.org,Iceland,7,6.027522935779817,5.0
+27d6fb81-8bd4-40ea-9e37-482c1d040453,2550149995630,Relógio Inteligente,Eletrônicos,R$107.00,Pendente,2023-12-14,Michael Gomez,johnjackson@example.org,Northern Mariana Islands,1,5.326315789473684,5.428571428571429
+20427e37-64d7-4241-b025-25d0771162da,4983330984782,Cama,Casa,R$894.00,Pendente,2024-06-05,Jason Richardson,bushterri@example.org,Saint Lucia,8,6.032967032967033,4.125
+cc769484-8bd5-45a5-8195-9ec8534d84cc,6964488088483,Perfume,Beleza,R$197.00,Cancelada,2024-10-01,Richard Brown,hwhite@example.com,Eritrea,7,6.027522935779817,6.333333333333333
+865facd3-1911-4193-9830-414819e6348c,5173680286110,Verduras,Alimentos,R$57.00,Cancelada,2024-01-29,Cynthia Smith,villarrealstanley@example.com,Hong Kong,5,5.861386138613861,4.833333333333333
+c9820a46-2049-45e0-864d-7c98dfad65d7,9937480021458,Aparelho de musculação,Esporte,R$121.00,Cancelada,2024-04-21,Alicia Warner MD,nicholasknight@example.com,Korea,5,5.68141592920354,5.8
+cfc2aa54-d868-40b9-93cc-c53994b4ddc0,3752383125340,Bola,Brinquedos,R$127.00,Concluída,2024-02-05,Melissa Jensen,davisnicole@example.net,Trinidad and Tobago,2,5.394736842105263,5.0
+dd5cf18a-1dd1-4cca-8ff5-884d7b66ae58,7984650644292,Boneco de ação,Brinquedos,R$295.00,Concluída,2024-03-09,Laura Montgomery,josephhernandez@example.org,Burundi,4,5.394736842105263,5.5
+70f8f5b8-0769-4ad6-ab7f-9a7571953d0d,9568990146197,Peixe,Alimentos,R$29.00,Pendente,2024-01-29,Yolanda Smith,ysmith@example.org,United States Minor Outlying Islands,3,5.861386138613861,7.0
+1ac5397c-c1af-497d-9dba-9af6461a0bb8,0877752619558,Protetor bucal,Esporte,R$966.00,Concluída,2024-03-26,Linda Wong,whitebecky@example.org,Madagascar,8,5.68141592920354,6.4
+5466bea2-7893-4dc3-9352-71c3f730c8c3,6047651662663,Ovos,Alimentos,R$298.00,Concluída,2024-03-21,Justin Duncan MD,taylorpamela@example.net,Saint Vincent and the Grenadines,4,5.861386138613861,6.75
+6f8ae5af-6d62-4c1f-826a-5b1317179d55,4852543569669,Aluguel de carro,Viagens,R$398.00,Pendente,2024-07-22,Dawn Love,qsanders@example.org,Latvia,7,4.885416666666667,6.833333333333333
+742146b1-5b66-4532-8f73-b9730331b5c6,0712292747708,Peixe,Alimentos,R$375.00,Pendente,2024-04-09,Ashley Johnson,leemark@example.com,Barbados,5,5.861386138613861,7.0
+d740544b-549b-4431-9450-dd7cfd23accc,1172493192605,Óculos,Vestuário,R$465.00,Cancelada,2023-12-20,Jason Crane,victoriakeith@example.org,Netherlands,8,5.21978021978022,6.5
+bf805753-203f-495c-9cc5-dc0daeecb8b3,8779223726388,Tesoura,Escritório,R$502.00,Cancelada,2024-05-17,Dawn Nelson,jessica71@example.org,Norfolk Island,7,5.842592592592593,5.285714285714286
+6e09b6db-598f-4fb0-be1f-cc2bd27f5988,2967989015006,Seguro viagem,Viagens,R$450.00,Pendente,2023-11-11,Pamela Henderson,theodorelewis@example.net,Cape Verde,6,4.885416666666667,4.5
+97a484cc-eb19-41c3-b171-29111655ff7b,6742385499799,Sofá,Casa,R$272.00,Cancelada,2024-05-28,Jason Riley,kaitlyn58@example.org,Costa Rica,6,6.032967032967033,4.5
+e994cdf5-bc56-4bc1-a8ad-5ceb7dbd37cb,5658874944910,Boneco de ação,Brinquedos,R$298.00,Pendente,2024-03-23,Trevor Ramos,ewingbrittany@example.org,Uzbekistan,2,5.394736842105263,2.3333333333333335
+c32ada68-5e74-436a-9850-baa23925c005,0263045223005,Geladeira,Casa,R$603.00,Pendente,2023-11-25,Julie Barber,williamssarah@example.net,Faroe Islands,5,6.032967032967033,6.666666666666667
+c97d30b1-1d61-41fb-9dee-aec06530abdb,9460723708866,Óculos de sol esportivos,Esporte,R$829.00,Concluída,2023-12-31,Joseph Mckinney,christineramos@example.org,Brunei Darussalam,4,5.68141592920354,7.0
+6868a8fa-54fb-4a7f-b21d-428de474ace3,1645249303513,Poesia,Livros,R$735.00,Pendente,2024-06-20,Elizabeth Villa,jessica79@example.org,Georgia,2,5.7560975609756095,4.875
+78885b8a-7aa4-43b4-8b91-8ebc017c8517,2283276278078,Aspirador de Pó,Casa,R$185.00,Cancelada,2023-11-10,Keith Kelley,forddarlene@example.com,Mauritania,4,6.032967032967033,6.5
+b85b5506-8b0d-43b4-814c-2b9a0eb05e75,6668075537438,Perfume,Beleza,R$787.00,Pendente,2024-07-28,Kenneth Arnold,lewisangela@example.com,Paraguay,6,6.027522935779817,6.5
+1fc908e4-8aae-4eeb-89ee-33173e5a13c2,6848107342951,Hidratante,Beleza,R$109.00,Pendente,2024-07-15,Jamie Griffith,samantha59@example.com,Ecuador,8,6.027522935779817,6.333333333333333
+e9c98ec2-058e-417b-811c-08f6725e7c52,8929295580184,Óculos de sol esportivos,Esporte,R$768.00,Pendente,2024-03-28,John Cole,claytondonald@example.net,Malaysia,4,5.68141592920354,7.5
+dc2d4b20-8052-4920-ae3c-5f8f5a88f0b3,5926382667608,Mesa,Casa,R$134.00,Cancelada,2024-01-17,Paul Strong,kimberly90@example.net,Malawi,5,6.032967032967033,5.444444444444445
+e82fa846-3af8-4ea0-9aff-1a37bd941058,9916289642255,Jogo de tabuleiro,Brinquedos,R$246.00,Pendente,2024-07-01,John Roach,richardsontara@example.org,Isle of Man,7,5.394736842105263,6.75
+a50ec2b1-cc26-4f66-b926-b26558edf024,3646363505294,Não-ficção,Livros,R$616.00,Pendente,2023-12-01,Susan King,ysmith@example.net,Guadeloupe,7,5.7560975609756095,4.666666666666667
+a5a1f20d-e93d-4297-9afc-0ed0fa404c41,4169314704427,Bola,Brinquedos,R$311.00,Concluída,2023-12-01,Paul Avila,glenda18@example.net,Saint Barthelemy,6,5.394736842105263,7.666666666666667
+be58e24b-6bb2-4bd9-b61f-a72a20c2528b,9375778960483,Óculos de sol esportivos,Esporte,R$65.00,Concluída,2024-04-03,Samantha Arnold,slee@example.org,Fiji,8,5.68141592920354,7.75
+00b0f02d-441f-42df-903e-1bfa545f3412,7253873087385,Barra fixa,Esporte,R$932.00,Concluída,2023-12-28,Carol Chen,jennaolson@example.org,Korea,4,5.68141592920354,5.8
+8d3500d0-2bd0-4ba3-ac46-57c530df3770,8788957146294,Roupa esportiva,Esporte,R$72.00,Cancelada,2023-12-03,Jessica Wells,russellrobert@example.net,Gibraltar,9,5.68141592920354,6.666666666666667
+5cca8e6b-97ac-4c42-a3f6-6e88a3b5e28c,6482936997564,Corretivo,Escritório,R$466.00,Cancelada,2024-09-09,Joshua Castillo,davisalicia@example.net,Kiribati,6,5.842592592592593,6.0
+87653980-d74b-44b6-b82f-f2a49cb6b751,5317621677562,Meia,Vestuário,R$173.00,Pendente,2023-12-22,Eric Gray,gloria54@example.com,Tuvalu,4,5.21978021978022,3.5
+801031b3-71a8-40fe-835c-2092210ee9a0,6035607315800,Lego,Brinquedos,R$389.00,Cancelada,2024-04-29,Selena Shelton,qmiller@example.net,Moldova,8,5.394736842105263,6.555555555555555
+131c0369-2ae2-498c-a344-2d2b2104f320,1035623632580,Fones de Ouvido,Eletrônicos,R$388.00,Concluída,2023-10-14,Kristen Key,cory16@example.org,Maldives,4,5.326315789473684,4.75
+0f4bc1fe-1c99-4647-877e-8deb6bd47c6f,9348012358889,Meia,Vestuário,R$941.00,Concluída,2024-08-14,Gregory Ryan,dfoster@example.net,Isle of Man,8,5.21978021978022,6.75
+37b00fa7-8b3d-4912-8835-0994b0c0d6b6,5614417772303,Verduras,Alimentos,R$755.00,Concluída,2024-05-07,Jonathan Preston,jennifertaylor@example.net,Mauritius,2,5.861386138613861,5.285714285714286
+aafb67eb-eca0-4bf2-8923-9520d2cbba10,0243609428671,Calculadora,Escritório,R$505.00,Cancelada,2024-04-02,Ashley Castillo,courtney93@example.net,Paraguay,8,5.842592592592593,6.5
+2be2dbf4-2869-4ef9-9f2e-ad49b23d3375,3728481328686,Alexa,Eletrônicos,R$528.00,Pendente,2024-09-06,Mark Simmons,anneadams@example.net,Somalia,3,5.326315789473684,5.571428571428571
+849ddcdc-61a0-41f6-b541-97e4e8e756b7,0914067433766,Armário,Casa,R$619.00,Concluída,2023-10-30,Jennifer Williams,patricia03@example.com,Latvia,7,6.032967032967033,6.833333333333333
+d5115214-fa0a-480a-8854-bde50555f517,1244719674056,Lego,Brinquedos,R$813.00,Concluída,2024-02-25,Zachary Wall MD,thawkins@example.org,Zimbabwe,1,5.394736842105263,4.545454545454546
+3c78cfc2-c1a8-4fc8-87cc-d72b2e41b9ae,6032993830795,Jaqueta,Vestuário,R$928.00,Concluída,2023-12-15,Johnny Smith,mortiz@example.org,Mayotte,10,5.21978021978022,6.0
+cb81b397-a20d-44f2-839b-444f98e21f6f,6393466416213,Bola,Brinquedos,R$949.00,Concluída,2024-09-05,Jeffrey Cummings,taylorjesse@example.org,Italy,8,5.394736842105263,6.0
+f8eebc3a-a759-4778-947b-f0d667388a03,0600064295192,Roupa esportiva,Esporte,R$38.00,Concluída,2023-10-30,Seth Pugh,nancy62@example.net,Israel,1,5.68141592920354,3.5
+937bdb74-3e0c-4b98-9119-51fb98e8fc56,7934804148107,Lápis,Escritório,R$740.00,Cancelada,2024-04-27,Laura Gardner,staffordandrea@example.net,Denmark,2,5.842592592592593,5.166666666666667
+cd01977b-0303-4a37-98ae-d823d6d9edf9,9570494064020,Bola,Brinquedos,R$483.00,Concluída,2024-08-21,Debbie Roberson,qsalazar@example.com,Haiti,9,5.394736842105263,8.5
+777f4cc8-1bdd-422f-812b-62d823306eba,6356793436453,Romance,Livros,R$540.00,Pendente,2024-09-02,Douglas Jones,kwoods@example.com,Niger,7,5.7560975609756095,8.0
+989a3c82-d3a5-43f7-92e7-018aba330032,0366262299034,Aspirador de Pó,Casa,R$133.00,Concluída,2024-02-16,Penny Rodriguez,williamsmelanie@example.com,Zambia,8,6.032967032967033,6.0
+2dc2fb1d-bf84-48c3-a76d-f06a131ad0a0,9801976858425,Grampeador,Escritório,R$440.00,Pendente,2024-04-18,Gary Harrell,rosekrystal@example.org,Maldives,7,5.842592592592593,4.75
+ab2399ce-7204-41f0-9856-9e6a46cb5174,0405683397629,Drone,Eletrônicos,R$1000.00,Pendente,2024-03-18,Jill Thompson,vangemily@example.com,Lesotho,5,5.326315789473684,7.0
+53f88fad-0d85-48e2-a510-01ec2ec97a16,0554078115932,Esmalte,Beleza,R$937.00,Concluída,2024-05-22,Elizabeth Ellis,hickmanchad@example.net,Tonga,10,6.027522935779817,7.333333333333333
+90228119-9d7f-4ebf-a8a4-bb7032e491c1,2554391247295,Armário,Casa,R$912.00,Cancelada,2024-01-05,Catherine Osborne,jerry43@example.com,Montenegro,2,6.032967032967033,3.6666666666666665
+6170bafc-d943-4170-ba5d-af3e334a9888,3983372106167,Poesia,Livros,R$307.00,Concluída,2023-11-27,Samuel Kim,samanthaadams@example.net,American Samoa,2,5.7560975609756095,6.4
+7c31f9d4-32c3-4c4d-9579-79ead40f40f1,4341407935103,Condicionador,Beleza,R$772.00,Cancelada,2024-03-03,Sarah Morales,ernesthobbs@example.com,Korea,8,6.027522935779817,5.8
+dac168ef-3c2c-49e3-9cb6-21ee0a5974ac,8481104192099,Bola,Brinquedos,R$109.00,Concluída,2023-12-06,Maurice Glenn,emily25@example.com,Trinidad and Tobago,10,5.394736842105263,5.0
+2990fb89-001d-4dad-b617-78864750efa1,1315540520628,Drone,Eletrônicos,R$945.00,Pendente,2024-07-01,Julia Taylor,scottmiller@example.org,Brunei Darussalam,5,5.326315789473684,7.0
+d4257a36-bce5-4710-89a5-ddb706fd2ac1,6994455276292,Bola,Brinquedos,R$821.00,Cancelada,2024-01-12,Rebecca Craig,xwatson@example.net,Uganda,10,5.394736842105263,7.0
+517cb6ce-31bd-4258-aa63-911a7796ed5b,6036569249141,Jogo de tabuleiro,Brinquedos,R$743.00,Pendente,2023-10-25,Jesse Mitchell,timothy84@example.net,Wallis and Futuna,8,5.394736842105263,6.5
+af2cc9c8-19b0-4e1d-8d10-14c299557977,2914303930026,Cintos,Vestuário,R$630.00,Concluída,2024-04-28,Joseph Reyes,xthompson@example.org,Lesotho,9,5.21978021978022,7.0
+d5b6c4a1-7a8a-408e-a874-e6e82b35894d,4733619998951,Autoajuda,Livros,R$816.00,Cancelada,2024-04-12,Michael Brown,james41@example.net,Tanzania,5,5.7560975609756095,4.75
+0cffe112-ce38-4cb9-a097-a0115509cdd7,0321274865813,Skate,Esporte,R$408.00,Cancelada,2024-04-26,Barbara Douglas,cynthiarose@example.com,Ukraine,6,5.68141592920354,5.5
+f0d08438-3c68-4a6f-9bc0-251b883eefd5,9345091295326,Cruzeiro,Viagens,R$931.00,Concluída,2023-12-14,Valerie Rush,zachary76@example.com,Senegal,4,4.885416666666667,5.0
+8311b4de-df7a-4b68-a884-c42d3f3bdfbd,1749748508957,Cruzeiro,Viagens,R$760.00,Concluída,2024-06-09,Dr. Adam Parker PhD,phillipmorris@example.net,Heard Island and McDonald Islands,5,4.885416666666667,8.0
+9174085d-88d4-4b22-9d7a-66a45f528f25,9880148197418,Fogão,Casa,R$692.00,Concluída,2024-07-21,Brian Bartlett,vgarza@example.net,Bouvet Island (Bouvetoya),8,6.032967032967033,7.0
+75c2b2aa-79ac-4bf1-b6c2-010579da94d7,6684278152612,Boneca,Brinquedos,R$351.00,Pendente,2024-09-08,Amber Kelly,jillian18@example.org,Zambia,9,5.394736842105263,6.0
+70d994ca-fcf6-4b5f-a7c9-12e3d6b4079a,3748767687863,Mesa,Casa,R$831.00,Pendente,2024-09-11,Nicholas Warner,rangelmary@example.net,Sao Tome and Principe,9,6.032967032967033,6.0
+cbb05c31-aa85-4b9d-ba1c-e3bd4ddd4ac7,9899482081581,Jaqueta,Vestuário,R$627.00,Cancelada,2024-01-11,Karen Spencer,jamesgreen@example.org,Cuba,8,5.21978021978022,6.0
+4326c542-c385-4587-bc49-d7f9404781f2,7480981951615,Mochila de viagem,Viagens,R$46.00,Concluída,2024-01-07,Colleen Walker,epayne@example.com,Saint Pierre and Miquelon,7,4.885416666666667,5.0
+ddf173fc-e74a-4e2a-9af8-cda2e763eea0,1665971199628,Jogo de tabuleiro,Brinquedos,R$132.00,Concluída,2024-07-02,Hector Lutz,tamara38@example.org,Guinea-Bissau,2,5.394736842105263,4.0
+8e8efb40-657b-412c-a29c-3ef5989c9933,6910506276424,Lápis,Escritório,R$518.00,Concluída,2024-09-29,Dr. Brian Webb,sandra50@example.org,Liberia,9,5.842592592592593,4.714285714285714
+0baac65e-e3f8-4914-a254-d0a480b3bb5c,8722668023062,Macarrão,Alimentos,R$629.00,Cancelada,2024-08-24,Joel Rhodes,mgarcia@example.com,Saudi Arabia,3,5.861386138613861,3.0
+9d1b31cb-41e4-45ab-8f5d-875216a97e4e,0949202511443,Borracha,Escritório,R$111.00,Cancelada,2023-10-28,Gwendolyn Mora,zachary25@example.net,Norfolk Island,8,5.842592592592593,5.285714285714286
+37013adb-dffd-4993-96ce-0c05c27b4d93,9243422476409,Cama,Casa,R$782.00,Concluída,2024-07-04,Adam Trujillo,matthewwaters@example.com,Djibouti,10,6.032967032967033,4.666666666666667
+07fb93f7-5089-4b9b-a74a-7d9a00e9be9a,9656321370745,Batom,Beleza,R$511.00,Concluída,2024-03-03,Gabrielle Palmer,leechristopher@example.com,Belgium,4,6.027522935779817,5.5
+fa76c41f-9c54-4db9-bbe6-054af6f6adff,5504577880560,Câmera,Eletrônicos,R$995.00,Concluída,2024-03-13,Gregory Gonzalez,jessica90@example.com,Swaziland,10,5.326315789473684,5.0
+5d0f5e93-1797-4fd7-b1df-c0979dab16f5,0371124964395,Cama,Casa,R$314.00,Cancelada,2024-06-23,George Coleman,cwells@example.org,Cambodia,9,6.032967032967033,7.166666666666667
+583b46fe-47b0-4957-8a5e-a17a10eb8bbb,7221334332367,Esmalte,Beleza,R$476.00,Pendente,2024-04-24,Roger Underwood,zamorakevin@example.net,Central African Republic,1,6.027522935779817,4.375
+4a94c459-b053-4edf-b47f-baddcb326eb8,1484839737914,Peixe,Alimentos,R$755.00,Pendente,2023-12-10,Lance Crawford,ellisanne@example.com,Guinea,10,5.861386138613861,7.0
+1829fd9c-688d-4b82-b8ab-2013f6211415,8015109343400,Mesa,Casa,R$712.00,Cancelada,2023-11-18,Kenneth Moore,robert21@example.org,Malta,10,6.032967032967033,3.5
+d0485f07-234a-4a86-a4e0-e76e3daf178b,2670382449407,Boneco de ação,Brinquedos,R$395.00,Concluída,2024-09-26,Jessica Taylor,erinmoore@example.org,Kenya,3,5.394736842105263,5.0
+0b320efe-3db2-47ac-a0aa-1b11d5d9212d,8712917753222,Drone,Eletrônicos,R$370.00,Cancelada,2024-05-03,Grace Perez,erinbrown@example.net,Uruguay,9,5.326315789473684,7.0
+0f7d223f-93a8-416e-9b65-9cfa91a6acf0,4875269593848,Relógio Inteligente,Eletrônicos,R$624.00,Pendente,2023-11-11,Steven Donovan,carolinesantos@example.net,Sierra Leone,10,5.326315789473684,8.0
+e91536f3-dd64-4b12-8984-5207c0debad8,5806312539987,Mesa,Casa,R$275.00,Concluída,2024-02-06,Christopher Newman,nguyenmarissa@example.com,Jersey,9,6.032967032967033,6.666666666666667
+b914e154-f9e2-4b28-a7ed-8100ff6b74b5,6406172458092,Máscara,Beleza,R$560.00,Cancelada,2024-04-16,Dr. Hannah Gonzales,hortiz@example.net,Sudan,2,6.027522935779817,2.0
+d6b93f93-2ca8-411c-b4e6-a2c00aff6eb6,6465911900957,Boneco de ação,Brinquedos,R$129.00,Concluída,2023-12-17,Sandra Solomon,rivasbrandon@example.net,Bulgaria,4,5.394736842105263,3.5
+1a26aa4a-bc4a-42d1-bbda-c1a3e7e71265,6881689819046,Caneta,Escritório,R$745.00,Cancelada,2023-12-08,Kelly Barker,lopezrobert@example.org,Saint Vincent and the Grenadines,10,5.842592592592593,6.75
+d482a126-9463-4ab6-bb94-3ecc7025c36e,8727674478950,Maquiagem,Beleza,R$322.00,Pendente,2024-08-23,Leslie Dillon,david59@example.net,United Arab Emirates,5,6.027522935779817,7.5
+5e1e555a-03bf-42dd-ab23-4812954761c0,3535889263743,Grampeador,Escritório,R$462.00,Concluída,2024-08-30,Jennifer Vargas,thomasmark@example.net,San Marino,6,5.842592592592593,5.666666666666667
+9284dd90-0317-40f7-9fe1-1d0c636421e1,7909895683653,Perfume,Beleza,R$784.00,Concluída,2024-04-24,Katherine Wilson,chloerocha@example.com,Italy,6,6.027522935779817,6.0
+a01e1fa0-4c39-4ad3-9bb3-09703f57cae7,5565187874097,Mala,Viagens,R$147.00,Pendente,2024-06-06,Stephen Nicholson,acostacindy@example.net,Iraq,8,4.885416666666667,6.0
+031763c9-1592-4161-8086-01dfb5257d9f,8275180969962,Grampeador,Escritório,R$347.00,Pendente,2024-08-14,Julia Cunningham,nramirez@example.com,Niger,8,5.842592592592593,8.0
+39a34f74-0682-4e86-a8c2-26747f5a8e4d,2190240784391,Passagem aérea,Viagens,R$147.00,Pendente,2024-07-03,Dr. Melissa Webster,garciastephen@example.com,Rwanda,8,4.885416666666667,4.8
+3e56bb5a-4583-4abc-af90-540c432b2b41,2493241501098,Calculadora,Escritório,R$551.00,Cancelada,2024-04-26,Angela Strickland,conleyolivia@example.net,New Zealand,3,5.842592592592593,5.6
+f4a051ca-e5dc-456a-8bcd-8065908802a3,1704099306768,Microondas,Casa,R$650.00,Concluída,2024-06-02,Michael Stanton,qjohnston@example.org,Montserrat,2,6.032967032967033,4.428571428571429
+ccc53959-c1d4-46d0-b2e5-3885ccaf4290,3095945778654,Maquiagem,Beleza,R$764.00,Cancelada,2024-07-02,Francisco Rodriguez MD,leebrandy@example.net,Andorra,4,6.027522935779817,4.0
+8c03e541-def9-4c37-a6af-43557cf8dc7e,9889030999109,Mala,Viagens,R$608.00,Pendente,2024-07-22,Terry Jones,operez@example.com,North Macedonia,7,4.885416666666667,5.25
+88679f13-3811-4a3b-bbc4-4f169fee1bb0,2162562925158,Cintos,Vestuário,R$130.00,Concluída,2024-07-11,Greg Young,probinson@example.com,Georgia,5,5.21978021978022,4.875
+90971cab-f25f-409d-a37d-8c616880281b,5027703482655,SmartTV,Eletrônicos,R$202.00,Pendente,2024-01-20,Edwin Davis,danielbrown@example.com,Belgium,3,5.326315789473684,5.5
+2d0cf625-fc7e-4fcb-95ab-df7192e62299,3843270907184,Verduras,Alimentos,R$587.00,Concluída,2024-01-07,Thomas Miller,npoole@example.com,Colombia,5,5.861386138613861,5.6
+86326f4e-e656-48eb-ae73-e01478c02b56,3065940593361,Tônico,Beleza,R$415.00,Concluída,2023-11-29,Stephanie Randolph,theresa10@example.com,British Indian Ocean Territory (Chagos Archipelago),9,6.027522935779817,6.5
+f280aa56-c9f7-4913-90d3-40c5696780db,7930274334774,História,Livros,R$833.00,Cancelada,2024-01-24,Juan Holland,david92@example.org,French Southern Territories,4,5.7560975609756095,5.0
+b031d1af-caf3-45c9-8f72-33f616683188,9080164941976,Roupa esportiva,Esporte,R$531.00,Pendente,2024-03-25,Taylor Rangel,pbarnes@example.org,Russian Federation,1,5.68141592920354,6.5
+c32a7ac4-8285-4578-b35f-2d1fd3a7e482,1976695488043,Lego,Brinquedos,R$512.00,Cancelada,2024-05-16,Daniel Brown,melissawallace@example.net,Cocos (Keeling) Islands,1,5.394736842105263,4.166666666666667
+ec78a73d-9f37-4ce4-9280-dbcca86e0d83,4667373016890,História,Livros,R$590.00,Cancelada,2023-12-24,Summer Diaz,emilylove@example.com,Dominican Republic,9,5.7560975609756095,7.333333333333333
+0ddcffb6-59f3-4c62-b001-bfae9a76d863,9481197416989,Calça,Vestuário,R$382.00,Concluída,2024-01-18,Tricia Little,bgriffin@example.net,Greenland,8,5.21978021978022,5.2
+00bbcc0f-3f2b-413d-9f1a-d5e68822aa1b,3125104861542,Óculos,Vestuário,R$701.00,Concluída,2024-09-28,Tina Morris,vasquezrobert@example.com,Croatia,10,5.21978021978022,6.6
+44cbbe5e-796e-4090-9bf0-035217446260,6900914735170,Fones de Ouvido,Eletrônicos,R$411.00,Pendente,2024-09-11,Ronald Clay,ztaylor@example.net,French Guiana,1,5.326315789473684,3.3333333333333335
+cfeb60de-b276-43b2-9778-1942cfe769e3,3696459340674,Hospedagem,Viagens,R$769.00,Cancelada,2024-05-26,Alexander Stephens,hansenamy@example.org,Peru,8,4.885416666666667,8.0
+6f81b073-3970-44d5-9f0d-5e37ba2f157c,0705504532223,Seguro viagem,Viagens,R$924.00,Cancelada,2024-08-08,Regina Cordova,kristinflores@example.com,Latvia,1,4.885416666666667,6.833333333333333
+9fc9ef04-9b2f-485c-9070-4b69a116ca95,7684847717883,Computador,Escritório,R$287.00,Cancelada,2023-12-15,Peter Mitchell,garciaphilip@example.org,Moldova,9,5.842592592592593,6.555555555555555
+c17632f5-d017-46e7-ba36-633934c30a2e,5047236999024,Verduras,Alimentos,R$196.00,Cancelada,2024-10-05,Christopher Lamb,martinezheather@example.org,Macao,8,5.861386138613861,6.111111111111111
+879e0656-6da5-4d43-a852-43769c73e625,9395037898692,Bicicleta,Brinquedos,R$787.00,Pendente,2024-03-25,George Hanson,lisaward@example.com,Romania,7,5.394736842105263,5.75
+070a9c65-519b-4287-b866-becfa65c22a7,6728560285388,Aparelho de musculação,Esporte,R$305.00,Pendente,2023-12-16,Matthew Combs,austin47@example.net,Norfolk Island,4,5.68141592920354,5.285714285714286
+0db3fae2-e6fc-4f46-99ba-806552faa375,7593415962139,Notebook,Eletrônicos,R$304.00,Cancelada,2024-04-22,Angela Smith,cheyenne34@example.net,Maldives,3,5.326315789473684,4.75
+2f7d68a8-d491-4893-a74f-f72f72ca63c8,2488349854580,Bola,Brinquedos,R$985.00,Cancelada,2024-02-20,Breanna Copeland,michelle76@example.net,Cote d'Ivoire,6,5.394736842105263,5.8
+9b5ad927-c0fb-4097-a316-a14b7bd577ae,1527239691087,Mochila de viagem,Viagens,R$446.00,Concluída,2023-11-25,Jason Barton,iowens@example.com,Norfolk Island,2,4.885416666666667,5.285714285714286
+50746eef-d163-438f-a7ec-455fa7f504de,5713347230485,Cintos,Vestuário,R$463.00,Pendente,2024-02-01,Robert Johnson,katelyn56@example.com,Somalia,3,5.21978021978022,5.571428571428571
+8750be56-f77f-43af-80fb-5abdecbcc176,5607587790529,Científico,Livros,R$881.00,Pendente,2024-06-26,Jessica Downs,debra32@example.org,Dominica,6,5.7560975609756095,5.0
+3d44c7ad-05f4-44d7-97eb-a0e0a31cb227,6941109542517,Hidratante,Beleza,R$834.00,Pendente,2024-02-21,Donna Gross,tyler95@example.com,Comoros,5,6.027522935779817,7.25
+81b218ce-e863-40df-87d1-8a420cad2c60,8989189112716,Peixe,Alimentos,R$848.00,Cancelada,2023-11-20,Benjamin Wilkins,susan65@example.com,Timor-Leste,2,5.861386138613861,5.333333333333333
+0918b4ec-62ac-4e8f-b5b9-c65169fe591a,1624452763420,Máscara,Beleza,R$868.00,Concluída,2024-05-07,Andrew Sullivan,williamsangela@example.org,Estonia,3,6.027522935779817,5.25
+9bbfc751-ad08-45c0-b150-34a5d87c111d,5896290562145,Não-ficção,Livros,R$804.00,Concluída,2023-12-03,Rhonda Donaldson,jessica55@example.com,Pakistan,3,5.7560975609756095,4.666666666666667
+f2d0d7bc-b191-4650-a8a9-f6667a698b87,6377325557835,Borracha,Escritório,R$573.00,Concluída,2023-11-23,Jessica Garza,ymorgan@example.org,Congo,10,5.842592592592593,5.5
+20f1746d-9967-41fa-bb6c-ea433c00b566,0567600175359,Feijão,Alimentos,R$434.00,Pendente,2023-12-06,Lauren Sutton,hayley47@example.com,Tanzania,3,5.861386138613861,4.75
+0dc33385-fa5a-4f3c-bc4a-5518e7e8859f,6854023498405,SmartTV,Eletrônicos,R$569.00,Concluída,2024-07-26,Ashley Sanders,deborahanderson@example.com,Saint Lucia,1,5.326315789473684,4.125
+6ba75a3a-f091-4a60-8ff4-84f6abcd90bb,8870828128208,Esmalte,Beleza,R$865.00,Cancelada,2023-11-21,Wayne Morse,kellyrodriguez@example.com,Gambia,10,6.027522935779817,4.625
+d9e33928-7a57-49d5-b831-da2835e26df9,5040166215974,Fogão,Casa,R$131.00,Concluída,2024-09-04,Christopher Simpson,robert45@example.com,Saint Barthelemy,10,6.032967032967033,7.666666666666667
+8cafd941-e32a-47e7-95f9-4d6f29a74b51,1288863856234,Armário,Casa,R$443.00,Cancelada,2024-09-06,William Rice,hoodtara@example.org,Sao Tome and Principe,3,6.032967032967033,6.0
+d53e7ad2-4ef4-4370-962d-ec2fed80d125,4778523017336,Pão,Alimentos,R$877.00,Cancelada,2024-01-04,Brittany Martinez,james36@example.com,Belize,6,5.861386138613861,5.714285714285714
+8b279d46-cc6c-48f5-90c5-685688b99d5c,8229451999387,Borracha,Escritório,R$147.00,Pendente,2023-12-08,Kayla Griffin,michael07@example.net,Greece,2,5.842592592592593,6.0
+85245ca2-cdef-4bd3-8b85-7c49b2a86a38,8921946920349,Perfume,Beleza,R$400.00,Cancelada,2023-11-17,Denise Hamilton,katiepark@example.net,Malawi,4,6.027522935779817,5.444444444444445
+5386ff4a-ad0a-4292-9a63-7afff554a9a1,7741277597925,Pelúcia,Brinquedos,R$436.00,Cancelada,2024-02-24,Nicole Hill,alexanderdrake@example.org,Japan,4,5.394736842105263,5.8
+4701ebc8-8a0c-47b4-95fc-a7a337214c4c,2386409596244,Calculadora,Escritório,R$644.00,Concluída,2024-08-09,Shawn Rhodes,johnsonsarah@example.com,Haiti,8,5.842592592592593,8.5
+87595c20-107b-48bd-93ec-5e08044b1e53,1823277909055,Feijão,Alimentos,R$527.00,Pendente,2024-08-23,Angela Rodriguez,cabreraryan@example.com,Cambodia,5,5.861386138613861,7.166666666666667
+a02a302b-9d0e-4c5d-811f-5affe89ae325,3677061407665,Raquete de tênis,Esporte,R$526.00,Cancelada,2023-12-25,William Shelton,brandivalenzuela@example.com,Guinea,7,5.68141592920354,7.0
+395e7704-0d2a-4c60-8db6-876e62604df5,9584915311174,Impressora,Escritório,R$663.00,Concluída,2023-11-27,Kevin Hammond Jr.,michael90@example.com,Singapore,10,5.842592592592593,6.8
+99db44ee-3fc4-4318-ad16-3c521f1f1406,2393905770450,Chuteira,Esporte,R$715.00,Pendente,2023-11-19,Brian Nielsen,jon98@example.com,Gambia,6,5.68141592920354,4.625
+4176fd6d-5a60-4a62-a1e5-ea2adf1711a4,4816810814326,Verduras,Alimentos,R$305.00,Pendente,2023-12-05,Joseph Walker,rhodessteve@example.org,Kuwait,2,5.861386138613861,3.0
+ad15774f-8787-4c00-a9e7-cb15d18d7bb6,6835392295277,Arroz,Alimentos,R$312.00,Pendente,2024-03-08,Ms. Kathryn Donovan,jwood@example.org,Sweden,2,5.861386138613861,4.0
+b40be3a3-d74e-43b5-86cf-db0a9668a3ce,1062196680984,Smartphone,Eletrônicos,R$519.00,Cancelada,2024-08-29,Thomas Fowler,joshuavazquez@example.org,Korea,9,5.326315789473684,5.8
+cdfc96b9-21c2-4bc0-a33a-7ea1c331a7a2,2690647013310,Shampoo,Beleza,R$564.00,Pendente,2024-03-15,Diane Robinson,kimwilliams@example.com,Turkmenistan,3,6.027522935779817,3.0
+3eb37989-8b87-47df-ad35-4b7679cc216b,7729426599914,Não-ficção,Livros,R$592.00,Cancelada,2023-10-28,Carlos Harvey,jessica76@example.com,Brazil,2,5.7560975609756095,4.714285714285714
+7279f791-c885-4a66-bb2a-86a3145a5082,5015720085348,Passagem aérea,Viagens,R$429.00,Cancelada,2024-08-11,Jessica Hart,katrina33@example.net,Macao,2,4.885416666666667,6.111111111111111
+4ccb1eea-f0c3-44e4-b1f3-cc9dfc971a3a,2414668432833,Tesoura,Escritório,R$783.00,Cancelada,2024-08-02,Maria Gutierrez,michellegonzalez@example.net,Saint Kitts and Nevis,1,5.842592592592593,2.4
+f0e91ba6-61ad-4c6f-9fda-90bfab87c8ee,5023754189246,Skate,Esporte,R$149.00,Concluída,2024-01-18,Joshua Fowler,cynthia58@example.com,Romania,4,5.68141592920354,5.75
+ff15dc16-f589-4ffe-9ec6-96fc22204716,5979660403801,Corretivo,Escritório,R$213.00,Cancelada,2024-03-05,Antonio Horton,chadnewton@example.net,Costa Rica,3,5.842592592592593,4.5
+7b3cbac1-c670-4460-be37-20aeb3b65eba,5385040159945,Carne,Alimentos,R$119.00,Concluída,2024-01-22,Brian Wilkerson Jr.,pschaefer@example.net,Bosnia and Herzegovina,7,5.861386138613861,6.2
+d430bd7c-f780-4c27-81e6-356ab6ab677f,4489897246863,Passeio turístico,Viagens,R$707.00,Pendente,2024-01-08,Katherine Vega,navarromelissa@example.com,Bermuda,5,4.885416666666667,5.8
+0f020aab-771b-47a7-8c7e-8e63920a9bcf,0687206632060,Grampeador,Escritório,R$984.00,Cancelada,2024-03-06,Jennifer Schroeder,mathisdaniel@example.net,Oman,9,5.842592592592593,6.666666666666667
+093ead99-d412-4f7f-944e-9672e3b53557,7845196329572,Frutas,Alimentos,R$118.00,Cancelada,2024-08-19,Brittany Adams,marshallcraig@example.org,Vietnam,3,5.861386138613861,4.666666666666667
+1a6c53fe-f477-44b0-a778-66f2c1e99f9c,9501475809729,Cruzeiro,Viagens,R$516.00,Concluída,2024-03-02,Stephanie Taylor,taylorgarza@example.net,Palau,3,4.885416666666667,3.0
+7a8e8f9a-4ab4-4103-8409-1871e0748333,8912149130482,Corretivo,Escritório,R$478.00,Pendente,2024-02-16,Ryan Martinez,ebell@example.com,Ecuador,2,5.842592592592593,6.333333333333333
+e181088d-74b8-40aa-a615-48422dd73cd8,6833223177334,Sofá,Casa,R$593.00,Concluída,2023-11-19,Kevin Richards,bonniebrown@example.com,Belgium,7,6.032967032967033,5.5
+d69b48df-d5f4-4616-b4d2-129e1113c6b1,6833520583272,Skate,Esporte,R$556.00,Cancelada,2023-12-23,Erin Lee,barkerpatricia@example.com,Macao,9,5.68141592920354,6.111111111111111
+a146f86b-95e6-46fd-9a68-b79aa16e6871,8854049758666,Aparelho de musculação,Esporte,R$382.00,Cancelada,2024-02-27,Russell Price,pwise@example.com,Argentina,3,5.68141592920354,4.375
+c23b6fae-94e1-48a1-b7ef-47601964f21b,7259718951750,Óculos,Vestuário,R$902.00,Concluída,2024-02-10,Gabrielle Davis,jamie86@example.net,Tajikistan,7,5.21978021978022,7.0
+80198b79-bb47-4573-ac27-1b02d6a6bb13,1146909089414,Ficção,Livros,R$292.00,Pendente,2024-04-27,Matthew Steele,jdonovan@example.net,Liberia,7,5.7560975609756095,4.714285714285714
+033e235f-f1a6-46f1-9ab1-f71cfe4ca1a5,2910754523848,Raquete de tênis,Esporte,R$573.00,Concluída,2024-09-13,Alyssa Jackson,brooksmonica@example.net,Ireland,9,5.68141592920354,8.0
+b506ddf8-bdaa-4dd3-9615-635273fb4729,1600328728465,Barra fixa,Esporte,R$736.00,Pendente,2024-07-17,Frank Johns,rickmoore@example.com,Cyprus,10,5.68141592920354,6.8
+ff950d6e-7613-4a06-ad6b-5bb883e51d91,4018035630129,Relógio Inteligente,Eletrônicos,R$215.00,Pendente,2023-12-15,Randy Mullen,aprilsanders@example.com,Italy,7,5.326315789473684,6.0
+3baafd5c-48c4-4e26-b5cc-11d44cd49952,8505072804461,Tênis,Vestuário,R$695.00,Concluída,2024-06-22,David Delgado,powellrichard@example.net,Saint Kitts and Nevis,3,5.21978021978022,2.4
+e5dddf6c-64da-4a14-8745-fbd14f0f1008,9061785610786,Boneca,Brinquedos,R$88.00,Concluída,2024-10-04,Tara Garcia,eric55@example.com,Cook Islands,10,5.394736842105263,10.0
+3db34460-defa-4cad-a56d-5c5e059e0026,2560180003126,Maquiagem,Beleza,R$152.00,Concluída,2024-02-13,Sean Chavez,pbutler@example.net,Trinidad and Tobago,1,6.027522935779817,5.0
+9e4d22dd-b927-4974-9768-31467fbc088e,4307525865289,Maquiagem,Beleza,R$713.00,Concluída,2023-10-24,Thomas Patton,drew50@example.com,Venezuela,7,6.027522935779817,8.0
+2c6e5bd2-a7f8-42ca-b4f9-6895f919c8c6,3950656020167,Adaptador de tomada,Viagens,R$339.00,Cancelada,2024-08-01,Whitney Hall,kmartinez@example.org,Gambia,1,4.885416666666667,4.625
+f4054db9-4260-49f3-82cf-c391997ee359,9902913691935,História,Livros,R$922.00,Cancelada,2024-06-23,Leonard Reid,garciakelly@example.com,Georgia,4,5.7560975609756095,4.875
+161bcfcf-ef1b-4bcc-8821-0206b16668dd,4991687525404,Didático,Livros,R$98.00,Concluída,2024-08-21,Michele Wong,markolson@example.net,Moldova,5,5.7560975609756095,6.555555555555555
+8cba31e5-1c1c-4735-8f33-54ab94ab83f8,8374193865077,Mesa,Casa,R$805.00,Concluída,2024-03-23,Todd Bryan,wallacesarah@example.net,Tuvalu,3,6.032967032967033,3.5
+800938d7-a80c-428e-a1b0-a76c8b42ed42,6101852569951,Passeio turístico,Viagens,R$824.00,Concluída,2024-04-30,Michael Jordan,willisapril@example.net,Palestinian Territory,6,4.885416666666667,5.25
+ed7c2fb6-552b-4cd8-bc8f-b66fb102c9cc,2348646510049,Drone,Eletrônicos,R$466.00,Cancelada,2024-03-27,Martin Hicks,ewilliams@example.org,Malaysia,9,5.326315789473684,7.5
+06c3981e-fc3d-4570-b88e-6bd5d3f97cc0,9673102637446,Bicicleta,Brinquedos,R$49.00,Pendente,2024-10-05,Jared Nash,riggsmaria@example.net,North Macedonia,2,5.394736842105263,5.25
+6bc8fc3c-bd10-4c12-874e-8b05399c3205,4147885300224,Shampoo,Beleza,R$296.00,Cancelada,2024-09-12,Michael Wolf,paula48@example.net,Denmark,4,6.027522935779817,5.166666666666667
+418a0723-bb39-415b-aec6-da8c473e9746,9103553876847,Científico,Livros,R$45.00,Pendente,2023-11-05,Allison Reed,sara07@example.com,Slovakia (Slovak Republic),7,5.7560975609756095,6.0
+0af5d398-b166-495b-b73c-0cd2fe9f31f1,5800063912693,Alexa,Eletrônicos,R$96.00,Concluída,2024-10-07,John Acevedo,zacharybrown@example.com,Jordan,6,5.326315789473684,5.5
+3a85c566-5032-4343-9f64-ad21c7c533c7,0130984816547,Aspirador de Pó,Casa,R$277.00,Cancelada,2024-05-03,Carol Yates,timothy50@example.org,Luxembourg,10,6.032967032967033,6.8
+803969d3-dcae-426c-9363-c1352049b99f,8462302321658,Mochila de viagem,Viagens,R$635.00,Concluída,2023-10-10,Raymond Fuller,melissawest@example.net,Estonia,8,4.885416666666667,5.25
+bbd0934e-c6d4-420d-98e9-c9dc553f6860,5510271003310,Corretivo,Escritório,R$750.00,Pendente,2023-10-30,Laura Todd MD,obriensamantha@example.net,Saint Martin,6,5.842592592592593,5.8
+b112963d-470f-4a73-abe9-bdd51d585565,8364954804711,Calça,Vestuário,R$728.00,Pendente,2024-08-07,Richard English,twright@example.net,Brazil,1,5.21978021978022,4.714285714285714
+9a0c2be7-4808-4a1a-991a-037341aeedcd,7324178593236,Autoajuda,Livros,R$500.00,Cancelada,2024-02-08,Brandy Coffey,bjohnson@example.com,Bhutan,4,5.7560975609756095,4.333333333333333
+80cf3cb5-852f-4e4d-820b-11ae340f84fc,7736597406002,Patinete,Brinquedos,R$504.00,Pendente,2024-03-15,Kristin Peterson,april44@example.com,Trinidad and Tobago,5,5.394736842105263,5.0
+e9469a8f-4272-4dad-b1e9-22aa0dfe3ba5,6487846351260,Caneta,Escritório,R$115.00,Pendente,2024-05-12,Daniel Nichols,monicamartin@example.org,Guyana,4,5.842592592592593,3.5
+e7e1a503-77fa-45c8-8bef-9be6fac59f62,5345379136390,Passeio turístico,Viagens,R$158.00,Cancelada,2024-04-14,Collin Russell,fwest@example.org,Iraq,5,4.885416666666667,6.0
+3c1c17df-1c37-40d0-97f1-c161fd0decbf,6952370306500,Caneta,Escritório,R$331.00,Pendente,2024-04-16,Brett Bauer,joseph80@example.net,Fiji,8,5.842592592592593,7.75
+4e9cd473-fe78-4548-82e2-774b8a16bba3,9865620407131,Cadeira,Casa,R$969.00,Cancelada,2023-10-18,Kyle Robinson,cookmelinda@example.net,Cocos (Keeling) Islands,5,6.032967032967033,4.166666666666667
+4b3d3dad-e67c-4438-90bd-86b050706bde,5236445365045,Raquete de tênis,Esporte,R$635.00,Concluída,2023-12-26,David Franklin,deborah84@example.net,Wallis and Futuna,9,5.68141592920354,6.5
+6bee22df-d1e3-4408-98fa-111ecca106d5,0355366328764,Skate,Esporte,R$827.00,Cancelada,2024-08-23,David Smith,john06@example.com,Gambia,5,5.68141592920354,4.625
+24405dee-d6d5-4fed-89c2-4757697ef0cc,7271428627008,Console,Eletrônicos,R$195.00,Pendente,2024-01-04,Nathan Patton,melissa24@example.org,Guernsey,8,5.326315789473684,6.2
+32ca65ec-e8d9-4fa3-b4c6-33e562f34b46,4332234719479,Roupa esportiva,Esporte,R$446.00,Cancelada,2023-10-16,William Green,michellewilliams@example.org,Greece,4,5.68141592920354,6.0
+6003b702-71aa-4126-8a75-35bf29fddf57,7497225624518,Sabonete,Beleza,R$156.00,Cancelada,2024-08-13,Megan Bowen,jhubbard@example.net,Saint Lucia,9,6.027522935779817,4.125
+5cc28111-4f58-4736-b54b-788f03a74d9a,3680366962760,Guia de viagem,Viagens,R$796.00,Concluída,2024-04-03,Robert Hatfield,lauren66@example.org,Trinidad and Tobago,9,4.885416666666667,5.0
+3934bb42-9710-4714-8f38-85cd1eb5631f,6239631970831,Passeio turístico,Viagens,R$578.00,Pendente,2023-12-23,Alexander Parker,stephanie57@example.net,Serbia,7,4.885416666666667,6.8
+e9d4b146-096e-4a4e-b2df-c21a543ffe74,6928862652929,Lego,Brinquedos,R$939.00,Pendente,2024-09-12,Keith Pruitt,carlsonscott@example.net,Croatia,5,5.394736842105263,6.6
+1c282765-a604-4733-8bac-13c0cf54162f,7021060705653,Computador,Escritório,R$574.00,Concluída,2024-06-22,Alejandro Lopez,aaron09@example.com,Nigeria,10,5.842592592592593,10.0
+0b42d3e3-6489-4b6d-a35b-3b2633434d64,2841068949232,Lápis,Escritório,R$745.00,Pendente,2024-08-23,Hailey Griffin,jennifer33@example.com,Tanzania,2,5.842592592592593,4.75
+656ae649-56ca-48ff-9f90-1c38ceb0b2f7,6859915935082,Lego,Brinquedos,R$820.00,Pendente,2023-11-03,Ashley Cross,william40@example.net,Reunion,3,5.394736842105263,4.5
+203e9d9a-1940-46e6-9f94-201ed23bd236,6220594643276,Carne,Alimentos,R$502.00,Concluída,2024-04-26,Frank Mitchell,jasminemontgomery@example.org,Congo,2,5.861386138613861,5.5
+bdf2114f-b069-4b4e-95e8-056ad0e7570c,0181843369858,Console,Eletrônicos,R$563.00,Concluída,2024-01-16,Dana Barnes,martinezalbert@example.org,India,10,5.326315789473684,8.666666666666666
+abf6270c-35b6-48be-9641-d448145ce1d2,5013151310220,Notebook,Eletrônicos,R$141.00,Cancelada,2024-04-30,Stephanie Stephenson,barbaracunningham@example.net,Lithuania,1,5.326315789473684,3.5
+d307e677-c337-4d4d-a1b3-c4a74159652c,3410621054349,Mesa,Casa,R$726.00,Concluída,2023-12-13,Courtney Bautista,dbrown@example.com,Kiribati,6,6.032967032967033,6.0
+29a025f5-5a21-43bd-a3a4-7fb309afa181,7128059205047,Barra fixa,Esporte,R$612.00,Pendente,2023-11-15,Richard King,regina41@example.net,Belize,2,5.68141592920354,5.714285714285714
+a7cfe10c-7568-41ff-a08f-bd47a7d2dcc7,3118503317000,Calça,Vestuário,R$254.00,Concluída,2024-01-29,Abigail Hunter,amanda97@example.org,Cayman Islands,7,5.21978021978022,5.0
+913d2a60-fc35-4ec8-a484-d998119206c3,7913717362305,Tênis de corrida,Esporte,R$328.00,Concluída,2024-02-02,Crystal Tucker,reidpatricia@example.net,Vanuatu,9,5.68141592920354,8.2
+3f684357-6a52-4dfb-b444-f8cf9a85a04a,8660883424816,Científico,Livros,R$294.00,Pendente,2024-05-22,Rebecca Harper,estesspencer@example.org,Mauritius,10,5.7560975609756095,5.285714285714286
+302de99c-375f-4d59-8db1-006ac7294876,5519832679162,Drone,Eletrônicos,R$131.00,Concluída,2024-08-26,Mr. Ryan Lopez MD,martinnicholas@example.org,Madagascar,8,5.326315789473684,6.4
+2d67cee9-513a-44cf-b540-b48f67ca9815,7533329607870,Caneta,Escritório,R$440.00,Concluída,2024-04-16,Melissa Perry,cindycombs@example.net,Algeria,9,5.842592592592593,5.333333333333333
+6553659c-8322-4118-8087-30c563a6eb0b,3870949426172,Camiseta,Vestuário,R$173.00,Concluída,2023-12-04,Adam Payne Jr.,cjohnson@example.org,Saint Vincent and the Grenadines,7,5.21978021978022,6.75
+91d6abdf-be90-47d2-89b3-fbbcd6304a53,1761719834506,Caneta,Escritório,R$974.00,Concluída,2023-12-09,Matthew Proctor,nelsonmichele@example.com,Congo,8,5.842592592592593,5.5
+d0e2bb99-b141-476a-b47a-f27320d73dac,7402940439118,Armário,Casa,R$883.00,Concluída,2024-04-14,Melissa Miller,melissa94@example.org,Saint Barthelemy,10,6.032967032967033,7.666666666666667
+c26e4ef6-dcd0-41a2-9f59-6324c247d23d,7216499007564,Bola,Brinquedos,R$937.00,Cancelada,2023-10-26,Brenda Sloan,vking@example.net,Qatar,2,5.394736842105263,5.5
+0c09b339-6f80-4622-afbb-c0b4f9c946b9,6287536746617,Bola de futebol,Esporte,R$867.00,Pendente,2024-03-23,Cesar Cannon,mmorgan@example.org,Afghanistan,10,5.68141592920354,4.0
+5f04cb34-e134-47e9-ada2-3a6fd4a04711,5744330433507,Condicionador,Beleza,R$942.00,Cancelada,2024-05-21,Justin Cruz,louis85@example.org,Northern Mariana Islands,7,6.027522935779817,5.428571428571429
+dc1cab57-7a6a-4064-a1b0-135fc4ad4932,3036676909474,Carne,Alimentos,R$351.00,Concluída,2024-02-17,Sharon Gardner,mfrancis@example.org,Mongolia,5,5.861386138613861,5.25
+ab8a8e15-9ffd-466b-a8b1-e9d102b81c87,2127159843482,Adaptador de tomada,Viagens,R$282.00,Cancelada,2024-02-23,Wendy Hodges,stacybenson@example.org,United States Virgin Islands,8,4.885416666666667,4.0
+954700b0-fa47-4b40-9338-06d8d897f00a,7274038705661,Calça,Vestuário,R$664.00,Concluída,2024-02-02,Alexander Martinez,carolrodriguez@example.net,Saint Martin,6,5.21978021978022,5.8
+0ef53976-5610-4020-aa1a-1a39dd1c19c8,9407667854884,Não-ficção,Livros,R$514.00,Pendente,2024-06-16,Stephen Mccoy,larry51@example.com,Nauru,2,5.7560975609756095,3.5
+3af0e7b1-1d19-42c8-ba55-717dd360c3dd,1368521621548,Mesa,Casa,R$425.00,Concluída,2024-09-20,Janet Curry,juan32@example.com,Honduras,9,6.032967032967033,9.0
+c666c185-3855-480a-b288-ba205f4365c1,7745060844999,Console,Eletrônicos,R$566.00,Pendente,2024-03-07,Rebecca Moore,okennedy@example.org,China,8,5.326315789473684,5.833333333333333
+bd34829f-0ce5-4064-9062-e269b4a68f8b,7764660745246,Batom,Beleza,R$912.00,Cancelada,2024-10-02,Jason Tran,jcruz@example.org,Brazil,3,6.027522935779817,4.714285714285714
+8d654d2c-b69d-4aec-af96-4215d404fea4,4766366857660,Guia de viagem,Viagens,R$933.00,Concluída,2024-08-24,John Cruz,kathy70@example.org,Cyprus,4,4.885416666666667,6.8
+d9d9b237-0824-4934-af23-9e449a64d697,9433524644145,Grampeador,Escritório,R$631.00,Pendente,2024-07-20,Jessica Bean,amycortez@example.com,Malawi,4,5.842592592592593,5.444444444444445
+eba24f5c-e07a-4750-b1a7-558c6ce191d0,1950902372882,Chuteira,Esporte,R$964.00,Pendente,2024-06-03,Julie Russo MD,josephvalencia@example.org,Afghanistan,5,5.68141592920354,4.0
+3359582f-fd12-41ce-b95f-8b3578985c33,8711279395040,Sofá,Casa,R$279.00,Concluída,2024-08-01,Stephen Powell,vchavez@example.com,Vanuatu,6,6.032967032967033,8.2
+f82ef30a-da22-44ad-9254-fbe0c3932198,7374766600402,Corretivo,Escritório,R$330.00,Concluída,2024-06-14,Lucas Thompson,lisayang@example.com,Denmark,3,5.842592592592593,5.166666666666667
+cfc5c07b-ca9a-4008-837a-ec5fbc2d4bfa,1221508620500,Chuteira,Esporte,R$219.00,Pendente,2024-02-09,Mark Terry,markprince@example.net,Guinea,7,5.68141592920354,7.0
+77561ba6-75bf-4427-a264-0d47daffdf17,9823617055031,Peixe,Alimentos,R$726.00,Concluída,2024-09-07,Patrick Gordon,angelcollier@example.org,Bhutan,5,5.861386138613861,4.333333333333333
+3aad7ce0-a2a5-400a-9656-39b050a4f7ab,9676009818338,Barra fixa,Esporte,R$799.00,Concluída,2024-04-25,Alejandra Watkins,gardnernathan@example.com,Pitcairn Islands,10,5.68141592920354,9.666666666666666
+007c172b-9b63-457e-8ea7-b26de0eea7de,5384574684060,Não-ficção,Livros,R$850.00,Concluída,2024-03-19,Ryan Kim,omiller@example.net,Mali,5,5.7560975609756095,5.0
+63e3bd27-cbe6-4edf-8515-3f08fb0c0e6a,0835563696144,Poesia,Livros,R$169.00,Cancelada,2024-09-01,Julie Woods,ureyes@example.com,Heard Island and McDonald Islands,9,5.7560975609756095,8.0
+86f41a93-2578-41db-bbcb-3c489ba1c0bc,9204967868180,Aparelho de musculação,Esporte,R$681.00,Cancelada,2024-07-30,David Morales,christian92@example.org,New Caledonia,1,5.68141592920354,5.0
+a3c27b34-76dd-46a9-a26c-faf594ba2c99,1329203228486,Raquete de tênis,Esporte,R$491.00,Pendente,2024-09-07,Kayla Jackson DDS,velezamanda@example.com,Lao People's Democratic Republic,1,5.68141592920354,3.0
+3a71461e-02b5-44a7-8b90-76c67adce715,9420899245381,Calça,Vestuário,R$894.00,Concluída,2024-05-29,Stephen Carr,orivera@example.com,Czech Republic,8,5.21978021978022,6.0
+7b6d143f-7206-40a4-9305-47e0b016b46a,1170256635574,Boneco de ação,Brinquedos,R$142.00,Cancelada,2023-12-22,Amber Duke,wgarcia@example.org,Guyana,1,5.394736842105263,3.5
+78c100c6-8638-43bd-a9da-12f05325e08a,4671730741035,Peixe,Alimentos,R$313.00,Pendente,2024-08-22,Kelly Brewer,kimberlyperry@example.com,France,5,5.861386138613861,3.0
+2e52d318-3885-4844-b63e-e31a44990c9a,1072698307968,Tesoura,Escritório,R$948.00,Concluída,2023-12-20,Kelly Smith PhD,carsonkimberly@example.net,Samoa,10,5.842592592592593,8.25
+9a848887-9ba3-4757-84a0-a3248001c4c4,2689527094952,Hospedagem,Viagens,R$549.00,Pendente,2023-11-24,Nicholas Hester,kaitlyn64@example.com,Montenegro,1,4.885416666666667,3.6666666666666665
+42881f3c-668d-4941-8709-a0a21b77564e,4807434393847,Bicicleta,Brinquedos,R$108.00,Cancelada,2023-11-12,Becky Moore,adamhunt@example.net,Guatemala,3,5.394736842105263,5.333333333333333
+c97e3fdd-3cb3-4d20-8892-180ab2ed4e22,3500849471438,Relógio Inteligente,Eletrônicos,R$632.00,Cancelada,2024-09-07,Jennifer Rubio,johnny69@example.net,Benin,10,5.326315789473684,8.0
+8bedfbe0-b2c1-4c17-a543-37a989729212,1588448053158,Religioso,Livros,R$830.00,Cancelada,2024-07-13,Kimberly Powell,michaeljones@example.com,Kyrgyz Republic,9,5.7560975609756095,7.25
+ae7568e2-471d-4800-a636-624a5c4b033e,0910268215132,Skate,Esporte,R$108.00,Cancelada,2024-06-16,Ms. Kathy Knight,williamschristopher@example.net,Niger,9,5.68141592920354,8.0
+a2a3ce5b-cad2-4721-b410-c2bb0e8ebfff,9618778076786,Drone,Eletrônicos,R$244.00,Concluída,2023-10-26,James Shelton MD,kennethgonzalez@example.com,Gambia,5,5.326315789473684,4.625
+c2ff0112-83a5-472f-bda0-b2f7d508bc52,3121089787563,Não-ficção,Livros,R$708.00,Cancelada,2023-10-29,Zachary Smith,marybrown@example.org,Malaysia,8,5.7560975609756095,7.5
+f1005c95-b25c-4e37-8e3e-be195744197b,3957797202667,Sofá,Casa,R$233.00,Pendente,2024-07-14,Mary Hamilton,karenbyrd@example.com,Bhutan,3,6.032967032967033,4.333333333333333
+1468f55d-7f01-4ab0-a4cf-33fb2871541e,4495502718571,Caneta,Escritório,R$511.00,Pendente,2024-08-20,Amy West,jtorres@example.net,Seychelles,4,5.842592592592593,4.333333333333333
+2fc13687-463a-49f5-a733-b435db3f1241,5694763641126,Cama,Casa,R$879.00,Cancelada,2023-12-19,Shawn Castillo,luis14@example.org,Jersey,10,6.032967032967033,6.666666666666667
+d2aac564-1abc-4ecd-871c-b77811995613,6493306258192,Roupa esportiva,Esporte,R$866.00,Pendente,2024-03-24,Mr. Richard Trujillo,cunninghamjason@example.com,Guyana,7,5.68141592920354,3.5
+b99c6179-6494-4583-b124-93f2b65ae893,3637774933264,Grampeador,Escritório,R$694.00,Cancelada,2024-09-09,Brandon Garcia,yglover@example.net,Myanmar,10,5.842592592592593,6.0
+89534a6f-c05f-4fab-b119-6ea7bdf0b420,6216403226822,Bola de futebol,Esporte,R$165.00,Pendente,2024-07-25,Courtney Knight,smartinez@example.org,Portugal,2,5.68141592920354,4.333333333333333
+4e6d0acf-a8a2-4a3d-8381-e2488248b6d3,6710498664984,Skate,Esporte,R$146.00,Pendente,2024-07-10,Tiffany Yang,danielgraham@example.net,Jamaica,1,5.68141592920354,6.25
+ee02e04c-4e88-4c7f-a4ee-7994da77ef2e,5660792720903,Lápis,Escritório,R$996.00,Cancelada,2023-12-18,Rodney White,bgonzalez@example.org,Trinidad and Tobago,6,5.842592592592593,5.0
+899d0a17-50f5-42ab-be64-e6be054c769c,3095297954454,Pão,Alimentos,R$653.00,Concluída,2024-10-05,Shane King,kim43@example.net,Anguilla,5,5.861386138613861,6.25
+5d7dd8e8-6260-4c27-923d-d35be81a7a6f,8965481549382,Carne,Alimentos,R$764.00,Concluída,2024-09-16,Tina Walker,juliajarvis@example.com,Russian Federation,5,5.861386138613861,6.5
+a91e25a2-544e-4295-a0ca-295638f0b03b,6293256715215,Condicionador,Beleza,R$385.00,Concluída,2024-01-05,Jeff Neal,lhinton@example.net,Azerbaijan,5,6.027522935779817,6.666666666666667
+204e6410-cd3e-41eb-8bd4-fb4e2abd7718,4102218917678,Bicicleta,Brinquedos,R$351.00,Pendente,2024-09-05,Sarah Mcdonald,belltheresa@example.org,Guam,10,5.394736842105263,7.666666666666667
+ad7ddc0f-2dbf-4816-bbb5-5847e6d6af11,5499170483907,Grampeador,Escritório,R$702.00,Concluída,2024-09-04,David Butler,pedro62@example.com,French Polynesia,3,5.842592592592593,6.666666666666667
+32da98ce-0437-4ef0-9cb3-faa2bcdb8608,5604740147190,Peixe,Alimentos,R$880.00,Cancelada,2024-02-14,Dustin Rivas,waredonald@example.net,China,7,5.861386138613861,5.833333333333333
+7869607f-a59b-465d-b43c-e37a64ca36ca,7216721069131,Microondas,Casa,R$185.00,Cancelada,2024-08-30,Lynn Banks,gailwallace@example.com,Moldova,5,6.032967032967033,6.555555555555555
+4ac87c8e-9131-4d44-90d5-752bc80ca77b,7906449530135,Frutas,Alimentos,R$479.00,Cancelada,2024-03-07,Angela Duncan,gentrydylan@example.org,Cameroon,5,5.861386138613861,7.2
+0f163afb-4321-4f70-ba58-c74fdcb58532,7624827436137,Impressora,Escritório,R$45.00,Cancelada,2024-05-27,Holly Mcclure,phillipsrobert@example.net,Vietnam,7,5.842592592592593,4.666666666666667
+cf6bcb07-ade2-4f26-888b-2567d91dc593,0663743196869,Mala,Viagens,R$81.00,Concluída,2024-09-27,Heather Matthews,kingdaniel@example.org,Palestinian Territory,9,4.885416666666667,5.25
+bdb1c30f-8a23-4cd1-9a5f-715446891756,4938877804109,Religioso,Livros,R$64.00,Pendente,2023-10-28,Nathan Ross,tbowers@example.org,Bosnia and Herzegovina,9,5.7560975609756095,6.2
+a747b087-6bd9-4a7c-b58f-341fb1d6ead3,8518189214078,Tênis,Vestuário,R$540.00,Concluída,2023-11-27,Lori Hickman,brownjennifer@example.com,Slovenia,2,5.21978021978022,5.0
+8d92fddc-f91a-42ca-b64e-a7dbdec857fa,5010862712480,Smartphone,Eletrônicos,R$702.00,Pendente,2023-10-23,Andrea Moran,sototracy@example.com,Denmark,1,5.326315789473684,5.166666666666667
+c010344f-7cf9-45d0-98bf-9cfde55af708,4776251039088,Aluguel de carro,Viagens,R$385.00,Cancelada,2024-05-12,Brittany Kelly,mbrown@example.org,Nepal,1,4.885416666666667,5.571428571428571
+11b19ab4-352d-48bc-8448-fa8f1615d8f2,8320145279126,Lápis,Escritório,R$758.00,Cancelada,2024-05-06,Jessica Allen,dianakeller@example.org,Canada,4,5.842592592592593,4.0
+476051f3-1f20-4343-81c4-9346bd703e24,0821787376528,Borracha,Escritório,R$981.00,Pendente,2024-05-07,Karen Bowers,margaret53@example.org,Norway,4,5.842592592592593,3.0
+b3468388-904d-4ca8-9c3d-f2e0279a2143,8691189347448,Smartphone,Eletrônicos,R$650.00,Pendente,2023-11-30,Michael Davis,mthompson@example.org,Bahrain,8,5.326315789473684,8.0
+ec273c95-db4d-4e7a-926d-f5351bf1333a,8406801203008,Carro,Brinquedos,R$172.00,Concluída,2024-06-13,Luis Davidson DDS,robert07@example.net,Syrian Arab Republic,2,5.394736842105263,5.6
+02e09f72-7acd-4c18-9268-4b83d9dd20ab,2316008505675,Boneco de ação,Brinquedos,R$519.00,Cancelada,2023-10-15,Yesenia Humphrey,joshuacampos@example.org,Thailand,1,5.394736842105263,4.666666666666667
+0cc9819e-fdc5-4e38-b002-02116fffd12e,9814115295319,Geladeira,Casa,R$959.00,Cancelada,2024-07-03,Maurice Robinson,uhaynes@example.com,Nauru,2,6.032967032967033,3.5
+cfff0a4a-79cd-4e70-a533-39e2330283bd,0572746481356,Guia de viagem,Viagens,R$134.00,Pendente,2024-06-01,Timothy Pitts,rmurillo@example.org,Syrian Arab Republic,9,4.885416666666667,5.6
+6eb12270-fe5a-4437-847f-4fe479c3f9ba,0076598272273,Tônico,Beleza,R$989.00,Cancelada,2024-03-17,Craig Sanchez,chenvincent@example.net,Tokelau,1,6.027522935779817,5.0
+88f4964c-3084-4ab0-a3da-963fba032e3b,6470790230408,Frutas,Alimentos,R$396.00,Cancelada,2024-04-04,Mr. Michael Espinoza,lisa40@example.com,Georgia,9,5.861386138613861,4.875
+992a049f-a56f-4e68-95b6-1b3aeb633e97,6682069229871,Religioso,Livros,R$348.00,Cancelada,2024-06-13,Dylan Greene,mariachase@example.net,Chile,3,5.7560975609756095,3.0
+7134abad-9df6-4e65-9f2d-7be951d770db,6464697729646,Mochila de viagem,Viagens,R$168.00,Pendente,2023-10-22,Kayla Peck,victorsellers@example.org,Norfolk Island,1,4.885416666666667,5.285714285714286
+8a253f49-a16f-4dc0-89ec-d356c47c0321,3546704231298,Roupa esportiva,Esporte,R$125.00,Concluída,2024-01-29,Justin Doyle,heather83@example.com,Djibouti,3,5.68141592920354,4.666666666666667
+4627d79d-a30d-427d-85c6-4f9e36d4ea3b,6422528430338,Passeio turístico,Viagens,R$881.00,Pendente,2024-02-23,Alexander Harris,rebeccarivera@example.com,Guadeloupe,1,4.885416666666667,4.666666666666667
+74803fd2-6b71-424d-be9b-d4fb969c82da,0361955813573,Bicicleta,Brinquedos,R$546.00,Cancelada,2024-05-05,Ashley Stanley MD,breannawhite@example.net,South Georgia and the South Sandwich Islands,5,5.394736842105263,4.333333333333333
+7b3de187-061d-4126-a72b-9b85b083a7fc,9975707225746,Skate,Esporte,R$837.00,Concluída,2023-12-17,David Hooper,christopherhurley@example.com,Japan,5,5.68141592920354,5.8
+aeb21368-d63f-4687-ab54-8e127b1604ba,2291630372492,Liquidificador,Casa,R$388.00,Cancelada,2024-01-19,Jonathan Dominguez,hmoore@example.com,Greenland,4,6.032967032967033,5.2
+76b9f0e7-279b-40d4-8071-9a7303cfafb2,5060626198210,Cama,Casa,R$14.00,Concluída,2024-01-07,Kevin Jones,blewis@example.org,British Indian Ocean Territory (Chagos Archipelago),9,6.032967032967033,6.5
+93394c71-8a21-42f4-b280-4ccc8c197266,2853409572184,Maquiagem,Beleza,R$157.00,Cancelada,2024-08-24,Tiffany Kennedy,angela87@example.com,Macao,6,6.027522935779817,6.111111111111111
+1bddd4bd-d621-404c-9875-0a1ad4484802,6393999909398,Passagem aérea,Viagens,R$52.00,Concluída,2024-08-31,Adam Dennis,daniel38@example.com,Guatemala,2,4.885416666666667,5.333333333333333
+4521eb07-0ced-4f9d-bd55-928aaa003d9d,2069731028118,Ficção,Livros,R$828.00,Cancelada,2024-05-30,Dr. Gary Carter,luke54@example.org,Yemen,4,5.7560975609756095,4.0
+119b1256-aefd-4bea-8c5f-e9a3f1de0260,7024197541606,SmartTV,Eletrônicos,R$605.00,Pendente,2024-07-19,Roberta Cantu,walshjodi@example.net,Mauritius,6,5.326315789473684,5.285714285714286
+2f6e42cd-65a0-4bdc-a27b-9b7320b183f9,3233282723917,Batom,Beleza,R$576.00,Concluída,2024-03-17,Antonio Holland,pittssteven@example.net,India,9,6.027522935779817,8.666666666666666
+2c39c689-4237-484e-9d12-ab441e82290e,4604134025166,Bola de futebol,Esporte,R$371.00,Cancelada,2024-04-11,Emma Chandler,bcooke@example.net,Saint Kitts and Nevis,5,5.68141592920354,2.4
+4842f0f9-a392-40d7-9e16-01a85aaa0c39,8518301341491,Batom,Beleza,R$883.00,Cancelada,2024-08-16,Jason Murphy,daviscrystal@example.net,French Southern Territories,9,6.027522935779817,5.0
+0d2566c3-5dce-4d92-bf19-b9829c0695a6,0487226892846,Alexa,Eletrônicos,R$589.00,Pendente,2024-01-21,Matthew White,andrewgamble@example.com,Czech Republic,3,5.326315789473684,6.0
+9c584dad-eb9a-490f-a561-ead5e661152d,2561261368530,Carro,Brinquedos,R$500.00,Cancelada,2024-05-27,Sherry Bell,lauraritter@example.net,Luxembourg,5,5.394736842105263,6.8
+dc0f0e93-df55-4153-8214-f117fb9541d3,4029821396655,Passeio turístico,Viagens,R$750.00,Concluída,2024-08-30,Laura Cobb,vwoods@example.org,Montenegro,5,4.885416666666667,3.6666666666666665
+e9a53dbf-09fb-4cfe-a9ed-5a23b17ad016,2622370519203,SmartTV,Eletrônicos,R$469.00,Cancelada,2024-08-15,Michael Reyes,yrobinson@example.org,Zimbabwe,6,5.326315789473684,4.545454545454546
+9df89081-1a4a-4ab1-b1e8-07600a49c2a4,7999424966005,Batom,Beleza,R$767.00,Pendente,2024-05-13,Michael Johnson,kgarcia@example.org,Grenada,7,6.027522935779817,7.333333333333333
+85dc12dc-8cb6-4fde-b659-600870004601,0686518028325,Hidratante,Beleza,R$715.00,Pendente,2024-04-19,Hannah Willis,nwells@example.com,Serbia,8,6.027522935779817,6.8
+cbadf0cd-a3e9-4b3d-a51b-b5543414bf8e,5692320332661,Cintos,Vestuário,R$333.00,Concluída,2024-06-20,David Taylor,clinton08@example.org,Dominica,3,5.21978021978022,5.0
+cdc7bab5-ff47-4bcc-87d4-a282524bd23e,3770640973497,Boneca,Brinquedos,R$900.00,Concluída,2024-05-03,Donna Mcintyre,asullivan@example.net,Barbados,10,5.394736842105263,7.0
+0295d9d6-ca61-4c0c-810d-1ee10b8dd39b,8504718684917,Hidratante,Beleza,R$856.00,Concluída,2024-05-30,Sharon Rose,mendezgregory@example.org,Hong Kong,9,6.027522935779817,4.833333333333333
+15dd6f54-c271-40fc-8d1a-458ce52daebe,4198780690903,Notebook,Eletrônicos,R$610.00,Cancelada,2023-12-13,Rebekah Stanley,david98@example.com,Solomon Islands,1,5.326315789473684,1.0
+48ed5e1d-b199-4562-874b-e37c8d08a90f,8276974462935,Religioso,Livros,R$366.00,Cancelada,2024-04-01,Rebecca Lopez,brittany22@example.com,Philippines,8,5.7560975609756095,6.8
+fbb192cc-969f-4364-a5d2-e2fa56bb3cf7,8809649877422,Boneco de ação,Brinquedos,R$637.00,Cancelada,2024-02-09,Mark Long,jennifermyers@example.net,Malta,2,5.394736842105263,3.5
+a2391615-9c0d-4e4c-969e-9b77a74d6447,9725529974557,Relógio Inteligente,Eletrônicos,R$106.00,Concluída,2024-02-04,Vanessa Burgess,paul04@example.net,Palestinian Territory,1,5.326315789473684,5.25
+2a044cb8-8585-4d9d-84c2-3b0c0a2a4ac8,3432675343620,Mochila de viagem,Viagens,R$53.00,Concluída,2024-07-13,Pamela Farrell,karen66@example.org,Hong Kong,5,4.885416666666667,4.833333333333333
+fdfe1ee3-a3cb-4fa3-9a77-f5395d683a9a,5609057912202,Tênis de corrida,Esporte,R$915.00,Concluída,2023-11-17,Daniel Thornton,ayalasarah@example.net,Maldives,2,5.68141592920354,4.75
+dab3a250-dc64-4e78-9639-f36a3e521c51,4286815451893,Pelúcia,Brinquedos,R$178.00,Pendente,2024-03-19,Jennifer Fisher,anthony11@example.com,Northern Mariana Islands,2,5.394736842105263,5.428571428571429
+bf260199-4a19-4e27-bd4b-6a055283d2fd,6454728282257,Pelúcia,Brinquedos,R$912.00,Concluída,2024-01-30,Rebecca Lewis,heathertaylor@example.net,French Guiana,5,5.394736842105263,3.3333333333333335
+51308354-8560-4042-89e5-bf0364c84b8b,4224140232091,Camiseta,Vestuário,R$301.00,Pendente,2024-09-16,Patrick Robinson,melissa77@example.com,Martinique,4,5.21978021978022,4.2
+275f7b3f-20fe-4ca7-82c5-a2476a1d9d95,9860770265266,Guia de viagem,Viagens,R$208.00,Cancelada,2023-11-16,Martin Vaughn,jessica17@example.net,French Polynesia,10,4.885416666666667,6.666666666666667
+297f9371-23d1-4f60-b96a-34631fd78234,7070091270630,Hidratante,Beleza,R$150.00,Cancelada,2024-05-11,Aimee Leon,emilycox@example.org,Korea,10,6.027522935779817,5.8
+161e51cf-8105-48e7-affb-2d6df9b04d57,1841871635255,Roupa esportiva,Esporte,R$779.00,Pendente,2024-08-09,Donna Castro,marymorris@example.org,Guinea,6,5.68141592920354,7.0
+71f4d5a1-b724-4615-992e-8e0368807d2d,2358802172134,Leite,Alimentos,R$838.00,Pendente,2023-12-28,Samantha Jensen,atkinsonshelby@example.org,Japan,8,5.861386138613861,5.8
+8ad676e4-9951-4ad5-aa08-306cc91ff492,6395480742712,Religioso,Livros,R$776.00,Cancelada,2024-02-01,Virginia Perkins,iwong@example.org,Turks and Caicos Islands,10,5.7560975609756095,6.6
+973f15bb-ab8c-4d12-8abb-f09e7e84e72e,4891430396018,Não-ficção,Livros,R$170.00,Cancelada,2023-12-20,Peter Jones,bradley62@example.org,Equatorial Guinea,8,5.7560975609756095,7.0
+781a74f4-c5b3-4c7a-94d7-f0dbaa58af02,4550133356353,Peixe,Alimentos,R$317.00,Concluída,2024-03-27,Edward Reed,uhall@example.org,Puerto Rico,2,5.861386138613861,3.5
+59d976e3-f6bf-47be-93c9-c9820a944b81,1054001416901,Esmalte,Beleza,R$915.00,Cancelada,2024-01-06,Amy Robinson,jacksonconnor@example.org,Switzerland,6,6.027522935779817,4.0
+997eb696-6835-4a25-a2a3-be79c9e16321,4937591946461,Tesoura,Escritório,R$467.00,Concluída,2024-05-04,Joel Vaughn,garciamelissa@example.org,Eritrea,9,5.842592592592593,6.333333333333333
+bfa9533d-ae40-4ee7-a651-2efa5bb6352e,4284897602301,Adaptador de tomada,Viagens,R$559.00,Pendente,2024-09-04,Tara Padilla,yodertony@example.org,Norfolk Island,5,4.885416666666667,5.285714285714286
+ca4fdb7e-2428-4ec4-a262-0ec3729a9d2b,9760288866668,Óculos de sol esportivos,Esporte,R$907.00,Pendente,2024-01-31,Calvin Gordon,wthompson@example.net,United Kingdom,9,5.68141592920354,6.333333333333333
+89f9cf62-9a71-4d37-841d-ce02a102a061,4139574911675,Calculadora,Escritório,R$404.00,Pendente,2023-12-13,Michelle Martinez MD,matthewcollins@example.net,Guernsey,4,5.842592592592593,6.2
+c3328e8d-483d-48b5-a36d-e1107f4258a1,6091339643345,Jaqueta,Vestuário,R$753.00,Cancelada,2024-01-03,Sandra Gregory,amandarivera@example.net,Saint Martin,7,5.21978021978022,5.8
+ccacd9b1-ba88-4312-b961-7e75e3c49261,3897110658439,Microondas,Casa,R$351.00,Concluída,2024-03-22,Katherine Hall,schmittricky@example.com,Central African Republic,6,6.032967032967033,4.375
+734aee31-aaf1-403e-b19a-2948dd339e5f,9172341246780,Tônico,Beleza,R$618.00,Pendente,2024-05-17,Richard Miller,delgadomelvin@example.net,Aruba,8,6.027522935779817,5.0
+e757f005-97c7-458d-b802-d57bbd74b560,3282417071447,Cama,Casa,R$295.00,Cancelada,2024-05-23,Rebecca Wilson,rgraham@example.net,Norway,2,6.032967032967033,3.0
+857df9df-cfd6-42cf-8f29-0967f7c753c8,5502941321015,Cama,Casa,R$177.00,Pendente,2024-02-15,Alyssa Brooks,toddbaker@example.org,United States Minor Outlying Islands,5,6.032967032967033,7.0
+fbade7e6-6688-4883-b07e-77e523b113f6,8341312646787,Pelúcia,Brinquedos,R$176.00,Cancelada,2024-03-16,Michael Carter,david49@example.com,Gibraltar,1,5.394736842105263,6.666666666666667
+2e563514-ea0b-493a-aae3-0a6deaf1a079,0264343695587,Boneca,Brinquedos,R$133.00,Concluída,2023-12-23,Susan Valdez,allenjennifer@example.com,Liberia,2,5.394736842105263,4.714285714285714
+e64d1d2b-a6e9-493e-9679-b6477776cbef,0755366540911,Blusa,Vestuário,R$923.00,Pendente,2024-06-04,Nicole Wu,karengarcia@example.net,Mayotte,8,5.21978021978022,6.0
+a0994e42-cb5c-4c27-a148-13754fc80a32,8594566789773,Mochila de viagem,Viagens,R$950.00,Pendente,2023-12-26,Amanda Anderson,willie02@example.org,Slovakia (Slovak Republic),7,4.885416666666667,6.0
+9928c64e-118a-477c-a064-cdb4103a7a94,6739119220606,Bola,Brinquedos,R$627.00,Pendente,2024-08-08,Tara Wagner,brownchristopher@example.com,Zambia,9,5.394736842105263,6.0
+8d0d80b7-3207-419d-a7a6-c022d4b2da2b,7622564516754,Arroz,Alimentos,R$694.00,Cancelada,2023-10-22,Christine Hawkins,ortegajose@example.com,Turks and Caicos Islands,9,5.861386138613861,6.6
+ceafe7e0-a8f6-4341-8cfd-e9124b75f8fb,2961978222826,Grampeador,Escritório,R$326.00,Pendente,2024-09-18,Jeremy Nguyen,adamsbeth@example.net,Japan,4,5.842592592592593,5.8
+39eb07eb-583c-4d63-aee5-3f0c0bbc3786,8596291668880,Tênis de corrida,Esporte,R$984.00,Pendente,2024-02-13,Jessica Ferguson,jessicalee@example.net,Argentina,4,5.68141592920354,4.375
+5f9c0fda-c876-4739-b199-a3737db7fbed,1770240884850,Verduras,Alimentos,R$953.00,Pendente,2023-12-12,Jacob Hartman,bautistajonathan@example.net,Cameroon,9,5.861386138613861,7.2
+6340ac77-eaee-41e9-a9e3-353e30a5d43d,0499341930464,Lápis,Escritório,R$637.00,Concluída,2024-03-04,Laura Weaver,petersmark@example.org,Tunisia,9,5.842592592592593,7.5
+7c85b3ad-d2f1-4ad2-b35a-9b6f5c6ad595,1493332636297,Impressora,Escritório,R$644.00,Concluída,2024-09-04,Louis Steele,adamsjeffrey@example.net,Philippines,5,5.842592592592593,6.8
+bd3ed21f-1a82-4ba7-8f5f-bab4f39f84eb,2714477331755,Adaptador de tomada,Viagens,R$314.00,Concluída,2024-03-07,Kevin Baker,johnsonjesse@example.net,Czech Republic,5,4.885416666666667,6.0
+f1fe7a4e-87b4-4f8f-aca8-3d45b227eac2,8475291416830,Protetor bucal,Esporte,R$840.00,Pendente,2024-03-07,Vanessa Peterson,cabrerakatherine@example.com,South Georgia and the South Sandwich Islands,5,5.68141592920354,4.333333333333333
+a58afe73-f7cf-4d36-8abe-474e5401b5af,0481548222794,Macarrão,Alimentos,R$295.00,Cancelada,2024-02-27,Alexandra Carter,selliott@example.net,Denmark,9,5.861386138613861,5.166666666666667
+9c885137-1a3d-4391-a01e-43de44e98779,5740635215459,Tesoura,Escritório,R$45.00,Concluída,2024-05-15,Sara Lam,martin53@example.org,Hungary,1,5.842592592592593,3.0
+77cb7a39-6f01-4675-a44d-162e86b1de9d,4076641094087,Caderno,Escritório,R$367.00,Cancelada,2024-06-30,Marissa Collins DVM,twarren@example.net,United States of America,5,5.842592592592593,5.75
+76564a88-a833-4be5-9311-f60e237559d8,3687964882414,Cama,Casa,R$729.00,Concluída,2024-01-05,Kristen Brown,robin79@example.com,Cambodia,5,6.032967032967033,7.166666666666667
+ee272113-cb23-4204-9917-152ddbdd402a,7010727351968,Microondas,Casa,R$47.00,Pendente,2024-03-14,Victor Brown,oking@example.net,Comoros,7,6.032967032967033,7.25
+5587a6e7-98b2-4a06-afb4-7c808eb576ad,2123737908499,Hidratante,Beleza,R$454.00,Concluída,2024-09-17,Stephanie Morgan,zachary88@example.org,Gambia,5,6.027522935779817,4.625
+580f4601-c11d-4800-bfcd-0ebde482862e,1585055436916,Tônico,Beleza,R$728.00,Concluída,2024-04-08,Joshua Lutz,ijackson@example.net,Maldives,9,6.027522935779817,4.75
+9e72fab0-2992-4493-b397-a30a93ee14c8,4669301648548,Feijão,Alimentos,R$370.00,Cancelada,2024-02-22,Christopher Massey,wcollins@example.org,Mexico,7,5.861386138613861,7.0
+b4787283-111c-4178-93f3-a4564e3dd280,3966752083180,Verduras,Alimentos,R$770.00,Pendente,2024-09-22,Dr. Denise Jones DDS,markmcfarland@example.net,Bosnia and Herzegovina,7,5.861386138613861,6.2
+59b9e878-8676-448f-81e1-7fd3717b501b,6376753420551,SmartTV,Eletrônicos,R$35.00,Cancelada,2024-04-17,Joseph Garcia,richard47@example.org,Ethiopia,1,5.326315789473684,5.0
+51c58730-4ce2-44f3-94f8-ca3c25a75881,1050481757299,Passagem aérea,Viagens,R$368.00,Concluída,2023-11-25,Eric Johnston,blackjoseph@example.net,Tonga,7,4.885416666666667,7.333333333333333
+08e16f0e-7bb5-4896-a9e5-8500ee8be29b,7799415287245,Câmera,Eletrônicos,R$329.00,Cancelada,2024-05-22,Cheryl Bray,kingnicholas@example.com,Morocco,5,5.326315789473684,5.0
+e4b53e7b-190b-480d-8f21-da5aa78ac299,2250036464934,Boneca,Brinquedos,R$613.00,Concluída,2023-10-20,Elizabeth Russell,lance20@example.com,New Caledonia,7,5.394736842105263,5.0
+4847cffa-43f2-419f-80c1-7d268c28bb85,3246291621488,Computador,Escritório,R$219.00,Cancelada,2024-09-16,Carrie Taylor,davidfloyd@example.com,Sierra Leone,9,5.842592592592593,8.0
+1ae23172-d652-47ec-a468-e5b0488e6606,7427302492990,Skate,Esporte,R$265.00,Concluída,2024-04-01,James Wilson,nicholasray@example.net,Gambia,1,5.68141592920354,4.625
+28018d12-18ca-4f9e-8b87-7dca23943bb8,2682557846263,Jaqueta,Vestuário,R$968.00,Concluída,2024-09-13,Frank Carson,vharmon@example.net,Switzerland,2,5.21978021978022,4.0
+fb9d896e-c5ce-47a7-9030-612e8a593514,4450086665802,Óculos de sol esportivos,Esporte,R$994.00,Pendente,2024-09-23,Timothy Anderson,amber16@example.com,Bhutan,3,5.68141592920354,4.333333333333333
+074672e0-8f2c-4fc5-ae12-a5aca6a2ca11,2956141326746,Ficção,Livros,R$271.00,Pendente,2024-01-02,Robert Mckee,sandraorozco@example.org,Micronesia,2,5.7560975609756095,5.8
+3419b0c8-88a4-404e-976f-c26b871d2cde,5927432270373,Boneca,Brinquedos,R$431.00,Concluída,2024-03-10,Billy Cowan,pattonkatherine@example.com,Luxembourg,6,5.394736842105263,6.8
+0c00b2ca-4be8-4fdf-9bf0-9c5f1828810e,6701137602795,Aparelho de musculação,Esporte,R$752.00,Cancelada,2024-04-12,Brandon Mclaughlin,mccanndana@example.com,Trinidad and Tobago,2,5.68141592920354,5.0
+e229bb93-b75b-4e21-abc0-37c4ee94542b,9768360445817,Saia,Vestuário,R$97.00,Concluída,2024-08-04,Christopher Matthews,clinerobert@example.net,New Zealand,7,5.21978021978022,5.6
+f4472b7f-d920-4700-9588-e93d8d3ae7f6,3139115253531,Boneca,Brinquedos,R$984.00,Cancelada,2023-11-10,Melanie Cobb,lisa85@example.org,Central African Republic,2,5.394736842105263,4.375
+9524e949-eafe-4f37-aa01-f2a6809b2c3c,6429385482869,Fones de Ouvido,Eletrônicos,R$277.00,Concluída,2023-10-11,William Lowe,matthewgrant@example.com,Kyrgyz Republic,6,5.326315789473684,7.25
+9de39a96-8468-4060-b010-cd2b5c4e5236,8088194304021,Feijão,Alimentos,R$793.00,Pendente,2023-12-16,Rachel Johnson,michael77@example.com,Bolivia,9,5.861386138613861,6.333333333333333
+e803c71d-c8e0-4cd2-a8ea-59898650c422,9512375969703,Impressora,Escritório,R$816.00,Pendente,2024-03-03,Rebecca Evans,veronica78@example.com,Cook Islands,10,5.842592592592593,10.0
+a494dfbf-dafb-4d9e-8505-143d90c16671,5765332761023,Câmera,Eletrônicos,R$820.00,Pendente,2024-07-12,Amanda Miller,scott17@example.net,Fiji,5,5.326315789473684,7.75
+942a9669-fa88-4be1-99df-f96c12b83a50,2642692519521,Feijão,Alimentos,R$772.00,Cancelada,2024-06-02,Melissa Oneill,dorseybrandy@example.com,Dominica,6,5.861386138613861,5.0
+45f405a3-14db-4678-80c3-beb6b2db5d1e,0478120019620,Vestido,Vestuário,R$385.00,Cancelada,2024-09-24,Taylor Rodriguez,bianca75@example.net,Denmark,5,5.21978021978022,5.166666666666667
+7db1a0a8-432e-48ab-81f6-ebb50d4489c9,9021743583644,Calculadora,Escritório,R$930.00,Pendente,2023-11-27,Kimberly Cox,terrinewman@example.net,Belize,5,5.842592592592593,5.714285714285714
+4c1a95b6-907e-483f-9280-850490f42231,2152366001196,Didático,Livros,R$279.00,Cancelada,2023-11-21,Gary Villanueva,kevin54@example.org,Hungary,4,5.7560975609756095,3.0
+381a1950-2f4f-4d63-9dc6-93add55e4828,3104020149699,SmartTV,Eletrônicos,R$698.00,Concluída,2024-02-05,Joseph Stevens,vweeks@example.org,Montserrat,9,5.326315789473684,4.428571428571429
+f44774bc-658c-4e1c-8459-8f827a5aa3dd,3928980494503,Calculadora,Escritório,R$921.00,Pendente,2024-09-29,Samantha Long,penny25@example.org,Timor-Leste,3,5.842592592592593,5.333333333333333
+00863ecd-4695-4a2a-b5fe-4f25dca46122,2907975241231,Roupa esportiva,Esporte,R$422.00,Cancelada,2024-02-18,Tamara Marshall,cassandra06@example.org,Algeria,4,5.68141592920354,5.333333333333333
+39787649-dd65-495a-b5da-8a036fec53ef,6918141456294,Macarrão,Alimentos,R$169.00,Concluída,2024-03-06,Jennifer Smith,lisa61@example.net,Cocos (Keeling) Islands,6,5.861386138613861,4.166666666666667
+8ede15c0-e75a-4498-ba24-9c1113b47131,6026360671685,Calculadora,Escritório,R$999.00,Concluída,2024-04-10,Sheila Hess,meyergerald@example.com,Tonga,4,5.842592592592593,7.333333333333333
+e56ea681-eb6e-4ed6-9843-09ce9728dec1,3198268557156,Macarrão,Alimentos,R$203.00,Cancelada,2024-04-13,Joseph Martinez,alexis57@example.org,Syrian Arab Republic,6,5.861386138613861,5.6
+ad0a0133-4f05-4e83-8a54-1dc011d4ef0d,2634903437106,Peixe,Alimentos,R$82.00,Cancelada,2024-01-22,Penny Woods,jonathanmcknight@example.net,Turkey,10,5.861386138613861,9.5
+ce7054c7-ad5d-4cc5-aefc-6bbbbd6c0c2b,7142679168827,Óculos de sol esportivos,Esporte,R$99.00,Pendente,2024-02-18,Charles Smith,robertwalker@example.net,Nicaragua,4,5.68141592920354,3.6666666666666665
+2f35f65e-4d72-4e44-a2db-88377bc7e319,1251308516802,Boneca,Brinquedos,R$280.00,Concluída,2024-03-30,Renee Case,jesuseverett@example.org,Zimbabwe,8,5.394736842105263,4.545454545454546
+3a027270-d84e-4638-9d0d-d09ac0222dd5,0984709040386,Sabonete,Beleza,R$172.00,Pendente,2024-05-14,Mr. Erik Woods Jr.,jeremy71@example.com,Madagascar,2,6.027522935779817,6.4
+56b33a4a-3dc0-41ed-87f4-30d6ce3eee22,0062227953095,Relógio Inteligente,Eletrônicos,R$65.00,Cancelada,2024-06-10,Jeffrey Smith,devinwalker@example.com,Wallis and Futuna,9,5.326315789473684,6.5
+fb67cf77-9542-4cd0-a4ba-b857ebef4d28,9666211314469,Esmalte,Beleza,R$419.00,Concluída,2024-04-27,Justin Madden,monica19@example.org,Monaco,7,6.027522935779817,6.666666666666667
+39dc5291-2b72-43d9-bced-9b586a56b932,9156122877103,Camiseta,Vestuário,R$778.00,Pendente,2024-06-13,David Winters,shannonsteele@example.com,Netherlands Antilles,9,5.21978021978022,6.5
+b0091399-28be-41a9-a886-4cb20325413a,5267281228034,Seguro viagem,Viagens,R$740.00,Concluída,2024-10-01,Adam Callahan,jessica04@example.org,Nepal,9,4.885416666666667,5.571428571428571
+f003b355-7d52-4c8e-8c42-b9774fe18ef5,1502763394369,Religioso,Livros,R$516.00,Concluída,2024-02-14,Alan Reeves,peterhouston@example.org,Tokelau,9,5.7560975609756095,5.0
+2114ef04-2149-41e7-9ecd-4e1872628604,2719645183570,Lego,Brinquedos,R$161.00,Cancelada,2024-03-03,Lisa May,millerrobert@example.com,United States Minor Outlying Islands,9,5.394736842105263,7.0
+fb8b44af-a0a4-4093-ab6e-efee5be76126,6565967321055,Óculos de sol esportivos,Esporte,R$598.00,Concluída,2024-05-17,Julie Rivera,morenorobert@example.org,Swaziland,1,5.68141592920354,5.0
+ae35102e-7111-4380-9bb6-ae326aa309b4,6255294869619,Tênis,Vestuário,R$170.00,Concluída,2024-06-13,Katherine Carney,eclark@example.org,Sierra Leone,9,5.21978021978022,8.0
+815952ba-b8f9-4ed3-b685-dcfb8dc5b643,5687296696602,Relógio Inteligente,Eletrônicos,R$747.00,Concluída,2024-04-08,Kara Morton,slewis@example.org,British Indian Ocean Territory (Chagos Archipelago),2,5.326315789473684,6.5
+52c0fa0b-c93d-466c-a9af-566e80c6d63e,8425838364858,Relógio Inteligente,Eletrônicos,R$80.00,Pendente,2024-07-21,Melissa Jones,christopher20@example.com,Malawi,8,5.326315789473684,5.444444444444445
+f3f98bc5-ba41-4aff-8b50-ea8032e34b98,2983680463847,Bicicleta,Brinquedos,R$90.00,Pendente,2024-07-09,David Howard,sarah65@example.org,Somalia,1,5.394736842105263,5.571428571428571
+de7d6985-3711-4deb-aa93-978b3b436cf9,5399553362556,Infantil,Livros,R$448.00,Concluída,2023-11-23,Cheryl James,igordon@example.com,Saint Lucia,2,5.7560975609756095,4.125
+76f60b25-dc13-45d0-8596-f123356a08d9,9617210644996,História,Livros,R$672.00,Cancelada,2023-10-09,Norman Allen,geoffrey65@example.com,Gibraltar,10,5.7560975609756095,6.666666666666667
+b46f4830-25cb-4432-9ed8-e9bc492a1f5e,7495093358528,Câmera,Eletrônicos,R$687.00,Concluída,2024-01-29,Daniel Gonzalez,janicecastillo@example.net,Suriname,4,5.326315789473684,3.5
+a8d33650-5421-47ee-8635-39ef84525baa,3554757797500,Grampeador,Escritório,R$908.00,Cancelada,2023-10-19,Stacy Reynolds,debra06@example.com,Bolivia,6,5.842592592592593,6.333333333333333
+163f4d18-11c3-448d-89b8-6d01b0425bb1,9965099364147,Tablet,Eletrônicos,R$437.00,Cancelada,2024-09-22,Dana Wilson,tharris@example.org,South Georgia and the South Sandwich Islands,2,5.326315789473684,4.333333333333333
+7fceb551-8abc-4c2d-b59e-a5afbebbfbbb,1163411734595,Microondas,Casa,R$24.00,Cancelada,2024-05-15,Laura Copeland,robert94@example.net,Ireland,10,6.032967032967033,8.0
+699711a2-2185-4766-8f96-d3b1dfe8e19e,4370734421614,Shampoo,Beleza,R$87.00,Cancelada,2024-08-30,Eddie Frederick,robinsonbarbara@example.net,Taiwan,8,6.027522935779817,5.4

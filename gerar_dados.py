@@ -1,49 +1,53 @@
 import pandas as pd
-import random
 from faker import Faker
+import random
 
-# Inicializar Faker
+# Criando um objeto Faker para gerar dados
 fake = Faker()
 
-# Parâmetros
-num_records = 300  # Número de registros a serem gerados
-countries = [fake.country() for _ in range(50)] 
-categories = ['Clothing', 'Electronics', 'Home & Kitchen', 'Books', 'Beauty', 'Toys', 'Sports', 'Automotive', 'Health', 'Office Supplies']
+# Dicionário de categorias e seus respectivos produtos
+categories = {
+    'Eletrônicos': ['Smartphone', 'Notebook', 'Tablet', 'SmartTV', 'Fones de Ouvido', 'Câmera', 'Console', 'Relógio Inteligente', 'Drone', 'Alexa'],
+    'Vestuário': ['Camiseta', 'Calça', 'Tênis', 'Vestido', 'Jaqueta', 'Saia', 'Blusa', 'Meia', 'Óculos', 'Cintos'],
+    'Alimentos': ['Arroz', 'Feijão', 'Macarrão', 'Leite', 'Ovos', 'Frutas', 'Verduras', 'Carne', 'Peixe', 'Pão'],
+    'Casa': ['Sofá', 'Cama', 'Mesa', 'Cadeira', 'Armário', 'Geladeira', 'Fogão', 'Microondas', 'Liquidificador', 'Aspirador de Pó'],
+    'Beleza': ['Shampoo', 'Condicionador', 'Maquiagem', 'Perfume', 'Hidratante', 'Sabonete', 'Esmalte', 'Batom', 'Máscara', 'Tônico'],
+    'Brinquedos': ['Boneca', 'Carro', 'Jogo de tabuleiro', 'Video game', 'Lego', 'Boneco de ação', 'Pelúcia', 'Patinete', 'Bicicleta', 'Bola'],
+    'Livros': ['Romance', 'Ficção', 'Não-ficção', 'Infantil', 'Didático', 'Religioso', 'Científico', 'História', 'Poesia', 'Autoajuda'],
+    'Esporte': ['Bola de futebol', 'Raquete de tênis', 'Chuteira', 'Barra fixa', 'Aparelho de musculação', 'Tênis de corrida', 'Roupa esportiva', 'Protetor bucal', 'Óculos de sol esportivos', 'Skate'],
+    'Escritório': ['Caderno', 'Caneta', 'Lápis', 'Borracha', 'Tesoura', 'Grampeador', 'Corretivo', 'Calculadora', 'Impressora', 'Computador'],
+    'Viagens': ['Passagem aérea', 'Hospedagem', 'Seguro viagem', 'Aluguel de carro', 'Passeio turístico', 'Cruzeiro', 'Mochila de viagem', 'Adaptador de tomada', 'Guia de viagem', 'Mala']
+}
 
-# Função para gerar dados falsos
-def generate_fake_ecommerce_data(num_records):
-    data = []
-    for _ in range(num_records):
-        order_id = fake.uuid4()  # ID único do pedido
-        sku = fake.ean8()  # SKU (código de barras)
-        product_name = fake.word().capitalize() + ' ' + fake.word().capitalize()  # Nome do produto
-        category = random.choice(categories)  # Categoria aleatória
-        amount = round(random.uniform(10.0, 500.0), 2)  # Preço aleatório entre 10 e 500
-        status = random.choice(['Shipped', 'Pending', 'Cancelled', 'Returned'])  # Status aleatório do pedido
-        date = fake.date_between(start_date='-1y', end_date='today')  # Data de venda nos últimos 12 meses
-        customer_name = fake.name()  # Nome do cliente
-        customer_email = fake.email()  # Email do cliente
-        pais = fake.country()
+# Função para gerar um dicionário com os dados de uma venda
+def gerar_venda():
+    categoria = random.choice(list(categories.keys()))
+    produto = random.choice(categories[categoria])
+    return {
+        'código_venda': fake.uuid4(),
+        'código_barras': fake.ean13(),
+        'nome_produto': produto,
+        'categoria_produto': categoria,
+        'preço_produto': f"R${(fake.random_int(min=10, max=1000)):.2f}",
+        'status_compra': fake.random_element(elements=('Concluída', 'Cancelada', 'Pendente')),
+        'data_compra': fake.date_between(start_date='-1y', end_date='now'),
+        'comprador': fake.name(),
+        'email_comprador': fake.email(),
+        'pais_compra': fake.country(),
+        'quantidade_comprada': fake.random_int(min=1, max=10)  # Quantidade de produtos por compra
+    }
 
-        data.append({
-            'Order ID': order_id,
-            'SKU': sku,
-            'Product Name': product_name,
-            'Category': category,
-            'Amount': amount,
-            'Status': status,
-            'Date': date,
-            'Customer Name': customer_name,
-            'Customer Email': customer_email,
-            'Pais': pais,
-        })
-    
-    return pd.DataFrame(data)
+# Gerando 1000 vendas
+vendas = [gerar_venda() for _ in range(1000)]
 
-# Gerar os dados
-fake_ecommerce_data = generate_fake_ecommerce_data(num_records)
+# Criando um DataFrame
+df = pd.DataFrame(vendas)
 
-# Salvar em um arquivo CSV
-fake_ecommerce_data.to_csv('dataset/fake_ecommerce_data.csv', index=False)
+# Calculando as médias
+df['média_por_categoria'] = df.groupby('categoria_produto')['quantidade_comprada'].transform('mean')
+df['média_por_pais'] = df.groupby('pais_compra')['quantidade_comprada'].transform('mean')
 
-print("Dados de e-commerce gerados e salvos em 'dataset/fake_ecommerce_data.csv'!")
+# Salvando o DataFrame em um arquivo CSV
+df.to_csv('dataset/vendas_com_quantidade.csv', index=False)
+
+print("Arquivo CSV gerado com sucesso!")

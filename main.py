@@ -2,92 +2,40 @@ import pandas as pd
 import plotly.express as px
 from dash import Dash, html, dcc
 
-# Inicializar o app Dash
 app = Dash(__name__)
 
-# Carregar os dados falsos gerados no CSV
-fake_data = pd.read_csv('dataset/fake_ecommerce_data.csv')
+df = pd.read_csv('dataset/vendas_com_quantidade.csv')
 
-# Garantir que a coluna 'Date' seja reconhecida como data
-fake_data['Date'] = pd.to_datetime(fake_data['Date'], errors='coerce')
+#fake_data['Date'] = pd.to_datetime(fake_data['Date'], errors='coerce')
 
-# Gráfico 1: Volume de vendas por status
-sales_status = fake_data.groupby('Status')['Amount'].sum().reset_index()
-fig1 = px.bar(sales_status, x='Status', y='Amount', title='Volume de Vendas por Status')
+# Gráfico de barras: Quantidade de vendas por status
+# Agrupando os dados por status e somando a quantidade
+status_counts = df.groupby('status_compra')['quantidade_comprada'].sum().reset_index()
 
-# Gráfico 2: Top 10 SKUs vendidos
-top_sku_sales = fake_data.groupby('SKU')['Amount'].sum().nlargest(10).reset_index()
-fig2 = px.bar(top_sku_sales, x='SKU', y='Amount', title='Top 10 SKUs Vendidos')
+# Criando o gráfico de barras
+fig1 = px.bar(status_counts, x='status_compra', y='quantidade_comprada', title='Quantidade de vendas por status')
 
-# Gráfico 3: Distribuição de vendas por categoria de produto
-sales_by_category = fake_data.groupby('Category')['Amount'].sum().reset_index()
-fig3 = px.pie(sales_by_category, values='Amount', names='Category', title='Distribuição de Vendas por Categoria')
+# Gráfico de pizza: Percentual de vendas por categoria
+fig2 = px.pie(df, names='categoria_produto', values='quantidade_comprada', title='Percentual de vendas por categoria')
 
-# Gráfico 4: Comparação de vendas ao longo do tempo
-sales_over_time = fake_data.groupby('Date')['Amount'].sum().reset_index()
-fig4 = px.line(sales_over_time, x='Date', y='Amount', title='Vendas ao Longo do Tempo')
+# Gráfico de linha: Número de vendas ao longo do tempo
+compras_ao_tempo = df.groupby('data_compra')['quantidade_comprada'].sum().reset_index()
+fig3 = px.line(compras_ao_tempo, x='data_compra', y='quantidade_comprada', title='Número de vendas ao longo do tempo')
 
-# Gráfico 5: Mapa das vendas por cidade com coloração baseada no valor de vendas
-fig5 = px.choropleth(
-    fake_data,
-    locations="Pais",  # Nome dos países
-    locationmode="country names",  # Modo baseado no nome dos países
-    color="Amount",  # Coluna para definir a cor (percentual de vendas)
-    hover_name="Pais",  # Nome a ser exibido ao passar o mouse
-    title='Distribuição Geográfica das Vendas por País',
-    color_continuous_scale=px.colors.sequential.Plasma  # Escala de cores
-)
+# Mapa de calor: Produtos mais vendidos por país (assumindo que você tem dados de país)
+fig4 = px.choropleth(df, locations="pais_compra", color="quantidade_comprada",
+                    hover_name="pais_compra",
+                    locationmode = 'country names',
+                    color_continuous_scale=px.colors.sequential.Plasma,
+                    title='Produtos mais vendidos por país')
 
-# Ajustar o layout do mapa
-fig5.update_layout(
-    geo=dict(
-        showframe=False,
-        showcoastlines=False,
-        projection_type='natural earth'  # Projeção do mapa
-    ),
-    coloraxis_colorbar=dict(
-        title="Percentual de Vendas",
-        ticks="outside"
-    )
-)
-
-# Layout do app
-app.layout = html.Div(children=[
-    html.H1(children='Dashboard de Vendas E-commerce'),
-
-    html.Div(children='Dash: Um exemplo de visualização de dados com dados falsos'),
-
-    # Exibir gráfico 1 (Volume de Vendas por Status)
-    dcc.Graph(
-        id='graph1',
-        figure=fig1
-    ),
-
-    # Exibir gráfico 2 (Top 10 SKUs Vendidos)
-    dcc.Graph(
-        id='graph2',
-        figure=fig2
-    ),
-
-    # Exibir gráfico 3 (Distribuição de Vendas por Categoria)
-    dcc.Graph(
-        id='graph3',
-        figure=fig3
-    ),
-
-    # Exibir gráfico 4 (Vendas ao Longo do Tempo)
-    dcc.Graph(
-        id='graph4',
-        figure=fig4
-    ),
-
-    # Exibir gráfico 5 (Distribuição Geográfica das Compras)
-    dcc.Graph(
-        id='graph5',
-        figure=fig5
-    ),
+app.layout = html.Div([
+    html.H1('Dashboard de Vendas'),
+    dcc.Graph(id='grafico-barras', figure=fig1),
+    dcc.Graph(id='grafico-pizza', figure=fig2),
+    dcc.Graph(id='grafico-linha', figure=fig3),
+    dcc.Graph(id='mapa-calor', figure=fig4)
 ])
 
-# Iniciar o servidor
 if __name__ == '__main__':
     app.run_server(debug=True)
